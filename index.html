@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en" class="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oldschool RuneScape #232.2 - NPC Database Viewer</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        github: {
+                            bg: '#0d1117',
+                            surface: '#161b22',
+                            border: '#30363d',
+                            text: '#e6edf3',
+                            muted: '#7d8590',
+                            accent: '#2f81f7',
+                            success: '#238636',
+                            warning: '#d29922',
+                            danger: '#da3633'
+                        }
+                    },
+                    fontFamily: {
+                        'github': ['-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Helvetica', 'Arial', 'sans-serif']
+                    },
+                    animation: {
+                        'fade-in': 'fadeIn 0.3s ease-in-out',
+                        'slide-up': 'slideUp 0.3s ease-out',
+                        'pulse-slow': 'pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite'
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        @keyframes slideUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body class="min-h-screen transition-colors duration-300 bg-white dark:bg-github-bg text-gray-900 dark:text-github-text font-github">
+    <div class="container mx-auto px-4 py-6 max-w-7xl">
+        <!-- Header -->
+        <header class="mb-8">
+            <div class="flex items-center justify-between mb-6">
+                <div class="flex items-center space-x-4">
+                    <div class="w-12 h-12 bg-gradient-to-br from-blue-500 to-purple-600 rounded-xl flex items-center justify-center shadow-lg">
+                        <svg class="w-7 h-7 text-white" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                        </svg>
+                    </div>
+                    <div>
+                        <h1 class="text-3xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
+                            RuneScape NPC Database
+                        </h1>
+                        <p class="text-sm text-gray-600 dark:text-github-muted mt-1">Version #232.2 - Live Data Collection</p>
+                    </div>
+                </div>
+                
+                <!-- Theme Toggle -->
+                <button id="theme-toggle" class="p-2 rounded-lg border border-gray-300 dark:border-github-border hover:bg-gray-100 dark:hover:bg-github-surface transition-colors duration-200">
+                    <svg class="w-5 h-5 dark:hidden" fill="currentColor" viewBox="0 0 20 20">
+                        <path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z"/>
+                    </svg>
+                    <svg class="w-5 h-5 hidden dark:block" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M10 2a1 1 0 011 1v1a1 1 0 11-2 0V3a1 1 0 011-1zm4 8a4 4 0 11-8 0 4 4 0 018 0zm-.464 4.95l.707.707a1 1 0 001.414-1.414l-.707-.707a1 1 0 00-1.414 1.414zm2.12-10.607a1 1 0 010 1.414l-.706.707a1 1 0 11-1.414-1.414l.707-.707a1 1 0 011.414 0zM17 11a1 1 0 100-2h-1a1 1 0 100 2h1zm-7 4a1 1 0 011 1v1a1 1 0 11-2 0v-1a1 1 0 011-1zM5.05 6.464A1 1 0 106.465 5.05l-.708-.707a1 1 0 00-1.414 1.414l.707.707zm1.414 8.486l-.707.707a1 1 0 01-1.414-1.414l.707-.707a1 1 0 011.414 1.414zM4 11a1 1 0 100-2H3a1 1 0 000 2h1z" clip-rule="evenodd"/>
+                    </svg>
+                </button>
+            </div>
+
+            <!-- Stats Cards -->
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
+                <div class="bg-gradient-to-r from-blue-50 to-blue-100 dark:from-blue-900/20 dark:to-blue-800/20 rounded-xl p-4 border border-blue-200 dark:border-blue-800">
+                    <div class="flex items-center space-x-3">
+                        <div class="w-10 h-10 bg-blue-500 rounded-lg flex items-center justify-center">
+                            <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 20 20">
+                                <path d="M9 6a3 3 0 11-6 0 3 3 0 016 0zM17 6a3 3 0 11-6 0 3 3 0 016 0zM12.93 17c.046-.327.07-.66.07-1a6.97 6.97 0 00-1.5-4.33A5 5 0 0119 16v1h-6.07zM6 11a5 5 0 015 5v1H1v-1a5 5 0 015-5z"/>
+                            </svg>
+                        </div>
+                        <div>
+                            <p class="text-sm text-gray-600 dark:text-github-muted">Total NPCs</p>
+                            <p id="total-npcs" class="text-xl font-bold text-blue-600 dark:text-blue-400">0</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="bg-gradient-to-r from-green-50 to-green-100 dark:from-green-900/20 dark:to-green-800/20 rounded-xl p-4 border border-green-200 dark:border-green-800">
+                    <div class="flex items-center space-x-3">
+                        <div class="w-10 h-10 bg-green-500 rounded-lg flex items-center justify-center">
+                            <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 20 20">
+                                <path fill-rule="evenodd" d="M3 3a1 1 0 000 2v8a2 2 0 002 2h2.586l-1.293 1.293a1 1 0 101.414 1.414L10 15.414l2.293 2.293a1 1 0 001.414-1.414L12.414 15H15a2 2 0 002-2V5a1 1 0 100-2H3zm11.707 4.707a1 1 0 00-1.414-1.414L10 9.586 8.707 8.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+                            </svg>
+                        </div>
+                        <div>
+                            <p class="text-sm text-gray-600 dark:text-github-muted">Showing</p>
+                            <p id="filtered-npcs" class="text-xl font-bold text-green-600 dark:text-green-400">0</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="bg-gradient-to-r from-purple-50 to-purple-100 dark:from-purple-900/20 dark:to-purple-800/20 rounded-xl p-4 border border-purple-200 dark:border-purple-800">
+                    <div class="flex items-center space-x-3">
+                        <div class="w-10 h-10 bg-purple-500 rounded-lg flex items-center justify-center">
+                            <div id="status-icon" class="w-3 h-3 bg-red-500 rounded-full animate-pulse-slow"></div>
+                        </div>
+                        <div>
+                            <p class="text-sm text-gray-600 dark:text-github-muted">Database Status</p>
+                            <p id="database-status" class="text-sm font-medium text-red-600 dark:text-red-400">Not loaded</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Controls -->
+        <div class="mb-6 bg-white dark:bg-github-surface rounded-xl border border-gray-200 dark:border-github-border p-6 shadow-sm">
+            <div class="space-y-4">
+                <!-- Search -->
+                <div class="flex gap-3">
+                    <div class="relative flex-1">
+                        <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                            <svg class="h-5 w-5 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+                                <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414L10 15.414l2.293 2.293a1 1 0 001.414-1.414L12.414 15H15a2 2 0 002-2V5a1 1 0 100-2H3a1 1 0 000 2h1z" clip-rule="evenodd"/>
+                            </svg>
+                        </div>
+                        <input type="text" id="search-input" 
+                               class="block w-full pl-10 pr-3 py-3 border border-gray-300 dark:border-github-border rounded-lg bg-white dark:bg-github-bg text-gray-900 dark:text-github-text placeholder-gray-500 dark:placeholder-github-muted focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all duration-200"
+                               placeholder="Search by name or ID...">
+                    </div>
+                    <button id="clear-search" 
+                            class="px-4 py-3 bg-gray-100 dark:bg-github-border text-gray-700 dark:text-github-text rounded-lg hover:bg-gray-200 dark:hover:bg-gray-600 transition-colors duration-200 font-medium">
+                        Clear
+                    </button>
+                </div>
+
+                <!-- Filters -->
+                <div class="flex flex-wrap gap-3">
+                    <select id="sort-by" 
+                            class="px-4 py-3 border border-gray-300 dark:border-github-border rounded-lg bg-white dark:bg-github-bg text-gray-900 dark:text-github-text focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all duration-200">
+                        <option value="id">Sort by ID</option>
+                        <option value="name">Sort by Name</option>
+                        <option value="encounters">Sort by Encounters</option>
+                        <option value="lastSeen">Sort by Last Seen</option>
+                    </select>
+                    
+                    <select id="filter-combat" 
+                            class="px-4 py-3 border border-gray-300 dark:border-github-border rounded-lg bg-white dark:bg-github-bg text-gray-900 dark:text-github-text focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all duration-200">
+                        <option value="">All Combat Levels</option>
+                        <option value="0">Non-combat</option>
+                        <option value="1-50">Level 1-50</option>
+                        <option value="51-100">Level 51-100</option>
+                        <option value="100+">Level 100+</option>
+                    </select>
+                    
+                    <button id="refresh-data" 
+                            class="px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-lg font-medium transition-colors duration-200 shadow-sm hover:shadow-md">
+                        <svg class="w-4 h-4 inline mr-2" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M4 2a1 1 0 011 1v2.101a7.002 7.002 0 0111.601 2.566 1 1 0 11-1.885.666A5.002 5.002 0 005.999 7H9a1 1 0 010 2H4a1 1 0 01-1-1V3a1 1 0 011-1zm.008 9.057a1 1 0 011.276.61A5.002 5.002 0 0014.001 13H11a1 1 0 110-2h5a1 1 0 011 1v5a1 1 0 11-2 0v-2.101a7.002 7.002 0 01-11.601-2.566 1 1 0 01.61-1.276z" clip-rule="evenodd"/>
+                        </svg>
+                        Refresh Database
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- NPC Grid -->
+        <div id="npc-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+            <div class="col-span-full flex flex-col items-center justify-center py-16 bg-white dark:bg-github-surface rounded-xl border border-gray-200 dark:border-github-border">
+                <div class="w-16 h-16 bg-gradient-to-br from-blue-500 to-purple-600 rounded-xl flex items-center justify-center mb-4 shadow-lg">
+                    <svg class="w-8 h-8 text-white animate-pulse-slow" fill="currentColor" viewBox="0 0 20 20">
+                        <path d="M3 4a1 1 0 011-1h12a1 1 0 011 1v2a1 1 0 01-1 1H4a1 1 0 01-1-1V4zM3 10a1 1 0 011-1h6a1 1 0 011 1v6a1 1 0 01-1 1H4a1 1 0 01-1-1v-6zM14 9a1 1 0 00-1 1v6a1 1 0 001 1h2a1 1 0 001-1v-6a1 1 0 00-1-1h-2z"/>
+                    </svg>
+                </div>
+                <h3 class="text-xl font-semibold text-gray-900 dark:text-github-text mb-2">Loading NPC Database</h3>
+                <p class="text-gray-600 dark:text-github-muted text-center max-w-md">
+                    Automatically loading the latest NPC data collected by your bot...
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal for detailed NPC view -->
+    <div id="npc-modal" class="fixed inset-0 bg-black bg-opacity-50 backdrop-blur-sm hidden z-50 animate-fade-in">
+        <div class="flex items-center justify-center min-h-screen p-4">
+            <div class="bg-white dark:bg-github-surface rounded-xl shadow-2xl w-full max-w-4xl max-h-[90vh] overflow-hidden animate-slide-up">
+                <div class="bg-gradient-to-r from-blue-600 to-purple-600 px-6 py-4 flex justify-between items-center">
+                    <h2 id="modal-npc-name" class="text-xl font-bold text-white">NPC Details</h2>
+                    <button class="close text-white hover:text-gray-200 transition-colors duration-200">
+                        <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"/>
+                        </svg>
+                    </button>
+                </div>
+                <div id="modal-body" class="p-6 overflow-y-auto max-h-[calc(90vh-80px)] bg-white dark:bg-github-surface text-gray-900 dark:text-github-text">
+                    <!-- Content will be populated by JavaScript -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="npc_viewer.js"></script>
+    <script>
+        // Theme toggle functionality
+        const themeToggle = document.getElementById('theme-toggle');
+        const html = document.documentElement;
+        
+        // Check for saved theme preference or default to light
+        const savedTheme = localStorage.getItem('theme') || 'light';
+        html.classList.toggle('dark', savedTheme === 'dark');
+        
+        themeToggle.addEventListener('click', () => {
+            const isDark = html.classList.toggle('dark');
+            localStorage.setItem('theme', isDark ? 'dark' : 'light');
+        });
+
+        // Update status indicator
+        function updateStatus(loaded) {
+            const statusIcon = document.getElementById('status-icon');
+            const statusText = document.getElementById('database-status');
+            
+            if (loaded) {
+                statusIcon.className = 'w-3 h-3 bg-green-500 rounded-full';
+                statusText.textContent = 'Connected';
+                statusText.className = 'text-sm font-medium text-green-600 dark:text-green-400';
+            } else {
+                statusIcon.className = 'w-3 h-3 bg-red-500 rounded-full animate-pulse-slow';
+                statusText.textContent = 'Not loaded';
+                statusText.className = 'text-sm font-medium text-red-600 dark:text-red-400';
+            }
+        }
+    </script>
+</body>
+</html>
