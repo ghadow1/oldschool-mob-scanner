@@ -92,6 +92,36 @@
     "timesEncountered": 78,
     "firstSeen": 1754849956165
   },
+  "2070": {
+    "id": 2070,
+    "name": "Crow",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1642, 3520, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955041943,
+    "timesEncountered": 2,
+    "firstSeen": 1754955041180
+  },
+  "2071": {
+    "id": 2071,
+    "name": "Crow",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1690, 3623, 0)",
+      "Coordinate(1689, 3623, 0)",
+      "Coordinate(1689, 3624, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955872196,
+    "timesEncountered": 4,
+    "firstSeen": 1754955869880
+  },
   "24": {
     "id": 24,
     "name": "Monkey",
@@ -108,6 +138,23 @@
     "timesEncountered": 21,
     "firstSeen": 1754946586132
   },
+  "2072": {
+    "id": 2072,
+    "name": "Crow",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1702, 3612, 0)",
+      "Coordinate(1701, 3612, 0)",
+      "Coordinate(1689, 3615, 0)",
+      "Coordinate(1689, 3614, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955879937,
+    "timesEncountered": 17,
+    "firstSeen": 1754955864071
+  },
   "6170": {
     "id": 6170,
     "name": "Sophanem Guard",
@@ -121,6 +168,20 @@
     "lastSeen": 1754946609176,
     "timesEncountered": 15,
     "firstSeen": 1754946598651
+  },
+  "2074": {
+    "id": 2074,
+    "name": "Crow",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1694, 3604, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955873268,
+    "timesEncountered": 18,
+    "firstSeen": 1754955860224
   },
   "6175": {
     "id": 6175,
@@ -424,13 +485,16 @@
       "Coordinate(2549, 3410, 0)",
       "Coordinate(2549, 3411, 0)",
       "Coordinate(2548, 3409, 0)",
-      "Coordinate(2548, 3408, 0)"
+      "Coordinate(2548, 3408, 0)",
+      "Coordinate(1512, 3504, 0)",
+      "Coordinate(1512, 3506, 0)",
+      "Coordinate(1513, 3506, 0)"
     ],
     "standingAnimation": 4657,
     "maxHealth": 0,
     "combatLevel": 42,
-    "lastSeen": 1754954071830,
-    "timesEncountered": 294,
+    "lastSeen": 1754955290679,
+    "timesEncountered": 299,
     "firstSeen": 1754875437305
   },
   "6186": {
@@ -500,13 +564,16 @@
       "Coordinate(2553, 3410, 0)",
       "Coordinate(2554, 3409, 0)",
       "Coordinate(2552, 3407, 0)",
-      "Coordinate(2553, 3408, 0)"
+      "Coordinate(2553, 3408, 0)",
+      "Coordinate(1520, 3507, 0)",
+      "Coordinate(1519, 3506, 0)",
+      "Coordinate(1519, 3505, 0)"
     ],
     "standingAnimation": 4657,
     "maxHealth": 0,
     "combatLevel": 42,
-    "lastSeen": 1754954072140,
-    "timesEncountered": 293,
+    "lastSeen": 1754955292115,
+    "timesEncountered": 298,
     "firstSeen": 1754875434446
   },
   "2092": {
@@ -531,13 +598,16 @@
       "Coordinate(2557, 3401, 0)",
       "Coordinate(2556, 3401, 0)",
       "Coordinate(2555, 3400, 0)",
-      "Coordinate(2553, 3402, 0)"
+      "Coordinate(2553, 3402, 0)",
+      "Coordinate(1514, 3501, 0)",
+      "Coordinate(1515, 3500, 0)",
+      "Coordinate(1516, 3500, 0)"
     ],
     "standingAnimation": 4657,
     "maxHealth": 0,
     "combatLevel": 42,
-    "lastSeen": 1754954057587,
-    "timesEncountered": 339,
+    "lastSeen": 1754955291729,
+    "timesEncountered": 359,
     "firstSeen": 1754875433741
   },
   "2093": {
@@ -564,13 +634,16 @@
       "Coordinate(2555, 3406, 0)",
       "Coordinate(2553, 3409, 0)",
       "Coordinate(2554, 3409, 0)",
-      "Coordinate(2557, 3406, 0)"
+      "Coordinate(2557, 3406, 0)",
+      "Coordinate(1522, 3504, 0)",
+      "Coordinate(1523, 3503, 0)",
+      "Coordinate(1523, 3502, 0)"
     ],
     "standingAnimation": 4657,
     "maxHealth": 0,
     "combatLevel": 42,
-    "lastSeen": 1754954058012,
-    "timesEncountered": 310,
+    "lastSeen": 1754955297106,
+    "timesEncountered": 328,
     "firstSeen": 1754875433731
   },
   "2094": {
@@ -3047,6 +3120,68 @@
     "timesEncountered": 40,
     "firstSeen": 1754946129065
   },
+  "2145": {
+    "id": 2145,
+    "name": "Undead Druid",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1849, 9941, 0)",
+      "Coordinate(1803, 9942, 0)",
+      "Coordinate(1808, 9967, 0)",
+      "Coordinate(1802, 9939, 0)",
+      "Coordinate(1800, 9940, 0)",
+      "Coordinate(1810, 9961, 0)",
+      "Coordinate(1811, 9967, 0)",
+      "Coordinate(1809, 9961, 0)",
+      "Coordinate(1801, 9938, 0)",
+      "Coordinate(1808, 9968, 0)",
+      "Coordinate(1800, 9935, 0)",
+      "Coordinate(1846, 9939, 0)",
+      "Coordinate(1809, 9960, 0)",
+      "Coordinate(1807, 9965, 0)",
+      "Coordinate(1808, 9962, 0)",
+      "Coordinate(1812, 9967, 0)",
+      "Coordinate(1811, 9960, 0)",
+      "Coordinate(1809, 9967, 0)",
+      "Coordinate(1811, 9961, 0)",
+      "Coordinate(1803, 9935, 0)",
+      "Coordinate(1802, 9942, 0)",
+      "Coordinate(1799, 9935, 0)",
+      "Coordinate(1808, 9961, 0)",
+      "Coordinate(1809, 9968, 0)",
+      "Coordinate(1813, 9968, 0)",
+      "Coordinate(1807, 9963, 0)",
+      "Coordinate(1851, 9942, 0)",
+      "Coordinate(1801, 9935, 0)",
+      "Coordinate(1802, 9941, 0)",
+      "Coordinate(1805, 9942, 0)",
+      "Coordinate(1800, 9937, 0)",
+      "Coordinate(1813, 9967, 0)",
+      "Coordinate(1809, 9969, 0)",
+      "Coordinate(1849, 9939, 0)",
+      "Coordinate(1800, 9936, 0)",
+      "Coordinate(1802, 9940, 0)",
+      "Coordinate(1849, 9935, 0)",
+      "Coordinate(1807, 9961, 0)",
+      "Coordinate(1802, 9935, 0)",
+      "Coordinate(1848, 9938, 0)",
+      "Coordinate(1798, 9935, 0)",
+      "Coordinate(1810, 9960, 0)",
+      "Coordinate(1807, 9967, 0)",
+      "Coordinate(1801, 9937, 0)",
+      "Coordinate(1849, 9936, 0)",
+      "Coordinate(1800, 9939, 0)",
+      "Coordinate(1810, 9968, 0)",
+      "Coordinate(1804, 9942, 0)",
+      "Coordinate(1807, 9968, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 105,
+    "lastSeen": 1754955959166,
+    "timesEncountered": 157,
+    "firstSeen": 1754955444284
+  },
   "6242": {
     "id": 6242,
     "name": "Chair",
@@ -3262,13 +3397,39 @@
       "Coordinate(2618, 3282, 0)",
       "Coordinate(2619, 3282, 0)",
       "Coordinate(2620, 3282, 0)",
-      "Coordinate(2621, 3284, 0)"
+      "Coordinate(2621, 3284, 0)",
+      "Coordinate(1661, 3547, 0)",
+      "Coordinate(1662, 3550, 0)",
+      "Coordinate(1662, 3552, 0)",
+      "Coordinate(1662, 3551, 0)",
+      "Coordinate(1663, 3548, 0)",
+      "Coordinate(1663, 3553, 0)",
+      "Coordinate(1664, 3553, 0)",
+      "Coordinate(1665, 3553, 0)",
+      "Coordinate(1666, 3553, 0)",
+      "Coordinate(1667, 3553, 0)",
+      "Coordinate(1668, 3552, 0)",
+      "Coordinate(1669, 3552, 0)",
+      "Coordinate(1670, 3552, 0)",
+      "Coordinate(1668, 3553, 0)",
+      "Coordinate(1671, 3555, 0)",
+      "Coordinate(1668, 3555, 0)",
+      "Coordinate(1672, 3556, 0)",
+      "Coordinate(1673, 3556, 0)",
+      "Coordinate(1674, 3557, 0)",
+      "Coordinate(1675, 3558, 0)",
+      "Coordinate(1676, 3558, 0)",
+      "Coordinate(1675, 3557, 0)",
+      "Coordinate(1674, 3558, 0)",
+      "Coordinate(1674, 3556, 0)",
+      "Coordinate(1672, 3555, 0)",
+      "Coordinate(1670, 3556, 0)"
     ],
     "standingAnimation": 6559,
     "maxHealth": 0,
     "combatLevel": 64,
-    "lastSeen": 1754953628708,
-    "timesEncountered": 264,
+    "lastSeen": 1754955893201,
+    "timesEncountered": 411,
     "firstSeen": 1754947093812
   },
   "6250": {
@@ -3832,6 +3993,28 @@
     "timesEncountered": 19,
     "firstSeen": 1754849359575
   },
+  "10422": {
+    "id": 10422,
+    "name": "Mariah",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1765, 3621, 0)",
+      "Coordinate(1766, 3623, 0)",
+      "Coordinate(1767, 3623, 0)",
+      "Coordinate(1766, 3622, 0)",
+      "Coordinate(1766, 3621, 0)",
+      "Coordinate(1766, 3620, 0)",
+      "Coordinate(1767, 3622, 0)",
+      "Coordinate(1765, 3623, 0)",
+      "Coordinate(1765, 3622, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955821409,
+    "timesEncountered": 45,
+    "firstSeen": 1754955788256
+  },
   "4279": {
     "id": 4279,
     "name": "Jail guard",
@@ -3846,6 +4029,22 @@
     "lastSeen": 1754878176146,
     "timesEncountered": 10,
     "firstSeen": 1754878169553
+  },
+  "10423": {
+    "id": 10423,
+    "name": "Leela",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1783, 3592, 0)",
+      "Coordinate(1784, 3590, 0)",
+      "Coordinate(1784, 3592, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955833680,
+    "timesEncountered": 15,
+    "firstSeen": 1754955820691
   },
   "4280": {
     "id": 4280,
@@ -3972,6 +4171,22 @@
     "lastSeen": 1754849193426,
     "timesEncountered": 46,
     "firstSeen": 1754849185377
+  },
+  "10431": {
+    "id": 10431,
+    "name": "Angelo",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1782, 3625, 0)",
+      "Coordinate(1781, 3625, 0)",
+      "Coordinate(1782, 3624, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 1,
+    "lastSeen": 1754955819528,
+    "timesEncountered": 24,
+    "firstSeen": 1754955802216
   },
   "4288": {
     "id": 4288,
@@ -4242,14 +4457,62 @@
       "Coordinate(2563, 3443, 0)",
       "Coordinate(2563, 3442, 0)",
       "Coordinate(2563, 3441, 0)",
-      "Coordinate(2562, 3439, 0)"
+      "Coordinate(2562, 3439, 0)",
+      "Coordinate(1704, 3602, 0)",
+      "Coordinate(1688, 3602, 0)",
+      "Coordinate(1687, 3603, 0)",
+      "Coordinate(1685, 3604, 0)",
+      "Coordinate(1684, 3605, 0)",
+      "Coordinate(1683, 3606, 0)",
+      "Coordinate(1682, 3607, 0)",
+      "Coordinate(1681, 3607, 0)",
+      "Coordinate(1680, 3607, 0)",
+      "Coordinate(1680, 3608, 0)",
+      "Coordinate(1682, 3605, 0)",
+      "Coordinate(1654, 3599, 0)",
+      "Coordinate(1683, 3602, 0)",
+      "Coordinate(1683, 3601, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754954099583,
-    "timesEncountered": 264,
+    "lastSeen": 1754955884027,
+    "timesEncountered": 300,
     "firstSeen": 1754849366839
+  },
+  "235": {
+    "id": 235,
+    "name": "Butterfly",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1687, 3613, 0)",
+      "Coordinate(1677, 3596, 0)",
+      "Coordinate(1705, 3602, 0)",
+      "Coordinate(1688, 3615, 0)",
+      "Coordinate(1660, 3594, 0)",
+      "Coordinate(1678, 3594, 0)",
+      "Coordinate(1706, 3602, 0)",
+      "Coordinate(1687, 3617, 0)",
+      "Coordinate(1689, 3614, 0)",
+      "Coordinate(1682, 3593, 0)",
+      "Coordinate(1705, 3603, 0)",
+      "Coordinate(1680, 3593, 0)",
+      "Coordinate(1688, 3614, 0)",
+      "Coordinate(1677, 3595, 0)",
+      "Coordinate(1687, 3614, 0)",
+      "Coordinate(1679, 3594, 0)",
+      "Coordinate(1681, 3593, 0)",
+      "Coordinate(1687, 3616, 0)",
+      "Coordinate(1704, 3604, 0)",
+      "Coordinate(1689, 3615, 0)",
+      "Coordinate(1707, 3603, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955887917,
+    "timesEncountered": 42,
+    "firstSeen": 1754955856694
   },
   "236": {
     "id": 236,
@@ -4286,6 +4549,23 @@
     "lastSeen": 1754849194548,
     "timesEncountered": 111,
     "firstSeen": 1754849154225
+  },
+  "237": {
+    "id": 237,
+    "name": "Butterfly",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1702, 3604, 0)",
+      "Coordinate(1703, 3604, 0)",
+      "Coordinate(1700, 3604, 0)",
+      "Coordinate(1699, 3603, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955866742,
+    "timesEncountered": 11,
+    "firstSeen": 1754955859018
   },
   "238": {
     "id": 238,
@@ -4370,10 +4650,69 @@
     "timesEncountered": 193,
     "firstSeen": 1754849333656
   },
+  "244": {
+    "id": 244,
+    "name": "Baby red dragon",
+    "animations": [
+      26
+    ],
+    "spawnAreas": [
+      "Coordinate(1809, 9938, 0)",
+      "Coordinate(1815, 9933, 0)",
+      "Coordinate(1828, 9938, 0)",
+      "Coordinate(1815, 9939, 0)",
+      "Coordinate(1818, 9933, 0)",
+      "Coordinate(1827, 9937, 0)",
+      "Coordinate(1806, 9978, 0)",
+      "Coordinate(1811, 9937, 0)",
+      "Coordinate(1806, 9938, 0)",
+      "Coordinate(1828, 9944, 0)",
+      "Coordinate(1814, 9933, 0)",
+      "Coordinate(1827, 9938, 0)",
+      "Coordinate(1826, 9931, 0)",
+      "Coordinate(1815, 9935, 0)",
+      "Coordinate(1808, 9938, 0)",
+      "Coordinate(1817, 9934, 0)",
+      "Coordinate(1810, 9938, 0)",
+      "Coordinate(1828, 9928, 0)",
+      "Coordinate(1826, 9929, 0)",
+      "Coordinate(1805, 9938, 0)",
+      "Coordinate(1807, 9938, 0)",
+      "Coordinate(1818, 9934, 0)",
+      "Coordinate(1828, 9929, 0)",
+      "Coordinate(1826, 9938, 0)"
+    ],
+    "standingAnimation": 26,
+    "maxHealth": 0,
+    "combatLevel": 48,
+    "lastSeen": 1754955990024,
+    "timesEncountered": 88,
+    "firstSeen": 1754955467920
+  },
+  "247": {
+    "id": 247,
+    "name": "Red dragon",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1811, 9933, 0)",
+      "Coordinate(1824, 9933, 0)",
+      "Coordinate(1812, 9933, 0)",
+      "Coordinate(1813, 9933, 0)",
+      "Coordinate(1823, 9933, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 152,
+    "lastSeen": 1754955955724,
+    "timesEncountered": 75,
+    "firstSeen": 1754955468696
+  },
   "248": {
     "id": 248,
     "name": "Red dragon",
-    "animations": [],
+    "animations": [
+      80
+    ],
     "spawnAreas": [
       "Coordinate(1917, 8999, 1)",
       "Coordinate(1916, 9004, 1)",
@@ -4417,14 +4756,44 @@
       "Coordinate(1914, 9001, 1)",
       "Coordinate(1918, 8997, 1)",
       "Coordinate(1912, 9002, 1)",
-      "Coordinate(1907, 8996, 1)"
+      "Coordinate(1907, 8996, 1)",
+      "Coordinate(1817, 9934, 0)",
+      "Coordinate(1817, 9936, 0)",
+      "Coordinate(1816, 9935, 0)",
+      "Coordinate(1815, 9935, 0)",
+      "Coordinate(1812, 9937, 0)",
+      "Coordinate(1812, 9977, 0)",
+      "Coordinate(1813, 9937, 0)",
+      "Coordinate(1814, 9937, 0)",
+      "Coordinate(1815, 9937, 0)",
+      "Coordinate(1816, 9938, 0)",
+      "Coordinate(1817, 9938, 0)",
+      "Coordinate(1815, 9936, 0)",
+      "Coordinate(1816, 9937, 0)",
+      "Coordinate(1816, 9939, 0)"
+    ],
+    "standingAnimation": 80,
+    "maxHealth": 0,
+    "combatLevel": 152,
+    "lastSeen": 1754955952182,
+    "timesEncountered": 171,
+    "firstSeen": 1754947174087
+  },
+  "249": {
+    "id": 249,
+    "name": "Red dragon",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1816, 9927, 0)",
+      "Coordinate(1822, 9937, 0)",
+      "Coordinate(1817, 9927, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 152,
-    "lastSeen": 1754947301472,
-    "timesEncountered": 99,
-    "firstSeen": 1754947174087
+    "lastSeen": 1754955955329,
+    "timesEncountered": 64,
+    "firstSeen": 1754955467248
   },
   "250": {
     "id": 250,
@@ -4458,13 +4827,15 @@
       "Coordinate(1910, 9002, 1)",
       "Coordinate(1909, 8999, 1)",
       "Coordinate(1907, 9003, 1)",
-      "Coordinate(1912, 9002, 1)"
+      "Coordinate(1912, 9002, 1)",
+      "Coordinate(1821, 9929, 0)",
+      "Coordinate(1820, 9929, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 152,
-    "lastSeen": 1754947300771,
-    "timesEncountered": 93,
+    "lastSeen": 1754955954903,
+    "timesEncountered": 141,
     "firstSeen": 1754947175997
   },
   "251": {
@@ -5711,6 +6082,66 @@
     "timesEncountered": 9,
     "firstSeen": 1754922051401
   },
+  "397": {
+    "id": 397,
+    "name": "Guard",
+    "animations": [
+      836,
+      425,
+      426
+    ],
+    "spawnAreas": [
+      "Coordinate(1762, 3564, 0)",
+      "Coordinate(1771, 3635, 0)",
+      "Coordinate(1772, 3632, 0)",
+      "Coordinate(1770, 3635, 0)",
+      "Coordinate(1765, 3563, 0)",
+      "Coordinate(1772, 3630, 0)",
+      "Coordinate(1770, 3631, 0)",
+      "Coordinate(1772, 3633, 0)",
+      "Coordinate(1772, 3635, 0)",
+      "Coordinate(1761, 3565, 0)",
+      "Coordinate(1765, 3562, 0)",
+      "Coordinate(1772, 3631, 0)",
+      "Coordinate(1763, 3563, 0)",
+      "Coordinate(1772, 3634, 0)",
+      "Coordinate(1761, 3566, 0)"
+    ],
+    "standingAnimation": 426,
+    "maxHealth": 0,
+    "combatLevel": 22,
+    "lastSeen": 1754955816046,
+    "timesEncountered": 47,
+    "firstSeen": 1754955708959
+  },
+  "398": {
+    "id": 398,
+    "name": "Guard",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1782, 3596, 0)",
+      "Coordinate(1783, 3596, 0)",
+      "Coordinate(1782, 3595, 0)",
+      "Coordinate(1741, 3589, 0)",
+      "Coordinate(1738, 3593, 0)",
+      "Coordinate(1743, 3563, 0)",
+      "Coordinate(1744, 3589, 0)",
+      "Coordinate(1739, 3593, 0)",
+      "Coordinate(1740, 3591, 0)",
+      "Coordinate(1742, 3589, 0)",
+      "Coordinate(1742, 3590, 0)",
+      "Coordinate(1739, 3592, 0)",
+      "Coordinate(1788, 3596, 0)",
+      "Coordinate(1741, 3590, 0)",
+      "Coordinate(1743, 3589, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 22,
+    "lastSeen": 1754955852543,
+    "timesEncountered": 78,
+    "firstSeen": 1754955729999
+  },
   "10638": {
     "id": 10638,
     "name": "Willow",
@@ -5724,6 +6155,47 @@
     "lastSeen": 1754927590374,
     "timesEncountered": 84,
     "firstSeen": 1754921624635
+  },
+  "399": {
+    "id": 399,
+    "name": "Guard",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1769, 3634, 0)",
+      "Coordinate(1745, 3561, 0)",
+      "Coordinate(1770, 3633, 0)",
+      "Coordinate(1786, 3597, 0)",
+      "Coordinate(1774, 3636, 0)",
+      "Coordinate(1743, 3562, 0)",
+      "Coordinate(1746, 3563, 0)",
+      "Coordinate(1746, 3562, 0)",
+      "Coordinate(1772, 3631, 0)",
+      "Coordinate(1773, 3638, 0)",
+      "Coordinate(1769, 3636, 0)",
+      "Coordinate(1783, 3595, 0)",
+      "Coordinate(1743, 3561, 0)",
+      "Coordinate(1771, 3638, 0)",
+      "Coordinate(1774, 3635, 0)",
+      "Coordinate(1770, 3637, 0)",
+      "Coordinate(1768, 3635, 0)",
+      "Coordinate(1747, 3563, 0)",
+      "Coordinate(1744, 3562, 0)",
+      "Coordinate(1784, 3596, 0)",
+      "Coordinate(1774, 3630, 0)",
+      "Coordinate(1774, 3634, 0)",
+      "Coordinate(1774, 3633, 0)",
+      "Coordinate(1745, 3562, 0)",
+      "Coordinate(1771, 3632, 0)",
+      "Coordinate(1744, 3561, 0)",
+      "Coordinate(1774, 3637, 0)",
+      "Coordinate(1767, 3635, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 19,
+    "lastSeen": 1754955832564,
+    "timesEncountered": 54,
+    "firstSeen": 1754955729625
   },
   "10639": {
     "id": 10639,
@@ -5742,6 +6214,39 @@
     "lastSeen": 1754928762491,
     "timesEncountered": 23,
     "firstSeen": 1754928746003
+  },
+  "400": {
+    "id": 400,
+    "name": "Guard",
+    "animations": [
+      836,
+      2078,
+      2079
+    ],
+    "spawnAreas": [
+      "Coordinate(1735, 3589, 0)",
+      "Coordinate(1759, 3566, 0)",
+      "Coordinate(1760, 3565, 0)",
+      "Coordinate(1756, 3569, 0)",
+      "Coordinate(1759, 3570, 0)",
+      "Coordinate(1734, 3591, 0)",
+      "Coordinate(1757, 3568, 0)",
+      "Coordinate(1734, 3589, 0)",
+      "Coordinate(1735, 3591, 0)",
+      "Coordinate(1760, 3566, 0)",
+      "Coordinate(1736, 3594, 0)",
+      "Coordinate(1758, 3567, 0)",
+      "Coordinate(1735, 3592, 0)",
+      "Coordinate(1758, 3569, 0)",
+      "Coordinate(1761, 3566, 0)",
+      "Coordinate(1755, 3570, 0)"
+    ],
+    "standingAnimation": 2079,
+    "maxHealth": 0,
+    "combatLevel": 19,
+    "lastSeen": 1754955857071,
+    "timesEncountered": 80,
+    "firstSeen": 1754955709751
   },
   "10641": {
     "id": 10641,
@@ -5996,6 +6501,20 @@
     "lastSeen": 1754928944138,
     "timesEncountered": 79,
     "firstSeen": 1754928887070
+  },
+  "12705": {
+    "id": 12705,
+    "name": "Buneir",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1572, 3465, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955320639,
+    "timesEncountered": 13,
+    "firstSeen": 1754955311616
   },
   "10658": {
     "id": 10658,
@@ -6640,6 +7159,78 @@
     "timesEncountered": 493,
     "firstSeen": 1754874493907
   },
+  "10717": {
+    "id": 10717,
+    "name": "Skeleton",
+    "animations": [
+      5489,
+      5491,
+      5485
+    ],
+    "spawnAreas": [
+      "Coordinate(1680, 3575, 0)",
+      "Coordinate(1678, 3574, 0)",
+      "Coordinate(1675, 3573, 0)",
+      "Coordinate(1675, 3575, 0)",
+      "Coordinate(1677, 3575, 0)",
+      "Coordinate(1679, 3576, 0)",
+      "Coordinate(1676, 3576, 0)",
+      "Coordinate(1680, 3574, 0)",
+      "Coordinate(1679, 3578, 0)",
+      "Coordinate(1675, 3576, 0)",
+      "Coordinate(1675, 3572, 0)",
+      "Coordinate(1677, 3574, 0)",
+      "Coordinate(1679, 3577, 0)",
+      "Coordinate(1677, 3576, 0)",
+      "Coordinate(1679, 3575, 0)"
+    ],
+    "standingAnimation": 5485,
+    "maxHealth": 0,
+    "combatLevel": 25,
+    "lastSeen": 1754955893206,
+    "timesEncountered": 59,
+    "firstSeen": 1754955438455
+  },
+  "10718": {
+    "id": 10718,
+    "name": "Skeleton",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1674, 3568, 0)",
+      "Coordinate(1682, 3573, 0)",
+      "Coordinate(1673, 3568, 0)",
+      "Coordinate(1674, 3569, 0)",
+      "Coordinate(1680, 3572, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 25,
+    "lastSeen": 1754955892773,
+    "timesEncountered": 68,
+    "firstSeen": 1754955436603
+  },
+  "10719": {
+    "id": 10719,
+    "name": "Skeleton",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1669, 3573, 0)",
+      "Coordinate(1680, 3569, 0)",
+      "Coordinate(1670, 3574, 0)",
+      "Coordinate(1681, 3568, 0)",
+      "Coordinate(1679, 3569, 0)",
+      "Coordinate(1679, 3568, 0)",
+      "Coordinate(1669, 3574, 0)",
+      "Coordinate(1678, 3568, 0)",
+      "Coordinate(1680, 3570, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 25,
+    "lastSeen": 1754955893203,
+    "timesEncountered": 69,
+    "firstSeen": 1754955436607
+  },
   "4576": {
     "id": 4576,
     "name": "Bones",
@@ -6655,6 +7246,50 @@
     "lastSeen": 1754953691754,
     "timesEncountered": 13,
     "firstSeen": 1754953682593
+  },
+  "10720": {
+    "id": 10720,
+    "name": "Skeleton",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1677, 3577, 0)",
+      "Coordinate(1676, 3575, 0)",
+      "Coordinate(1678, 3577, 0)",
+      "Coordinate(1678, 3576, 0)",
+      "Coordinate(1677, 3576, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 25,
+    "lastSeen": 1754955893210,
+    "timesEncountered": 62,
+    "firstSeen": 1754955439198
+  },
+  "10721": {
+    "id": 10721,
+    "name": "Skeleton",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1674, 3573, 0)",
+      "Coordinate(1675, 3573, 0)",
+      "Coordinate(1675, 3575, 0)",
+      "Coordinate(1674, 3576, 0)",
+      "Coordinate(1676, 3573, 0)",
+      "Coordinate(1673, 3574, 0)",
+      "Coordinate(1675, 3571, 0)",
+      "Coordinate(1673, 3572, 0)",
+      "Coordinate(1672, 3572, 0)",
+      "Coordinate(1677, 3573, 0)",
+      "Coordinate(1675, 3572, 0)",
+      "Coordinate(1674, 3571, 0)",
+      "Coordinate(1673, 3571, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 25,
+    "lastSeen": 1754955893205,
+    "timesEncountered": 66,
+    "firstSeen": 1754955438000
   },
   "8681": {
     "id": 8681,
@@ -6687,6 +7322,20 @@
     "lastSeen": 1754953606667,
     "timesEncountered": 164,
     "firstSeen": 1754953352895
+  },
+  "6633": {
+    "id": 6633,
+    "name": "Zilyana Jr.",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1589, 3480, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955026392,
+    "timesEncountered": 15,
+    "firstSeen": 1754955015857
   },
   "8682": {
     "id": 8682,
@@ -7394,6 +8043,48 @@
     "timesEncountered": 22,
     "firstSeen": 1754938728022
   },
+  "8703": {
+    "id": 8703,
+    "name": "Temple Spider",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1829, 9965, 0)",
+      "Coordinate(1829, 9960, 0)",
+      "Coordinate(1834, 9959, 0)",
+      "Coordinate(1829, 9957, 0)",
+      "Coordinate(1830, 9955, 0)",
+      "Coordinate(1832, 9963, 0)",
+      "Coordinate(1832, 9959, 0)",
+      "Coordinate(1829, 9964, 0)",
+      "Coordinate(1830, 9959, 0)",
+      "Coordinate(1830, 9960, 0)",
+      "Coordinate(1829, 9958, 0)",
+      "Coordinate(1833, 9964, 0)",
+      "Coordinate(1831, 9960, 0)",
+      "Coordinate(1832, 9958, 0)",
+      "Coordinate(1833, 9960, 0)",
+      "Coordinate(1834, 9965, 0)",
+      "Coordinate(1830, 9958, 0)",
+      "Coordinate(1832, 9961, 0)",
+      "Coordinate(1833, 9959, 0)",
+      "Coordinate(1832, 9957, 0)",
+      "Coordinate(1829, 9962, 0)",
+      "Coordinate(1833, 9958, 0)",
+      "Coordinate(1831, 9959, 0)",
+      "Coordinate(1831, 9958, 0)",
+      "Coordinate(1832, 9960, 0)",
+      "Coordinate(1830, 9957, 0)",
+      "Coordinate(1829, 9961, 0)",
+      "Coordinate(1833, 9962, 0)",
+      "Coordinate(1830, 9961, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 75,
+    "lastSeen": 1754955922508,
+    "timesEncountered": 64,
+    "firstSeen": 1754955459478
+  },
   "512": {
     "id": 512,
     "name": "Dark wizard",
@@ -7658,6 +8349,20 @@
     "timesEncountered": 1,
     "firstSeen": 1754937169803
   },
+  "8711": {
+    "id": 8711,
+    "name": "Eodan",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1808, 9952, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955930822,
+    "timesEncountered": 61,
+    "firstSeen": 1754955463695
+  },
   "10759": {
     "id": 10759,
     "name": "Clerk",
@@ -7698,6 +8403,77 @@
     "timesEncountered": 58,
     "firstSeen": 1754953075378
   },
+  "8713": {
+    "id": 8713,
+    "name": "Sarachnis",
+    "animations": [
+      8147,
+      4410,
+      8318
+    ],
+    "spawnAreas": [
+      "Coordinate(1843, 9904, 0)",
+      "Coordinate(1840, 9902, 0)",
+      "Coordinate(1838, 9901, 0)",
+      "Coordinate(1840, 9903, 0)",
+      "Coordinate(1835, 9904, 0)",
+      "Coordinate(1841, 9900, 0)",
+      "Coordinate(1841, 9898, 0)",
+      "Coordinate(1837, 9903, 0)",
+      "Coordinate(1840, 9901, 0)",
+      "Coordinate(1840, 9915, 0)",
+      "Coordinate(1840, 9899, 0)",
+      "Coordinate(1843, 9896, 0)",
+      "Coordinate(1838, 9904, 0)",
+      "Coordinate(1837, 9902, 0)",
+      "Coordinate(1844, 9904, 0)",
+      "Coordinate(1836, 9900, 0)",
+      "Coordinate(1839, 9915, 0)",
+      "Coordinate(1839, 9902, 0)",
+      "Coordinate(1836, 9904, 0)",
+      "Coordinate(1837, 9901, 0)",
+      "Coordinate(1842, 9904, 0)",
+      "Coordinate(1844, 9895, 0)",
+      "Coordinate(1840, 9904, 0)",
+      "Coordinate(1836, 9903, 0)",
+      "Coordinate(1837, 9904, 0)",
+      "Coordinate(1837, 9900, 0)"
+    ],
+    "standingAnimation": 8147,
+    "maxHealth": 0,
+    "combatLevel": 318,
+    "lastSeen": 1754956052007,
+    "timesEncountered": 111,
+    "firstSeen": 1754955964065
+  },
+  "8714": {
+    "id": 8714,
+    "name": "Spawn of Sarachnis",
+    "animations": [
+      8147,
+      8318
+    ],
+    "spawnAreas": [
+      "Coordinate(1841, 9902, 0)",
+      "Coordinate(1839, 9904, 0)",
+      "Coordinate(1836, 9904, 0)",
+      "Coordinate(1835, 9904, 0)",
+      "Coordinate(1844, 9901, 0)",
+      "Coordinate(1842, 9904, 0)",
+      "Coordinate(1834, 9904, 0)",
+      "Coordinate(1840, 9904, 0)",
+      "Coordinate(1843, 9903, 0)",
+      "Coordinate(1837, 9904, 0)",
+      "Coordinate(1841, 9903, 0)",
+      "Coordinate(1842, 9903, 0)"
+    ],
+    "standingAnimation": 8147,
+    "maxHealth": 0,
+    "combatLevel": 107,
+    "lastSeen": 1754956052003,
+    "timesEncountered": 59,
+    "firstSeen": 1754956008234
+  },
   "523": {
     "id": 523,
     "name": "Pirate",
@@ -7736,6 +8512,53 @@
     "lastSeen": 1754938424034,
     "timesEncountered": 5,
     "firstSeen": 1754938421385
+  },
+  "8715": {
+    "id": 8715,
+    "name": "Spawn of Sarachnis",
+    "animations": [
+      4410,
+      8318
+    ],
+    "spawnAreas": [
+      "Coordinate(1842, 9905, 0)",
+      "Coordinate(1842, 9906, 0)"
+    ],
+    "standingAnimation": 4410,
+    "maxHealth": 0,
+    "combatLevel": 68,
+    "lastSeen": 1754956052009,
+    "timesEncountered": 59,
+    "firstSeen": 1754956008239
+  },
+  "8717": {
+    "id": 8717,
+    "name": "Brother Aimeri",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1840, 9942, 0)",
+      "Coordinate(1840, 9926, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 1,
+    "lastSeen": 1754956057346,
+    "timesEncountered": 143,
+    "firstSeen": 1754955949657
+  },
+  "8718": {
+    "id": 8718,
+    "name": "Olbertus",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1796, 9953, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 1,
+    "lastSeen": 1754955930826,
+    "timesEncountered": 16,
+    "firstSeen": 1754955444287
   },
   "528": {
     "id": 528,
@@ -8291,6 +9114,20 @@
     "timesEncountered": 13,
     "firstSeen": 1754877833578
   },
+  "6747": {
+    "id": 6747,
+    "name": "Bee keeper",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1535, 3416, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955186443,
+    "timesEncountered": 19,
+    "firstSeen": 1754955172509
+  },
   "6748": {
     "id": 6748,
     "name": "Freaky Forester",
@@ -8454,13 +9291,14 @@
     "spawnAreas": [
       "Coordinate(2940, 3224, 0)",
       "Coordinate(2941, 3220, 0)",
-      "Coordinate(2938, 3227, 0)"
+      "Coordinate(2938, 3227, 0)",
+      "Coordinate(2942, 3226, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754954099928,
-    "timesEncountered": 3,
+    "lastSeen": 1754956057769,
+    "timesEncountered": 4,
     "firstSeen": 1754946936919
   },
   "6772": {
@@ -8499,6 +9337,25 @@
     "lastSeen": 1754953648207,
     "timesEncountered": 43,
     "firstSeen": 1754952797708
+  },
+  "6775": {
+    "id": 6775,
+    "name": "Gallow",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1806, 3564, 0)",
+      "Coordinate(1804, 3560, 0)",
+      "Coordinate(1805, 3561, 0)",
+      "Coordinate(1806, 3563, 0)",
+      "Coordinate(1807, 3564, 0)",
+      "Coordinate(1806, 3562, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955704594,
+    "timesEncountered": 14,
+    "firstSeen": 1754955694575
   },
   "4729": {
     "id": 4729,
@@ -8567,6 +9424,31 @@
     "lastSeen": 1754923312201,
     "timesEncountered": 1,
     "firstSeen": 1754923312206
+  },
+  "10880": {
+    "id": 10880,
+    "name": "null",
+    "animations": [
+      5540,
+      9047
+    ],
+    "spawnAreas": [
+      "Coordinate(1840, 9900, 0)",
+      "Coordinate(1841, 9901, 0)",
+      "Coordinate(1841, 9920, 0)",
+      "Coordinate(1842, 9902, 0)",
+      "Coordinate(1843, 9902, 0)",
+      "Coordinate(1841, 9904, 0)",
+      "Coordinate(1842, 9901, 0)",
+      "Coordinate(1841, 9900, 0)",
+      "Coordinate(1840, 9920, 0)"
+    ],
+    "standingAnimation": 5540,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754956056963,
+    "timesEncountered": 93,
+    "firstSeen": 1754955983452
   },
   "4737": {
     "id": 4737,
@@ -8862,6 +9744,22 @@
     "timesEncountered": 31,
     "firstSeen": 1754954532431
   },
+  "2696": {
+    "id": 2696,
+    "name": "Sheep",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1652, 3563, 0)",
+      "Coordinate(1650, 3562, 0)",
+      "Coordinate(1651, 3563, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955381024,
+    "timesEncountered": 4,
+    "firstSeen": 1754955378703
+  },
   "4746": {
     "id": 4746,
     "name": "Ali the Carter",
@@ -8881,6 +9779,20 @@
     "lastSeen": 1754946381311,
     "timesEncountered": 12,
     "firstSeen": 1754946373290
+  },
+  "2698": {
+    "id": 2698,
+    "name": "Sheep",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1656, 3568, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955892769,
+    "timesEncountered": 2,
+    "firstSeen": 1754955892029
   },
   "4747": {
     "id": 4747,
@@ -9684,6 +10596,25 @@
     "timesEncountered": 12,
     "firstSeen": 1754921719555
   },
+  "6814": {
+    "id": 6814,
+    "name": "Lammy Langle",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1688, 3543, 0)",
+      "Coordinate(1691, 3541, 0)",
+      "Coordinate(1691, 3540, 0)",
+      "Coordinate(1691, 3542, 0)",
+      "Coordinate(1690, 3539, 0)",
+      "Coordinate(1691, 3539, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955545343,
+    "timesEncountered": 17,
+    "firstSeen": 1754955370565
+  },
   "4768": {
     "id": 4768,
     "name": "Parrots",
@@ -9911,6 +10842,36 @@
     "lastSeen": 1754954079157,
     "timesEncountered": 14,
     "firstSeen": 1754954069058
+  },
+  "6823": {
+    "id": 6823,
+    "name": "Town Crier",
+    "animations": [
+      6865
+    ],
+    "spawnAreas": [
+      "Coordinate(1755, 3602, 0)",
+      "Coordinate(1754, 3600, 0)",
+      "Coordinate(1756, 3599, 0)",
+      "Coordinate(1757, 3599, 0)",
+      "Coordinate(1757, 3601, 0)",
+      "Coordinate(1755, 3599, 0)",
+      "Coordinate(1753, 3600, 0)",
+      "Coordinate(1755, 3597, 0)",
+      "Coordinate(1757, 3598, 0)",
+      "Coordinate(1755, 3601, 0)",
+      "Coordinate(1757, 3600, 0)",
+      "Coordinate(1754, 3598, 0)",
+      "Coordinate(1754, 3599, 0)",
+      "Coordinate(1755, 3600, 0)",
+      "Coordinate(1753, 3599, 0)"
+    ],
+    "standingAnimation": 6865,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955847873,
+    "timesEncountered": 95,
+    "firstSeen": 1754955746716
   },
   "4776": {
     "id": 4776,
@@ -10539,13 +11500,19 @@
       "Coordinate(2590, 3121, 0)",
       "Coordinate(2583, 3115, 0)",
       "Coordinate(2605, 3113, 0)",
-      "Coordinate(2670, 3340, 0)"
+      "Coordinate(2670, 3340, 0)",
+      "Coordinate(1761, 3636, 0)",
+      "Coordinate(1762, 3636, 0)",
+      "Coordinate(1760, 3637, 0)",
+      "Coordinate(1760, 3636, 0)",
+      "Coordinate(1762, 3638, 0)",
+      "Coordinate(1762, 3639, 0)"
     ],
     "standingAnimation": 5850,
     "maxHealth": 100,
     "combatLevel": 2,
-    "lastSeen": 1754953597572,
-    "timesEncountered": 1037,
+    "lastSeen": 1754955807492,
+    "timesEncountered": 1056,
     "firstSeen": 1754848109935
   },
   "2791": {
@@ -10727,13 +11694,18 @@
       "Coordinate(3042, 3309, 0)",
       "Coordinate(3042, 3308, 0)",
       "Coordinate(3042, 3307, 0)",
-      "Coordinate(3027, 3303, 0)"
+      "Coordinate(3027, 3303, 0)",
+      "Coordinate(1752, 3634, 0)",
+      "Coordinate(1751, 3635, 0)",
+      "Coordinate(1750, 3636, 0)",
+      "Coordinate(1749, 3637, 0)",
+      "Coordinate(1748, 3637, 0)"
     ],
     "standingAnimation": 5849,
     "maxHealth": 0,
     "combatLevel": 2,
-    "lastSeen": 1754937126449,
-    "timesEncountered": 1038,
+    "lastSeen": 1754955799330,
+    "timesEncountered": 1048,
     "firstSeen": 1754848109897
   },
   "2792": {
@@ -10854,14 +11826,57 @@
       "Coordinate(3171, 3322, 0)",
       "Coordinate(3169, 3322, 0)",
       "Coordinate(3170, 3323, 0)",
-      "Coordinate(3170, 3324, 0)"
+      "Coordinate(3170, 3324, 0)",
+      "Coordinate(1745, 3640, 0)",
+      "Coordinate(1760, 3643, 0)"
     ],
     "standingAnimation": 5854,
     "maxHealth": 0,
     "combatLevel": 2,
-    "lastSeen": 1754878093964,
-    "timesEncountered": 470,
+    "lastSeen": 1754955799337,
+    "timesEncountered": 476,
     "firstSeen": 1754848110193
+  },
+  "10984": {
+    "id": 10984,
+    "name": "Barbarian",
+    "animations": [
+      390,
+      3239
+    ],
+    "spawnAreas": [
+      "Coordinate(1584, 3436, 0)",
+      "Coordinate(1580, 3438, 0)",
+      "Coordinate(1590, 3437, 0)",
+      "Coordinate(1591, 3437, 0)",
+      "Coordinate(1584, 3441, 0)",
+      "Coordinate(1579, 3441, 0)",
+      "Coordinate(1588, 3439, 0)",
+      "Coordinate(1582, 3436, 0)",
+      "Coordinate(1585, 3441, 0)",
+      "Coordinate(1581, 3439, 0)",
+      "Coordinate(1582, 3441, 0)",
+      "Coordinate(1587, 3441, 0)",
+      "Coordinate(1581, 3437, 0)",
+      "Coordinate(1585, 3436, 0)",
+      "Coordinate(1581, 3440, 0)",
+      "Coordinate(1581, 3438, 0)",
+      "Coordinate(1589, 3439, 0)",
+      "Coordinate(1581, 3436, 0)",
+      "Coordinate(1578, 3441, 0)",
+      "Coordinate(1580, 3440, 0)",
+      "Coordinate(1588, 3440, 0)",
+      "Coordinate(1583, 3436, 0)",
+      "Coordinate(1581, 3441, 0)",
+      "Coordinate(1590, 3438, 0)",
+      "Coordinate(1579, 3439, 0)"
+    ],
+    "standingAnimation": 3239,
+    "maxHealth": 0,
+    "combatLevel": 10,
+    "lastSeen": 1754955162812,
+    "timesEncountered": 54,
+    "firstSeen": 1754955122260
   },
   "2793": {
     "id": 2793,
@@ -10998,14 +12013,49 @@
       "Coordinate(3033, 3312, 0)",
       "Coordinate(3031, 3312, 0)",
       "Coordinate(3030, 3312, 0)",
-      "Coordinate(3029, 3312, 0)"
+      "Coordinate(3029, 3312, 0)",
+      "Coordinate(1762, 3638, 0)",
+      "Coordinate(1763, 3638, 0)",
+      "Coordinate(1762, 3639, 0)",
+      "Coordinate(1761, 3640, 0)",
+      "Coordinate(1760, 3639, 0)",
+      "Coordinate(1759, 3638, 0)",
+      "Coordinate(1758, 3637, 0)",
+      "Coordinate(1758, 3636, 0)"
     ],
     "standingAnimation": 5850,
     "maxHealth": 0,
     "combatLevel": 2,
-    "lastSeen": 1754937117641,
-    "timesEncountered": 710,
+    "lastSeen": 1754955811503,
+    "timesEncountered": 730,
     "firstSeen": 1754848109916
+  },
+  "10985": {
+    "id": 10985,
+    "name": "Barbarian",
+    "animations": [
+      2067,
+      3238
+    ],
+    "spawnAreas": [
+      "Coordinate(1577, 3431, 0)",
+      "Coordinate(1582, 3436, 0)",
+      "Coordinate(1584, 3436, 0)",
+      "Coordinate(1584, 3435, 0)",
+      "Coordinate(1583, 3436, 0)",
+      "Coordinate(1579, 3432, 0)",
+      "Coordinate(1584, 3437, 0)",
+      "Coordinate(1580, 3433, 0)",
+      "Coordinate(1580, 3434, 0)",
+      "Coordinate(1578, 3431, 0)",
+      "Coordinate(1583, 3438, 0)"
+    ],
+    "standingAnimation": 3238,
+    "maxHealth": 0,
+    "combatLevel": 10,
+    "lastSeen": 1754955159721,
+    "timesEncountered": 43,
+    "firstSeen": 1754955127914
   },
   "2794": {
     "id": 2794,
@@ -11148,14 +12198,101 @@
       "Coordinate(3178, 3324, 0)",
       "Coordinate(3179, 3324, 0)",
       "Coordinate(3158, 3329, 0)",
-      "Coordinate(3153, 3328, 0)"
+      "Coordinate(3153, 3328, 0)",
+      "Coordinate(1757, 3638, 0)",
+      "Coordinate(1756, 3638, 0)",
+      "Coordinate(1756, 3639, 0)",
+      "Coordinate(1756, 3640, 0)",
+      "Coordinate(1755, 3638, 0)",
+      "Coordinate(1754, 3638, 0)"
     ],
     "standingAnimation": 5849,
     "maxHealth": 0,
     "combatLevel": 2,
-    "lastSeen": 1754878092548,
-    "timesEncountered": 751,
+    "lastSeen": 1754955801867,
+    "timesEncountered": 761,
     "firstSeen": 1754848109855
+  },
+  "10986": {
+    "id": 10986,
+    "name": "Barbarian",
+    "animations": [
+      425,
+      426
+    ],
+    "spawnAreas": [
+      "Coordinate(1581, 3430, 0)",
+      "Coordinate(1583, 3434, 0)",
+      "Coordinate(1579, 3434, 0)",
+      "Coordinate(1581, 3435, 0)",
+      "Coordinate(1577, 3434, 0)",
+      "Coordinate(1582, 3429, 0)",
+      "Coordinate(1576, 3433, 0)",
+      "Coordinate(1583, 3435, 0)",
+      "Coordinate(1579, 3438, 0)",
+      "Coordinate(1581, 3431, 0)",
+      "Coordinate(1582, 3436, 0)",
+      "Coordinate(1583, 3429, 0)",
+      "Coordinate(1579, 3437, 0)",
+      "Coordinate(1578, 3435, 0)",
+      "Coordinate(1580, 3437, 0)",
+      "Coordinate(1580, 3435, 0)",
+      "Coordinate(1581, 3437, 0)",
+      "Coordinate(1580, 3430, 0)",
+      "Coordinate(1583, 3432, 0)",
+      "Coordinate(1583, 3431, 0)",
+      "Coordinate(1579, 3432, 0)",
+      "Coordinate(1582, 3435, 0)",
+      "Coordinate(1581, 3438, 0)",
+      "Coordinate(1579, 3436, 0)",
+      "Coordinate(1578, 3434, 0)",
+      "Coordinate(1580, 3436, 0)",
+      "Coordinate(1581, 3436, 0)",
+      "Coordinate(1579, 3435, 0)",
+      "Coordinate(1576, 3434, 0)",
+      "Coordinate(1580, 3431, 0)",
+      "Coordinate(1578, 3433, 0)"
+    ],
+    "standingAnimation": 425,
+    "maxHealth": 0,
+    "combatLevel": 15,
+    "lastSeen": 1754955165719,
+    "timesEncountered": 55,
+    "firstSeen": 1754955124435
+  },
+  "10987": {
+    "id": 10987,
+    "name": "Barbarian",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1581, 3437, 0)",
+      "Coordinate(1583, 3434, 0)",
+      "Coordinate(1585, 3442, 0)",
+      "Coordinate(1586, 3431, 0)",
+      "Coordinate(1583, 3442, 0)",
+      "Coordinate(1581, 3440, 0)",
+      "Coordinate(1584, 3432, 0)",
+      "Coordinate(1582, 3435, 0)",
+      "Coordinate(1580, 3434, 0)",
+      "Coordinate(1578, 3434, 0)",
+      "Coordinate(1585, 3432, 0)",
+      "Coordinate(1580, 3436, 0)",
+      "Coordinate(1581, 3436, 0)",
+      "Coordinate(1581, 3434, 0)",
+      "Coordinate(1586, 3430, 0)",
+      "Coordinate(1581, 3439, 0)",
+      "Coordinate(1582, 3434, 0)",
+      "Coordinate(1621, 3454, 0)",
+      "Coordinate(1581, 3441, 0)",
+      "Coordinate(1584, 3442, 0)",
+      "Coordinate(1585, 3431, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 10,
+    "lastSeen": 1754955159719,
+    "timesEncountered": 47,
+    "firstSeen": 1754955124440
   },
   "2796": {
     "id": 2796,
@@ -11178,6 +12315,44 @@
     "lastSeen": 1754923262384,
     "timesEncountered": 59,
     "firstSeen": 1754878415602
+  },
+  "10988": {
+    "id": 10988,
+    "name": "Barbarian",
+    "animations": [
+      428,
+      430
+    ],
+    "spawnAreas": [
+      "Coordinate(1583, 3434, 0)",
+      "Coordinate(1581, 3437, 0)",
+      "Coordinate(1579, 3440, 0)",
+      "Coordinate(1583, 3432, 0)",
+      "Coordinate(1581, 3435, 0)",
+      "Coordinate(1584, 3434, 0)",
+      "Coordinate(1584, 3432, 0)",
+      "Coordinate(1583, 3431, 0)",
+      "Coordinate(1586, 3434, 0)",
+      "Coordinate(1581, 3438, 0)",
+      "Coordinate(1585, 3434, 0)",
+      "Coordinate(1582, 3431, 0)",
+      "Coordinate(1577, 3441, 0)",
+      "Coordinate(1579, 3441, 0)",
+      "Coordinate(1585, 3430, 0)",
+      "Coordinate(1581, 3431, 0)",
+      "Coordinate(1578, 3441, 0)",
+      "Coordinate(1581, 3434, 0)",
+      "Coordinate(1586, 3430, 0)",
+      "Coordinate(1582, 3434, 0)",
+      "Coordinate(1580, 3439, 0)",
+      "Coordinate(1585, 3431, 0)"
+    ],
+    "standingAnimation": 430,
+    "maxHealth": 0,
+    "combatLevel": 9,
+    "lastSeen": 1754955162806,
+    "timesEncountered": 51,
+    "firstSeen": 1754955123386
   },
   "2797": {
     "id": 2797,
@@ -11702,8 +12877,8 @@
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754954099935,
-    "timesEncountered": 4,
+    "lastSeen": 1754956057779,
+    "timesEncountered": 5,
     "firstSeen": 1754946701581
   },
   "2824": {
@@ -11717,9 +12892,39 @@
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754954099930,
-    "timesEncountered": 4,
+    "lastSeen": 1754956057773,
+    "timesEncountered": 5,
     "firstSeen": 1754946701570
+  },
+  "6920": {
+    "id": 6920,
+    "name": "Farmer Gricoller",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1799, 3498, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955677858,
+    "timesEncountered": 20,
+    "firstSeen": 1754955663119
+  },
+  "6922": {
+    "id": 6922,
+    "name": "Konoo",
+    "animations": [
+      830
+    ],
+    "spawnAreas": [
+      "Coordinate(1688, 3515, 0)"
+    ],
+    "standingAnimation": 830,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955549882,
+    "timesEncountered": 8,
+    "firstSeen": 1754955544734
   },
   "2834": {
     "id": 2834,
@@ -11742,13 +12947,21 @@
       "Coordinate(2756, 3402, 0)",
       "Coordinate(2757, 3401, 0)",
       "Coordinate(2755, 3402, 0)",
-      "Coordinate(2755, 3401, 0)"
+      "Coordinate(2755, 3401, 0)",
+      "Coordinate(1759, 3508, 0)",
+      "Coordinate(1770, 3500, 0)",
+      "Coordinate(1767, 3502, 0)",
+      "Coordinate(1766, 3501, 0)",
+      "Coordinate(1765, 3501, 0)",
+      "Coordinate(1764, 3501, 0)",
+      "Coordinate(1764, 3512, 0)",
+      "Coordinate(1770, 3514, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 27,
-    "lastSeen": 1754953924901,
-    "timesEncountered": 54,
+    "lastSeen": 1754955665049,
+    "timesEncountered": 73,
     "firstSeen": 1754953075375
   },
   "787": {
@@ -12066,13 +13279,45 @@
       "Coordinate(2707, 3429, 0)",
       "Coordinate(2705, 3429, 0)",
       "Coordinate(2703, 3430, 0)",
-      "Coordinate(2702, 3431, 0)"
+      "Coordinate(2702, 3431, 0)",
+      "Coordinate(1621, 3449, 0)",
+      "Coordinate(1605, 3444, 0)",
+      "Coordinate(1605, 3443, 0)",
+      "Coordinate(1605, 3441, 0)",
+      "Coordinate(1605, 3440, 0)",
+      "Coordinate(1606, 3441, 0)",
+      "Coordinate(1607, 3442, 0)",
+      "Coordinate(1608, 3442, 0)",
+      "Coordinate(1609, 3441, 0)",
+      "Coordinate(1609, 3440, 0)",
+      "Coordinate(1608, 3441, 0)",
+      "Coordinate(1606, 3442, 0)",
+      "Coordinate(1607, 3441, 0)",
+      "Coordinate(1609, 3439, 0)",
+      "Coordinate(1610, 3438, 0)",
+      "Coordinate(1594, 3452, 0)",
+      "Coordinate(1611, 3462, 0)",
+      "Coordinate(1609, 3445, 0)",
+      "Coordinate(1610, 3446, 0)",
+      "Coordinate(1610, 3447, 0)",
+      "Coordinate(1609, 3447, 0)",
+      "Coordinate(1607, 3447, 0)",
+      "Coordinate(1609, 3463, 0)",
+      "Coordinate(1610, 3462, 0)",
+      "Coordinate(1682, 3537, 0)",
+      "Coordinate(1695, 3511, 0)",
+      "Coordinate(1694, 3512, 0)",
+      "Coordinate(1692, 3514, 0)",
+      "Coordinate(1691, 3515, 0)",
+      "Coordinate(1690, 3516, 0)",
+      "Coordinate(1787, 3619, 0)",
+      "Coordinate(1788, 3619, 0)"
     ],
     "standingAnimation": 6375,
     "maxHealth": 100,
     "combatLevel": 15,
-    "lastSeen": 1754953942712,
-    "timesEncountered": 434,
+    "lastSeen": 1754955814513,
+    "timesEncountered": 567,
     "firstSeen": 1754849328946
   },
   "790": {
@@ -12123,13 +13368,25 @@
       "Coordinate(2119, 3951, 0)",
       "Coordinate(2132, 3941, 0)",
       "Coordinate(2117, 3952, 0)",
-      "Coordinate(2118, 3925, 0)"
+      "Coordinate(2118, 3925, 0)",
+      "Coordinate(2119, 3923, 0)",
+      "Coordinate(2119, 3924, 0)",
+      "Coordinate(2119, 3925, 0)",
+      "Coordinate(2120, 3925, 0)",
+      "Coordinate(2115, 3928, 0)",
+      "Coordinate(2114, 3928, 0)",
+      "Coordinate(2114, 3926, 0)",
+      "Coordinate(2114, 3925, 0)",
+      "Coordinate(2114, 3924, 0)",
+      "Coordinate(2114, 3923, 0)",
+      "Coordinate(2113, 3929, 0)",
+      "Coordinate(2113, 3928, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 111,
-    "lastSeen": 1754954116978,
-    "timesEncountered": 131,
+    "lastSeen": 1754956106363,
+    "timesEncountered": 151,
     "firstSeen": 1754946720299
   },
   "2838": {
@@ -12204,13 +13461,26 @@
       "Coordinate(2634, 3274, 0)",
       "Coordinate(2709, 3337, 0)",
       "Coordinate(2714, 3335, 0)",
-      "Coordinate(2712, 3333, 0)"
+      "Coordinate(2712, 3333, 0)",
+      "Coordinate(1505, 3455, 0)",
+      "Coordinate(1505, 3454, 0)",
+      "Coordinate(1504, 3453, 0)",
+      "Coordinate(1505, 3452, 0)",
+      "Coordinate(1506, 3451, 0)",
+      "Coordinate(1507, 3451, 0)",
+      "Coordinate(1505, 3453, 0)",
+      "Coordinate(1504, 3456, 0)",
+      "Coordinate(1502, 3458, 0)",
+      "Coordinate(1502, 3459, 0)",
+      "Coordinate(1503, 3458, 0)",
+      "Coordinate(1504, 3457, 0)",
+      "Coordinate(1505, 3456, 0)"
     ],
     "standingAnimation": 4927,
     "maxHealth": 0,
     "combatLevel": 21,
-    "lastSeen": 1754953895541,
-    "timesEncountered": 175,
+    "lastSeen": 1754955254894,
+    "timesEncountered": 218,
     "firstSeen": 1754875132144
   },
   "791": {
@@ -12480,6 +13750,20 @@
     "timesEncountered": 268,
     "firstSeen": 1754923348241
   },
+  "6937": {
+    "id": 6937,
+    "name": "Ramocean",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1676, 3620, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955876237,
+    "timesEncountered": 11,
+    "firstSeen": 1754955868766
+  },
   "794": {
     "id": 794,
     "name": "Scarab Mage",
@@ -12720,6 +14004,26 @@
     "timesEncountered": 258,
     "firstSeen": 1754923355843
   },
+  "6938": {
+    "id": 6938,
+    "name": "Talia",
+    "animations": [
+      832
+    ],
+    "spawnAreas": [
+      "Coordinate(1680, 3621, 0)",
+      "Coordinate(1681, 3619, 0)",
+      "Coordinate(1680, 3620, 0)",
+      "Coordinate(1681, 3618, 0)",
+      "Coordinate(1681, 3617, 0)"
+    ],
+    "standingAnimation": 832,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955875479,
+    "timesEncountered": 10,
+    "firstSeen": 1754955868776
+  },
   "795": {
     "id": 795,
     "name": "Locust rider",
@@ -12939,6 +14243,21 @@
     "timesEncountered": 586,
     "firstSeen": 1754945956294
   },
+  "6940": {
+    "id": 6940,
+    "name": "Banker",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1778, 3559, 0)",
+      "Coordinate(1746, 3599, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955851785,
+    "timesEncountered": 80,
+    "firstSeen": 1754955746325
+  },
   "2845": {
     "id": 2845,
     "name": "Snake",
@@ -12987,6 +14306,50 @@
     "timesEncountered": 90,
     "firstSeen": 1754947133526
   },
+  "6942": {
+    "id": 6942,
+    "name": "Banker",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1746, 3598, 0)",
+      "Coordinate(1778, 3558, 0)",
+      "Coordinate(1746, 3600, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955851779,
+    "timesEncountered": 80,
+    "firstSeen": 1754955746322
+  },
+  "6943": {
+    "id": 6943,
+    "name": "Horace",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1775, 3588, 0)",
+      "Coordinate(1774, 3588, 0)",
+      "Coordinate(1771, 3587, 0)",
+      "Coordinate(1772, 3587, 0)",
+      "Coordinate(1770, 3588, 0)",
+      "Coordinate(1775, 3587, 0)",
+      "Coordinate(1771, 3588, 0)",
+      "Coordinate(1772, 3588, 0)",
+      "Coordinate(1776, 3590, 0)",
+      "Coordinate(1771, 3586, 0)",
+      "Coordinate(1772, 3586, 0)",
+      "Coordinate(1770, 3589, 0)",
+      "Coordinate(1775, 3589, 0)",
+      "Coordinate(1773, 3588, 0)",
+      "Coordinate(1776, 3589, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955836569,
+    "timesEncountered": 47,
+    "firstSeen": 1754955742762
+  },
   "2848": {
     "id": 2848,
     "name": "Monkey",
@@ -13015,14 +14378,34 @@
     "spawnAreas": [
       "Coordinate(1564, 3569, 0)",
       "Coordinate(1564, 3568, 0)",
-      "Coordinate(1565, 3568, 0)"
+      "Coordinate(1565, 3568, 0)",
+      "Coordinate(1563, 3569, 0)",
+      "Coordinate(1565, 3569, 0)",
+      "Coordinate(1565, 3570, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754954624578,
-    "timesEncountered": 15,
+    "lastSeen": 1754954947282,
+    "timesEncountered": 37,
     "firstSeen": 1754954613891
+  },
+  "6944": {
+    "id": 6944,
+    "name": "Vannah",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1761, 3593, 0)",
+      "Coordinate(1763, 3593, 0)",
+      "Coordinate(1764, 3593, 0)",
+      "Coordinate(1762, 3593, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955846345,
+    "timesEncountered": 91,
+    "firstSeen": 1754955744294
   },
   "11041": {
     "id": 11041,
@@ -13038,6 +14421,32 @@
     "lastSeen": 1754954605581,
     "timesEncountered": 21,
     "firstSeen": 1754954590420
+  },
+  "6945": {
+    "id": 6945,
+    "name": "Logava",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1768, 3597, 0)",
+      "Coordinate(1770, 3598, 0)",
+      "Coordinate(1769, 3599, 0)",
+      "Coordinate(1769, 3597, 0)",
+      "Coordinate(1768, 3599, 0)",
+      "Coordinate(1769, 3598, 0)",
+      "Coordinate(1770, 3599, 0)",
+      "Coordinate(1768, 3596, 0)",
+      "Coordinate(1770, 3596, 0)",
+      "Coordinate(1800, 3558, 0)",
+      "Coordinate(1768, 3598, 0)",
+      "Coordinate(1768, 3600, 0)",
+      "Coordinate(1770, 3600, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955842608,
+    "timesEncountered": 73,
+    "firstSeen": 1754955746318
   },
   "11042": {
     "id": 11042,
@@ -13067,9 +14476,23 @@
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754954621681,
-    "timesEncountered": 29,
+    "lastSeen": 1754954949565,
+    "timesEncountered": 44,
     "firstSeen": 1754954591596
+  },
+  "6947": {
+    "id": 6947,
+    "name": "Farmer",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1746, 3614, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955798507,
+    "timesEncountered": 62,
+    "firstSeen": 1754955751762
   },
   "11044": {
     "id": 11044,
@@ -13079,14 +14502,32 @@
       "Coordinate(1551, 3566, 0)",
       "Coordinate(1552, 3566, 0)",
       "Coordinate(1551, 3565, 0)",
-      "Coordinate(1550, 3566, 0)"
+      "Coordinate(1550, 3566, 0)",
+      "Coordinate(1553, 3565, 0)",
+      "Coordinate(1552, 3565, 0)",
+      "Coordinate(1551, 3564, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754954622680,
-    "timesEncountered": 27,
+    "lastSeen": 1754954949166,
+    "timesEncountered": 43,
     "firstSeen": 1754954592420
+  },
+  "6948": {
+    "id": 6948,
+    "name": "Farmer",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1741, 3619, 0)",
+      "Coordinate(1740, 3619, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955796328,
+    "timesEncountered": 12,
+    "firstSeen": 1754955787550
   },
   "11045": {
     "id": 11045,
@@ -13096,14 +14537,34 @@
       "Coordinate(1549, 3567, 0)",
       "Coordinate(1549, 3566, 0)",
       "Coordinate(1550, 3566, 0)",
-      "Coordinate(1549, 3568, 0)"
+      "Coordinate(1549, 3568, 0)",
+      "Coordinate(1552, 3568, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754954623769,
-    "timesEncountered": 29,
+    "lastSeen": 1754954947286,
+    "timesEncountered": 51,
     "firstSeen": 1754954590032
+  },
+  "6949": {
+    "id": 6949,
+    "name": "Farmer",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1749, 3618, 0)",
+      "Coordinate(1749, 3619, 0)",
+      "Coordinate(1748, 3619, 0)",
+      "Coordinate(1748, 3618, 0)",
+      "Coordinate(1746, 3616, 0)",
+      "Coordinate(1747, 3619, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955798938,
+    "timesEncountered": 17,
+    "firstSeen": 1754955760882
   },
   "2854": {
     "id": 2854,
@@ -13608,13 +15069,48 @@
       "Coordinate(2589, 3414, 0)",
       "Coordinate(2590, 3414, 0)",
       "Coordinate(2592, 3412, 0)",
-      "Coordinate(2939, 3238, 0)"
+      "Coordinate(2939, 3238, 0)",
+      "Coordinate(1745, 3616, 0)",
+      "Coordinate(1746, 3616, 0)",
+      "Coordinate(1747, 3616, 0)",
+      "Coordinate(1748, 3616, 0)",
+      "Coordinate(1749, 3615, 0)",
+      "Coordinate(1750, 3615, 0)",
+      "Coordinate(1751, 3615, 0)",
+      "Coordinate(1751, 3613, 0)",
+      "Coordinate(1752, 3610, 0)",
+      "Coordinate(1752, 3609, 0)",
+      "Coordinate(1752, 3608, 0)",
+      "Coordinate(1752, 3607, 0)",
+      "Coordinate(1752, 3606, 0)",
+      "Coordinate(1751, 3606, 0)",
+      "Coordinate(1751, 3605, 0)",
+      "Coordinate(1750, 3605, 0)",
+      "Coordinate(1749, 3604, 0)",
+      "Coordinate(1748, 3604, 0)",
+      "Coordinate(1746, 3604, 0)",
+      "Coordinate(1747, 3615, 0)",
+      "Coordinate(1745, 3604, 0)",
+      "Coordinate(1745, 3605, 0)",
+      "Coordinate(1736, 3608, 0)",
+      "Coordinate(1677, 3607, 0)",
+      "Coordinate(1676, 3607, 0)",
+      "Coordinate(1675, 3607, 0)",
+      "Coordinate(1674, 3607, 0)",
+      "Coordinate(1672, 3607, 0)",
+      "Coordinate(1672, 3608, 0)",
+      "Coordinate(1672, 3609, 0)",
+      "Coordinate(1672, 3610, 0)",
+      "Coordinate(1672, 3611, 0)",
+      "Coordinate(1671, 3610, 0)",
+      "Coordinate(1671, 3609, 0)",
+      "Coordinate(1670, 3608, 0)"
     ],
     "standingAnimation": 2707,
     "maxHealth": 0,
     "combatLevel": 1,
-    "lastSeen": 1754954099922,
-    "timesEncountered": 2647,
+    "lastSeen": 1754955882065,
+    "timesEncountered": 2726,
     "firstSeen": 1754849150566
   },
   "11046": {
@@ -13627,9 +15123,31 @@
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754954623774,
-    "timesEncountered": 25,
+    "lastSeen": 1754954947284,
+    "timesEncountered": 47,
     "firstSeen": 1754954589295
+  },
+  "6950": {
+    "id": 6950,
+    "name": "Farmer",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1745, 3613, 0)",
+      "Coordinate(1745, 3612, 0)",
+      "Coordinate(1745, 3615, 0)",
+      "Coordinate(1745, 3614, 0)",
+      "Coordinate(1745, 3616, 0)",
+      "Coordinate(1744, 3615, 0)",
+      "Coordinate(1744, 3616, 0)",
+      "Coordinate(1746, 3616, 0)",
+      "Coordinate(1746, 3615, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955797036,
+    "timesEncountered": 53,
+    "firstSeen": 1754955752195
   },
   "2855": {
     "id": 2855,
@@ -13670,9 +15188,27 @@
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754954622678,
-    "timesEncountered": 31,
+    "lastSeen": 1754954948371,
+    "timesEncountered": 46,
     "firstSeen": 1754954589310
+  },
+  "6951": {
+    "id": 6951,
+    "name": "Farmer",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1749, 3619, 0)",
+      "Coordinate(1748, 3618, 0)",
+      "Coordinate(1746, 3617, 0)",
+      "Coordinate(1747, 3618, 0)",
+      "Coordinate(1746, 3618, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955798940,
+    "timesEncountered": 16,
+    "firstSeen": 1754955787554
   },
   "2856": {
     "id": 2856,
@@ -13777,13 +15313,36 @@
       "Coordinate(2980, 3698, 0)",
       "Coordinate(2979, 3698, 0)",
       "Coordinate(2978, 3699, 0)",
-      "Coordinate(2517, 3182, 0)"
+      "Coordinate(2517, 3182, 0)",
+      "Coordinate(1495, 3457, 0)",
+      "Coordinate(1496, 3456, 0)",
+      "Coordinate(1497, 3456, 0)",
+      "Coordinate(1498, 3456, 0)",
+      "Coordinate(1500, 3456, 0)",
+      "Coordinate(1490, 3468, 0)",
+      "Coordinate(1490, 3467, 0)",
+      "Coordinate(1491, 3467, 0)",
+      "Coordinate(1492, 3467, 0)",
+      "Coordinate(1494, 3465, 0)",
+      "Coordinate(1494, 3464, 0)",
+      "Coordinate(1494, 3463, 0)",
+      "Coordinate(1493, 3462, 0)",
+      "Coordinate(1492, 3461, 0)",
+      "Coordinate(1491, 3460, 0)",
+      "Coordinate(1491, 3459, 0)",
+      "Coordinate(1493, 3461, 0)",
+      "Coordinate(1494, 3461, 0)",
+      "Coordinate(1495, 3461, 0)",
+      "Coordinate(1496, 3461, 0)",
+      "Coordinate(1493, 3459, 0)",
+      "Coordinate(1492, 3459, 0)",
+      "Coordinate(1491, 3461, 0)"
     ],
     "standingAnimation": 4933,
     "maxHealth": 0,
     "combatLevel": 3,
-    "lastSeen": 1754952961486,
-    "timesEncountered": 555,
+    "lastSeen": 1754955258791,
+    "timesEncountered": 601,
     "firstSeen": 1754849273660
   },
   "11048": {
@@ -13795,14 +15354,50 @@
       "Coordinate(1551, 3566, 0)",
       "Coordinate(1550, 3565, 0)",
       "Coordinate(1550, 3564, 0)",
-      "Coordinate(1551, 3565, 0)"
+      "Coordinate(1551, 3565, 0)",
+      "Coordinate(1550, 3566, 0)",
+      "Coordinate(1549, 3566, 0)",
+      "Coordinate(1552, 3566, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754954622681,
-    "timesEncountered": 28,
+    "lastSeen": 1754954948373,
+    "timesEncountered": 43,
     "firstSeen": 1754954591607
+  },
+  "6952": {
+    "id": 6952,
+    "name": "Farmer",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1740, 3619, 0)",
+      "Coordinate(1739, 3619, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955795516,
+    "timesEncountered": 8,
+    "firstSeen": 1754955787558
+  },
+  "6953": {
+    "id": 6953,
+    "name": "Golova",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1743, 3611, 0)",
+      "Coordinate(1741, 3612, 0)",
+      "Coordinate(1744, 3611, 0)",
+      "Coordinate(1742, 3612, 0)",
+      "Coordinate(1743, 3612, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955797044,
+    "timesEncountered": 38,
+    "firstSeen": 1754955751027
   },
   "11050": {
     "id": 11050,
@@ -13823,6 +15418,24 @@
     "lastSeen": 1754954581373,
     "timesEncountered": 16,
     "firstSeen": 1754954558254
+  },
+  "6954": {
+    "id": 6954,
+    "name": "Richard",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1741, 3612, 0)",
+      "Coordinate(1742, 3612, 0)",
+      "Coordinate(1742, 3611, 0)",
+      "Coordinate(1740, 3613, 0)",
+      "Coordinate(1740, 3612, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955796316,
+    "timesEncountered": 35,
+    "firstSeen": 1754955751020
   },
   "2859": {
     "id": 2859,
@@ -13892,6 +15505,23 @@
     "timesEncountered": 24,
     "firstSeen": 1754954561011
   },
+  "6955": {
+    "id": 6955,
+    "name": "Father Jean",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1734, 3576, 0)",
+      "Coordinate(1735, 3575, 0)",
+      "Coordinate(1736, 3575, 0)",
+      "Coordinate(1733, 3577, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955854009,
+    "timesEncountered": 13,
+    "firstSeen": 1754955844845
+  },
   "2860": {
     "id": 2860,
     "name": "Giant rat",
@@ -13957,14 +15587,50 @@
       "Coordinate(1567, 3550, 0)",
       "Coordinate(1569, 3551, 0)",
       "Coordinate(1568, 3550, 0)",
-      "Coordinate(1568, 3551, 0)"
+      "Coordinate(1568, 3551, 0)",
+      "Coordinate(1566, 3549, 0)",
+      "Coordinate(1568, 3549, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754954618233,
-    "timesEncountered": 13,
+    "lastSeen": 1754954965907,
+    "timesEncountered": 41,
     "firstSeen": 1754954609013
+  },
+  "6956": {
+    "id": 6956,
+    "name": "Monk",
+    "animations": [
+      422,
+      425
+    ],
+    "spawnAreas": [
+      "Coordinate(1738, 3492, 0)",
+      "Coordinate(1738, 3486, 0)",
+      "Coordinate(1737, 3489, 0)",
+      "Coordinate(1739, 3486, 0)",
+      "Coordinate(1737, 3492, 0)",
+      "Coordinate(1737, 3490, 0)",
+      "Coordinate(1736, 3489, 0)",
+      "Coordinate(1738, 3488, 0)",
+      "Coordinate(1739, 3492, 0)",
+      "Coordinate(1745, 3490, 0)",
+      "Coordinate(1738, 3490, 0)",
+      "Coordinate(1740, 3494, 0)",
+      "Coordinate(1741, 3494, 0)",
+      "Coordinate(1740, 3486, 0)",
+      "Coordinate(1736, 3492, 0)",
+      "Coordinate(1738, 3489, 0)",
+      "Coordinate(1735, 3492, 0)",
+      "Coordinate(1740, 3493, 0)"
+    ],
+    "standingAnimation": 425,
+    "maxHealth": 0,
+    "combatLevel": 5,
+    "lastSeen": 1754955630088,
+    "timesEncountered": 73,
+    "firstSeen": 1754955558599
   },
   "2861": {
     "id": 2861,
@@ -13990,7 +15656,11 @@
   "11053": {
     "id": 11053,
     "name": "Woman",
-    "animations": [],
+    "animations": [
+      425,
+      422,
+      836
+    ],
     "spawnAreas": [
       "Coordinate(1549, 3539, 0)",
       "Coordinate(1549, 3540, 0)",
@@ -14001,13 +15671,18 @@
       "Coordinate(1547, 3540, 0)",
       "Coordinate(1546, 3539, 0)",
       "Coordinate(1550, 3540, 0)",
-      "Coordinate(1546, 3540, 0)"
+      "Coordinate(1546, 3540, 0)",
+      "Coordinate(1554, 3542, 0)",
+      "Coordinate(1553, 3541, 0)",
+      "Coordinate(1552, 3541, 0)",
+      "Coordinate(1553, 3540, 0)",
+      "Coordinate(1550, 3542, 0)"
     ],
-    "standingAnimation": -1,
+    "standingAnimation": 425,
     "maxHealth": 0,
     "combatLevel": 2,
-    "lastSeen": 1754954610837,
-    "timesEncountered": 20,
+    "lastSeen": 1754954991624,
+    "timesEncountered": 61,
     "firstSeen": 1754954596620
   },
   "814": {
@@ -14078,13 +15753,16 @@
       "Coordinate(1559, 3562, 0)",
       "Coordinate(1562, 3560, 0)",
       "Coordinate(1559, 3557, 0)",
-      "Coordinate(1558, 3563, 0)"
+      "Coordinate(1558, 3563, 0)",
+      "Coordinate(1557, 3563, 0)",
+      "Coordinate(1557, 3564, 0)",
+      "Coordinate(1557, 3565, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 2,
-    "lastSeen": 1754954621679,
-    "timesEncountered": 17,
+    "lastSeen": 1754954948811,
+    "timesEncountered": 31,
     "firstSeen": 1754954594639
   },
   "2863": {
@@ -14215,13 +15893,46 @@
       "Coordinate(2519, 3187, 0)",
       "Coordinate(2518, 3187, 0)",
       "Coordinate(2517, 3187, 0)",
-      "Coordinate(2525, 3187, 0)"
+      "Coordinate(2525, 3187, 0)",
+      "Coordinate(1497, 3454, 0)",
+      "Coordinate(1496, 3454, 0)",
+      "Coordinate(1495, 3454, 0)",
+      "Coordinate(1493, 3454, 0)",
+      "Coordinate(1494, 3454, 0)",
+      "Coordinate(1495, 3453, 0)",
+      "Coordinate(1497, 3451, 0)",
+      "Coordinate(1496, 3452, 0)",
+      "Coordinate(1495, 3456, 0)",
+      "Coordinate(1496, 3455, 0)",
+      "Coordinate(1498, 3454, 0)",
+      "Coordinate(1497, 3455, 0)",
+      "Coordinate(1495, 3455, 0)",
+      "Coordinate(1494, 3455, 0)",
+      "Coordinate(1489, 3464, 0)",
+      "Coordinate(1490, 3465, 0)",
+      "Coordinate(1491, 3465, 0)",
+      "Coordinate(1493, 3465, 0)",
+      "Coordinate(1494, 3465, 0)",
+      "Coordinate(1495, 3465, 0)",
+      "Coordinate(1494, 3464, 0)",
+      "Coordinate(1493, 3463, 0)",
+      "Coordinate(1493, 3462, 0)",
+      "Coordinate(1493, 3464, 0)",
+      "Coordinate(1493, 3461, 0)",
+      "Coordinate(1494, 3462, 0)",
+      "Coordinate(1494, 3463, 0)",
+      "Coordinate(1789, 3635, 0)",
+      "Coordinate(1788, 3634, 0)",
+      "Coordinate(1787, 3634, 0)",
+      "Coordinate(1786, 3634, 0)",
+      "Coordinate(1785, 3634, 0)",
+      "Coordinate(1784, 3633, 0)"
     ],
     "standingAnimation": 4933,
     "maxHealth": 0,
     "combatLevel": 6,
-    "lastSeen": 1754952956838,
-    "timesEncountered": 575,
+    "lastSeen": 1754955812999,
+    "timesEncountered": 633,
     "firstSeen": 1754849251519
   },
   "11055": {
@@ -14322,13 +16033,31 @@
       "Coordinate(3265, 3381, 0)",
       "Coordinate(3264, 3381, 0)",
       "Coordinate(3265, 3380, 0)",
-      "Coordinate(2967, 3692, 0)"
+      "Coordinate(2967, 3692, 0)",
+      "Coordinate(1498, 3463, 0)",
+      "Coordinate(1497, 3463, 0)",
+      "Coordinate(1496, 3463, 0)",
+      "Coordinate(1495, 3463, 0)",
+      "Coordinate(1494, 3464, 0)",
+      "Coordinate(1493, 3465, 0)",
+      "Coordinate(1497, 3461, 0)",
+      "Coordinate(1498, 3460, 0)",
+      "Coordinate(1499, 3459, 0)",
+      "Coordinate(1496, 3462, 0)",
+      "Coordinate(1495, 3462, 0)",
+      "Coordinate(1494, 3463, 0)",
+      "Coordinate(1493, 3463, 0)",
+      "Coordinate(1498, 3462, 0)",
+      "Coordinate(1787, 3641, 0)",
+      "Coordinate(1788, 3642, 0)",
+      "Coordinate(1785, 3639, 0)",
+      "Coordinate(1785, 3637, 0)"
     ],
     "standingAnimation": 4934,
     "maxHealth": 0,
     "combatLevel": 6,
-    "lastSeen": 1754938828663,
-    "timesEncountered": 444,
+    "lastSeen": 1754955811496,
+    "timesEncountered": 492,
     "firstSeen": 1754849237191
   },
   "11057": {
@@ -14367,6 +16096,20 @@
     "lastSeen": 1754954591215,
     "timesEncountered": 8,
     "firstSeen": 1754954585844
+  },
+  "6962": {
+    "id": 6962,
+    "name": "Farmer Hayfield",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1741, 3588, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955853737,
+    "timesEncountered": 39,
+    "firstSeen": 1754955750616
   },
   "819": {
     "id": 819,
@@ -14508,6 +16251,20 @@
     "lastSeen": 1754928338244,
     "timesEncountered": 223,
     "firstSeen": 1754878512204
+  },
+  "11064": {
+    "id": 11064,
+    "name": "Bandit",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1571, 3598, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 22,
+    "lastSeen": 1754954937621,
+    "timesEncountered": 8,
+    "firstSeen": 1754954932642
   },
   "2873": {
     "id": 2873,
@@ -15142,13 +16899,24 @@
       "Coordinate(1538, 3565, 0)",
       "Coordinate(1539, 3565, 0)",
       "Coordinate(1535, 3566, 0)",
-      "Coordinate(1533, 3565, 0)"
+      "Coordinate(1533, 3565, 0)",
+      "Coordinate(1745, 3614, 0)",
+      "Coordinate(1745, 3613, 0)",
+      "Coordinate(1745, 3615, 0)",
+      "Coordinate(1744, 3615, 0)",
+      "Coordinate(1789, 3607, 0)",
+      "Coordinate(1788, 3607, 0)",
+      "Coordinate(1790, 3606, 0)",
+      "Coordinate(1723, 3592, 0)",
+      "Coordinate(1722, 3593, 0)",
+      "Coordinate(1722, 3594, 0)",
+      "Coordinate(1722, 3595, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 2,
-    "lastSeen": 1754954603020,
-    "timesEncountered": 22,
+    "lastSeen": 1754955860591,
+    "timesEncountered": 66,
     "firstSeen": 1754954587065
   },
   "2892": {
@@ -15198,13 +16966,69 @@
       "Coordinate(1552, 3553, 0)",
       "Coordinate(1553, 3555, 0)",
       "Coordinate(1553, 3553, 0)",
-      "Coordinate(1553, 3554, 0)"
+      "Coordinate(1553, 3554, 0)",
+      "Coordinate(1552, 3549, 0)",
+      "Coordinate(1553, 3549, 0)",
+      "Coordinate(1554, 3548, 0)",
+      "Coordinate(1554, 3547, 0)",
+      "Coordinate(1553, 3548, 0)",
+      "Coordinate(1551, 3549, 0)",
+      "Coordinate(1550, 3549, 0)",
+      "Coordinate(1548, 3549, 0)",
+      "Coordinate(1549, 3549, 0)",
+      "Coordinate(1554, 3549, 0)",
+      "Coordinate(1554, 3550, 0)",
+      "Coordinate(1554, 3551, 0)",
+      "Coordinate(1554, 3552, 0)",
+      "Coordinate(1553, 3551, 0)",
+      "Coordinate(1553, 3550, 0)",
+      "Coordinate(1552, 3550, 0)",
+      "Coordinate(1551, 3550, 0)",
+      "Coordinate(1550, 3550, 0)",
+      "Coordinate(1549, 3550, 0)",
+      "Coordinate(1548, 3550, 0)",
+      "Coordinate(1765, 3593, 0)",
+      "Coordinate(1766, 3594, 0)",
+      "Coordinate(1767, 3594, 0)",
+      "Coordinate(1767, 3596, 0)",
+      "Coordinate(1765, 3597, 0)",
+      "Coordinate(1764, 3598, 0)",
+      "Coordinate(1764, 3597, 0)",
+      "Coordinate(1762, 3595, 0)",
+      "Coordinate(1761, 3595, 0)",
+      "Coordinate(1760, 3595, 0)",
+      "Coordinate(1760, 3594, 0)",
+      "Coordinate(1760, 3593, 0)",
+      "Coordinate(1760, 3592, 0)",
+      "Coordinate(1761, 3596, 0)",
+      "Coordinate(1762, 3597, 0)",
+      "Coordinate(1768, 3600, 0)",
+      "Coordinate(1768, 3598, 0)",
+      "Coordinate(1768, 3597, 0)",
+      "Coordinate(1768, 3596, 0)",
+      "Coordinate(1767, 3595, 0)",
+      "Coordinate(1766, 3595, 0)",
+      "Coordinate(1765, 3595, 0)",
+      "Coordinate(1766, 3596, 0)",
+      "Coordinate(1764, 3599, 0)",
+      "Coordinate(1765, 3599, 0)",
+      "Coordinate(1766, 3599, 0)",
+      "Coordinate(1675, 3607, 0)",
+      "Coordinate(1676, 3607, 0)",
+      "Coordinate(1675, 3606, 0)",
+      "Coordinate(1674, 3605, 0)",
+      "Coordinate(1673, 3604, 0)",
+      "Coordinate(1677, 3607, 0)",
+      "Coordinate(1678, 3607, 0)",
+      "Coordinate(1679, 3608, 0)",
+      "Coordinate(1677, 3606, 0)",
+      "Coordinate(1678, 3608, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 2,
-    "lastSeen": 1754954619780,
-    "timesEncountered": 50,
+    "lastSeen": 1754955881365,
+    "timesEncountered": 224,
     "firstSeen": 1754954573107
   },
   "845": {
@@ -15229,13 +17053,18 @@
     "spawnAreas": [
       "Coordinate(1556, 3562, 0)",
       "Coordinate(1557, 3565, 0)",
-      "Coordinate(1555, 3562, 0)"
+      "Coordinate(1555, 3562, 0)",
+      "Coordinate(1558, 3564, 0)",
+      "Coordinate(1559, 3565, 0)",
+      "Coordinate(1560, 3565, 0)",
+      "Coordinate(1561, 3565, 0)",
+      "Coordinate(1562, 3566, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 2,
-    "lastSeen": 1754954622674,
-    "timesEncountered": 16,
+    "lastSeen": 1754954948011,
+    "timesEncountered": 30,
     "firstSeen": 1754954600938
   },
   "2894": {
@@ -15280,13 +17109,24 @@
       "Coordinate(1530, 3549, 0)",
       "Coordinate(1531, 3550, 0)",
       "Coordinate(1529, 3549, 0)",
-      "Coordinate(1532, 3551, 0)"
+      "Coordinate(1532, 3551, 0)",
+      "Coordinate(1689, 3602, 0)",
+      "Coordinate(1690, 3601, 0)",
+      "Coordinate(1691, 3600, 0)",
+      "Coordinate(1693, 3600, 0)",
+      "Coordinate(1691, 3598, 0)",
+      "Coordinate(1690, 3598, 0)",
+      "Coordinate(1689, 3598, 0)",
+      "Coordinate(1688, 3598, 0)",
+      "Coordinate(1687, 3598, 0)",
+      "Coordinate(1687, 3599, 0)",
+      "Coordinate(1688, 3600, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 2,
-    "lastSeen": 1754954601294,
-    "timesEncountered": 14,
+    "lastSeen": 1754955875100,
+    "timesEncountered": 32,
     "firstSeen": 1754954591598
   },
   "2895": {
@@ -15318,7 +17158,11 @@
   "6991": {
     "id": 6991,
     "name": "Woman",
-    "animations": [],
+    "animations": [
+      425,
+      422,
+      836
+    ],
     "spawnAreas": [
       "Coordinate(1528, 3573, 0)",
       "Coordinate(1524, 3573, 0)",
@@ -15326,19 +17170,65 @@
       "Coordinate(1524, 3571, 0)",
       "Coordinate(1527, 3573, 0)",
       "Coordinate(1524, 3572, 0)",
-      "Coordinate(1525, 3573, 0)"
+      "Coordinate(1525, 3573, 0)",
+      "Coordinate(1738, 3491, 0)",
+      "Coordinate(1738, 3492, 0)",
+      "Coordinate(1739, 3492, 0)",
+      "Coordinate(1739, 3493, 0)",
+      "Coordinate(1739, 3494, 0)",
+      "Coordinate(1739, 3495, 0)",
+      "Coordinate(1739, 3496, 0)",
+      "Coordinate(1740, 3494, 0)",
+      "Coordinate(1740, 3493, 0)",
+      "Coordinate(1770, 3612, 0)",
+      "Coordinate(1770, 3613, 0)",
+      "Coordinate(1771, 3613, 0)",
+      "Coordinate(1772, 3613, 0)",
+      "Coordinate(1773, 3614, 0)",
+      "Coordinate(1774, 3614, 0)",
+      "Coordinate(1772, 3614, 0)",
+      "Coordinate(1746, 3617, 0)",
+      "Coordinate(1745, 3617, 0)",
+      "Coordinate(1743, 3617, 0)",
+      "Coordinate(1741, 3617, 0)",
+      "Coordinate(1741, 3618, 0)",
+      "Coordinate(1767, 3613, 0)",
+      "Coordinate(1767, 3614, 0)",
+      "Coordinate(1768, 3615, 0)",
+      "Coordinate(1768, 3616, 0)",
+      "Coordinate(1768, 3617, 0)",
+      "Coordinate(1769, 3616, 0)",
+      "Coordinate(1770, 3615, 0)",
+      "Coordinate(1771, 3615, 0)",
+      "Coordinate(1772, 3615, 0)",
+      "Coordinate(1771, 3616, 0)",
+      "Coordinate(1769, 3614, 0)",
+      "Coordinate(1768, 3613, 0)",
+      "Coordinate(1767, 3612, 0)",
+      "Coordinate(1767, 3611, 0)",
+      "Coordinate(1766, 3611, 0)",
+      "Coordinate(1769, 3613, 0)",
+      "Coordinate(1770, 3614, 0)",
+      "Coordinate(1770, 3616, 0)",
+      "Coordinate(1769, 3615, 0)",
+      "Coordinate(1768, 3614, 0)",
+      "Coordinate(1767, 3615, 0)",
+      "Coordinate(1766, 3615, 0)"
     ],
-    "standingAnimation": -1,
+    "standingAnimation": 425,
     "maxHealth": 0,
     "combatLevel": 2,
-    "lastSeen": 1754954592699,
-    "timesEncountered": 27,
+    "lastSeen": 1754955827980,
+    "timesEncountered": 147,
     "firstSeen": 1754954573104
   },
   "6992": {
     "id": 6992,
     "name": "Woman",
-    "animations": [],
+    "animations": [
+      425,
+      836
+    ],
     "spawnAreas": [
       "Coordinate(1543, 3562, 0)",
       "Coordinate(1500, 3591, 0)",
@@ -15362,13 +17252,46 @@
       "Coordinate(1500, 3587, 0)",
       "Coordinate(1542, 3562, 0)",
       "Coordinate(1545, 3563, 0)",
-      "Coordinate(1545, 3561, 0)"
+      "Coordinate(1545, 3561, 0)",
+      "Coordinate(1544, 3561, 0)",
+      "Coordinate(1546, 3563, 0)",
+      "Coordinate(1547, 3563, 0)",
+      "Coordinate(1544, 3563, 0)",
+      "Coordinate(1723, 3504, 0)",
+      "Coordinate(1724, 3502, 0)",
+      "Coordinate(1724, 3501, 0)",
+      "Coordinate(1724, 3500, 0)",
+      "Coordinate(1724, 3499, 0)",
+      "Coordinate(1768, 3601, 0)",
+      "Coordinate(1767, 3602, 0)",
+      "Coordinate(1767, 3603, 0)",
+      "Coordinate(1767, 3604, 0)",
+      "Coordinate(1769, 3602, 0)",
+      "Coordinate(1769, 3601, 0)",
+      "Coordinate(1769, 3600, 0)",
+      "Coordinate(1769, 3599, 0)",
+      "Coordinate(1768, 3599, 0)",
+      "Coordinate(1768, 3600, 0)",
+      "Coordinate(1768, 3602, 0)",
+      "Coordinate(1768, 3603, 0)",
+      "Coordinate(1768, 3605, 0)",
+      "Coordinate(1769, 3603, 0)",
+      "Coordinate(1769, 3604, 0)",
+      "Coordinate(1769, 3605, 0)",
+      "Coordinate(1767, 3605, 0)",
+      "Coordinate(1766, 3604, 0)",
+      "Coordinate(1766, 3605, 0)",
+      "Coordinate(1766, 3606, 0)",
+      "Coordinate(1768, 3604, 0)",
+      "Coordinate(1770, 3606, 0)",
+      "Coordinate(1771, 3607, 0)",
+      "Coordinate(1765, 3605, 0)"
     ],
-    "standingAnimation": -1,
+    "standingAnimation": 425,
     "maxHealth": 0,
     "combatLevel": 2,
-    "lastSeen": 1754954621676,
-    "timesEncountered": 47,
+    "lastSeen": 1754955837268,
+    "timesEncountered": 166,
     "firstSeen": 1754954564082
   },
   "2897": {
@@ -15483,13 +17406,38 @@
       "Coordinate(1530, 3559, 0)",
       "Coordinate(1515, 3584, 0)",
       "Coordinate(1529, 3559, 0)",
-      "Coordinate(1514, 3582, 0)"
+      "Coordinate(1514, 3582, 0)",
+      "Coordinate(1551, 3536, 0)",
+      "Coordinate(1553, 3536, 0)",
+      "Coordinate(1553, 3535, 0)",
+      "Coordinate(1553, 3534, 0)",
+      "Coordinate(1554, 3534, 0)",
+      "Coordinate(1554, 3535, 0)",
+      "Coordinate(1556, 3535, 0)",
+      "Coordinate(1556, 3537, 0)",
+      "Coordinate(1552, 3533, 0)",
+      "Coordinate(1552, 3532, 0)",
+      "Coordinate(1552, 3531, 0)",
+      "Coordinate(1553, 3532, 0)",
+      "Coordinate(1554, 3533, 0)",
+      "Coordinate(1557, 3537, 0)",
+      "Coordinate(1557, 3538, 0)",
+      "Coordinate(1558, 3538, 0)",
+      "Coordinate(1555, 3536, 0)",
+      "Coordinate(1552, 3530, 0)",
+      "Coordinate(1553, 3531, 0)",
+      "Coordinate(1655, 3524, 0)",
+      "Coordinate(1653, 3522, 0)",
+      "Coordinate(1652, 3522, 0)",
+      "Coordinate(1651, 3521, 0)",
+      "Coordinate(1652, 3520, 0)",
+      "Coordinate(1653, 3519, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 21,
-    "lastSeen": 1754954611934,
-    "timesEncountered": 55,
+    "lastSeen": 1754955364499,
+    "timesEncountered": 127,
     "firstSeen": 1754954566749
   },
   "2901": {
@@ -15841,13 +17789,35 @@
       "Coordinate(1557, 3583, 0)",
       "Coordinate(1559, 3582, 0)",
       "Coordinate(1496, 3590, 0)",
-      "Coordinate(1642, 3685, 0)"
+      "Coordinate(1642, 3685, 0)",
+      "Coordinate(1555, 3585, 0)",
+      "Coordinate(1554, 3587, 0)",
+      "Coordinate(1553, 3588, 0)",
+      "Coordinate(1552, 3588, 0)",
+      "Coordinate(1551, 3588, 0)",
+      "Coordinate(1561, 3583, 0)",
+      "Coordinate(1544, 3546, 0)",
+      "Coordinate(1547, 3550, 0)",
+      "Coordinate(1547, 3551, 0)",
+      "Coordinate(1544, 3549, 0)",
+      "Coordinate(1543, 3549, 0)",
+      "Coordinate(1545, 3550, 0)",
+      "Coordinate(1545, 3551, 0)",
+      "Coordinate(1544, 3552, 0)",
+      "Coordinate(1542, 3552, 0)",
+      "Coordinate(1541, 3552, 0)",
+      "Coordinate(1543, 3552, 0)",
+      "Coordinate(1544, 3551, 0)",
+      "Coordinate(1546, 3549, 0)",
+      "Coordinate(1545, 3549, 0)",
+      "Coordinate(1545, 3548, 0)",
+      "Coordinate(1545, 3546, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 21,
-    "lastSeen": 1754954667909,
-    "timesEncountered": 133,
+    "lastSeen": 1754954990547,
+    "timesEncountered": 202,
     "firstSeen": 1754954135426
   },
   "11095": {
@@ -15858,13 +17828,16 @@
       "Coordinate(1554, 3588, 0)",
       "Coordinate(1553, 3588, 0)",
       "Coordinate(1552, 3588, 0)",
-      "Coordinate(1551, 3588, 0)"
+      "Coordinate(1551, 3588, 0)",
+      "Coordinate(1556, 3591, 0)",
+      "Coordinate(1557, 3591, 0)",
+      "Coordinate(1558, 3591, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 84,
-    "lastSeen": 1754954667564,
-    "timesEncountered": 62,
+    "lastSeen": 1754954939159,
+    "timesEncountered": 73,
     "firstSeen": 1754954621345
   },
   "11096": {
@@ -15887,13 +17860,24 @@
       "Coordinate(1470, 3554, 0)",
       "Coordinate(1470, 3557, 0)",
       "Coordinate(1469, 3557, 0)",
-      "Coordinate(1471, 3559, 0)"
+      "Coordinate(1471, 3559, 0)",
+      "Coordinate(1658, 3522, 0)",
+      "Coordinate(1657, 3523, 0)",
+      "Coordinate(1656, 3523, 0)",
+      "Coordinate(1655, 3524, 0)",
+      "Coordinate(1654, 3525, 0)",
+      "Coordinate(1653, 3525, 0)",
+      "Coordinate(1652, 3525, 0)",
+      "Coordinate(1651, 3525, 0)",
+      "Coordinate(1652, 3524, 0)",
+      "Coordinate(1654, 3524, 0)",
+      "Coordinate(1655, 3523, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 21,
-    "lastSeen": 1754954599861,
-    "timesEncountered": 29,
+    "lastSeen": 1754955365553,
+    "timesEncountered": 43,
     "firstSeen": 1754954547315
   },
   "11098": {
@@ -15961,13 +17945,30 @@
       "Coordinate(1550, 3535, 0)",
       "Coordinate(1561, 3588, 0)",
       "Coordinate(1562, 3590, 0)",
-      "Coordinate(1557, 3583, 0)"
+      "Coordinate(1557, 3583, 0)",
+      "Coordinate(1556, 3584, 0)",
+      "Coordinate(1555, 3584, 0)",
+      "Coordinate(1556, 3583, 0)",
+      "Coordinate(1547, 3532, 0)",
+      "Coordinate(1548, 3532, 0)",
+      "Coordinate(1549, 3533, 0)",
+      "Coordinate(1550, 3533, 0)",
+      "Coordinate(1550, 3534, 0)",
+      "Coordinate(1551, 3534, 0)",
+      "Coordinate(1552, 3534, 0)",
+      "Coordinate(1546, 3532, 0)",
+      "Coordinate(1549, 3532, 0)",
+      "Coordinate(1550, 3531, 0)",
+      "Coordinate(1549, 3530, 0)",
+      "Coordinate(1548, 3530, 0)",
+      "Coordinate(1547, 3530, 0)",
+      "Coordinate(1546, 3530, 0)"
     ],
     "standingAnimation": 388,
     "maxHealth": 0,
     "combatLevel": 21,
-    "lastSeen": 1754954667904,
-    "timesEncountered": 120,
+    "lastSeen": 1754954994799,
+    "timesEncountered": 198,
     "firstSeen": 1754954135430
   },
   "860": {
@@ -16085,13 +18086,41 @@
       "Coordinate(1628, 3666, 0)",
       "Coordinate(1498, 3600, 0)",
       "Coordinate(1627, 3666, 0)",
-      "Coordinate(1629, 3663, 0)"
+      "Coordinate(1629, 3663, 0)",
+      "Coordinate(1558, 3592, 0)",
+      "Coordinate(1557, 3591, 0)",
+      "Coordinate(1557, 3590, 0)",
+      "Coordinate(1556, 3590, 0)",
+      "Coordinate(1555, 3590, 0)",
+      "Coordinate(1554, 3590, 0)",
+      "Coordinate(1562, 3552, 0)",
+      "Coordinate(1563, 3551, 0)",
+      "Coordinate(1561, 3549, 0)",
+      "Coordinate(1560, 3548, 0)",
+      "Coordinate(1560, 3547, 0)",
+      "Coordinate(1559, 3546, 0)",
+      "Coordinate(1560, 3546, 0)",
+      "Coordinate(1561, 3545, 0)",
+      "Coordinate(1561, 3547, 0)",
+      "Coordinate(1562, 3548, 0)",
+      "Coordinate(1562, 3550, 0)",
+      "Coordinate(1562, 3551, 0)",
+      "Coordinate(1561, 3553, 0)",
+      "Coordinate(1560, 3552, 0)",
+      "Coordinate(1560, 3551, 0)",
+      "Coordinate(1560, 3550, 0)",
+      "Coordinate(1559, 3549, 0)",
+      "Coordinate(1558, 3549, 0)",
+      "Coordinate(1557, 3549, 0)",
+      "Coordinate(1556, 3549, 0)",
+      "Coordinate(1557, 3550, 0)",
+      "Coordinate(1557, 3548, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 21,
-    "lastSeen": 1754954667552,
-    "timesEncountered": 123,
+    "lastSeen": 1754954989388,
+    "timesEncountered": 192,
     "firstSeen": 1754954135429
   },
   "861": {
@@ -16167,14 +18196,46 @@
       "Coordinate(1644, 3671, 0)",
       "Coordinate(1473, 3570, 0)",
       "Coordinate(1560, 3534, 0)",
-      "Coordinate(1469, 3568, 0)"
+      "Coordinate(1469, 3568, 0)",
+      "Coordinate(1561, 3530, 0)",
+      "Coordinate(1553, 3570, 0)",
+      "Coordinate(1560, 3530, 0)",
+      "Coordinate(1559, 3530, 0)",
+      "Coordinate(1557, 3531, 0)",
+      "Coordinate(1557, 3532, 0)",
+      "Coordinate(1560, 3533, 0)",
+      "Coordinate(1561, 3532, 0)",
+      "Coordinate(1559, 3534, 0)",
+      "Coordinate(1559, 3535, 0)",
+      "Coordinate(1663, 3520, 0)",
+      "Coordinate(1658, 3519, 0)",
+      "Coordinate(1659, 3519, 0)",
+      "Coordinate(1659, 3520, 0)",
+      "Coordinate(1657, 3520, 0)",
+      "Coordinate(1656, 3520, 0)",
+      "Coordinate(1655, 3520, 0)"
     ],
     "standingAnimation": 388,
     "maxHealth": 0,
     "combatLevel": 21,
-    "lastSeen": 1754954613134,
-    "timesEncountered": 84,
+    "lastSeen": 1754955365195,
+    "timesEncountered": 158,
     "firstSeen": 1754954135432
+  },
+  "2910": {
+    "id": 2910,
+    "name": "Chinchompa",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1489, 3493, 0)",
+      "Coordinate(1488, 3493, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 1,
+    "lastSeen": 1754955280316,
+    "timesEncountered": 29,
+    "firstSeen": 1754955259180
   },
   "863": {
     "id": 863,
@@ -16258,15 +18319,47 @@
   "11103": {
     "id": 11103,
     "name": "Head Guard",
-    "animations": [],
-    "spawnAreas": [
-      "Coordinate(1546, 3537, 0)"
+    "animations": [
+      388,
+      390
     ],
-    "standingAnimation": -1,
+    "spawnAreas": [
+      "Coordinate(1546, 3537, 0)",
+      "Coordinate(1555, 3530, 0)",
+      "Coordinate(1554, 3531, 0)",
+      "Coordinate(1555, 3532, 0)",
+      "Coordinate(1555, 3533, 0)",
+      "Coordinate(1554, 3534, 0)",
+      "Coordinate(1554, 3535, 0)",
+      "Coordinate(1555, 3536, 0)",
+      "Coordinate(1554, 3537, 0)",
+      "Coordinate(1553, 3538, 0)",
+      "Coordinate(1552, 3538, 0)",
+      "Coordinate(1551, 3538, 0)",
+      "Coordinate(1550, 3539, 0)",
+      "Coordinate(1548, 3540, 0)",
+      "Coordinate(1547, 3540, 0)",
+      "Coordinate(1546, 3540, 0)",
+      "Coordinate(1547, 3539, 0)",
+      "Coordinate(1548, 3538, 0)",
+      "Coordinate(1547, 3538, 0)",
+      "Coordinate(1549, 3538, 0)",
+      "Coordinate(1550, 3538, 0)",
+      "Coordinate(1551, 3537, 0)",
+      "Coordinate(1552, 3535, 0)",
+      "Coordinate(1552, 3534, 0)",
+      "Coordinate(1659, 3525, 0)",
+      "Coordinate(1658, 3525, 0)",
+      "Coordinate(1653, 3533, 0)",
+      "Coordinate(1654, 3533, 0)",
+      "Coordinate(1655, 3534, 0)",
+      "Coordinate(1655, 3533, 0)"
+    ],
+    "standingAnimation": 388,
     "maxHealth": 0,
     "combatLevel": 84,
-    "lastSeen": 1754954610850,
-    "timesEncountered": 19,
+    "lastSeen": 1754955434472,
+    "timesEncountered": 130,
     "firstSeen": 1754954597390
   },
   "864": {
@@ -16362,13 +18455,35 @@
       "Coordinate(1627, 3683, 0)",
       "Coordinate(1559, 3530, 0)",
       "Coordinate(1499, 3595, 0)",
-      "Coordinate(1534, 3571, 0)"
+      "Coordinate(1534, 3571, 0)",
+      "Coordinate(1559, 3590, 0)",
+      "Coordinate(1553, 3527, 0)",
+      "Coordinate(1554, 3528, 0)",
+      "Coordinate(1555, 3528, 0)",
+      "Coordinate(1553, 3528, 0)",
+      "Coordinate(1552, 3528, 0)",
+      "Coordinate(1552, 3529, 0)",
+      "Coordinate(1552, 3530, 0)",
+      "Coordinate(1551, 3530, 0)",
+      "Coordinate(1553, 3530, 0)",
+      "Coordinate(1554, 3531, 0)",
+      "Coordinate(1555, 3532, 0)",
+      "Coordinate(1552, 3527, 0)",
+      "Coordinate(1552, 3526, 0)",
+      "Coordinate(1553, 3525, 0)",
+      "Coordinate(1555, 3524, 0)",
+      "Coordinate(1554, 3523, 0)",
+      "Coordinate(1553, 3523, 0)",
+      "Coordinate(1552, 3523, 0)",
+      "Coordinate(1551, 3523, 0)",
+      "Coordinate(1552, 3524, 0)",
+      "Coordinate(1552, 3525, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 21,
-    "lastSeen": 1754954667559,
-    "timesEncountered": 142,
+    "lastSeen": 1754954996726,
+    "timesEncountered": 214,
     "firstSeen": 1754954135434
   },
   "865": {
@@ -16438,13 +18553,17 @@
       "Coordinate(1561, 3556, 0)",
       "Coordinate(1561, 3560, 0)",
       "Coordinate(1555, 3562, 0)",
-      "Coordinate(1492, 3589, 0)"
+      "Coordinate(1492, 3589, 0)",
+      "Coordinate(1562, 3555, 0)",
+      "Coordinate(1560, 3555, 0)",
+      "Coordinate(1552, 3595, 0)",
+      "Coordinate(1560, 3554, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 21,
-    "lastSeen": 1754954622308,
-    "timesEncountered": 33,
+    "lastSeen": 1754954958102,
+    "timesEncountered": 50,
     "firstSeen": 1754954560593
   },
   "4963": {
@@ -16919,6 +19038,22 @@
     "lastSeen": 1754936828426,
     "timesEncountered": 61,
     "firstSeen": 1754936771830
+  },
+  "11139": {
+    "id": 11139,
+    "name": "Lord Pandur Hosidius",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1781, 3571, 0)",
+      "Coordinate(1780, 3570, 0)",
+      "Coordinate(1780, 3574, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 1,
+    "lastSeen": 1754955721912,
+    "timesEncountered": 24,
+    "firstSeen": 1754955692243
   },
   "5005": {
     "id": 5005,
@@ -17649,13 +19784,65 @@
       "Coordinate(2617, 3241, 0)",
       "Coordinate(2619, 3239, 0)",
       "Coordinate(2620, 3238, 0)",
-      "Coordinate(2946, 3214, 0)"
+      "Coordinate(2946, 3214, 0)",
+      "Coordinate(1650, 3536, 0)",
+      "Coordinate(1651, 3537, 0)",
+      "Coordinate(1652, 3537, 0)",
+      "Coordinate(1651, 3536, 0)",
+      "Coordinate(1651, 3535, 0)",
+      "Coordinate(1725, 3514, 0)",
+      "Coordinate(1727, 3519, 0)",
+      "Coordinate(1727, 3518, 0)",
+      "Coordinate(1727, 3517, 0)",
+      "Coordinate(1727, 3516, 0)",
+      "Coordinate(1730, 3511, 0)",
+      "Coordinate(1745, 3490, 0)",
+      "Coordinate(1743, 3490, 0)",
+      "Coordinate(1744, 3490, 0)",
+      "Coordinate(1726, 3508, 0)",
+      "Coordinate(1761, 3482, 0)",
+      "Coordinate(1761, 3472, 0)",
+      "Coordinate(1742, 3469, 0)",
+      "Coordinate(1763, 3470, 0)",
+      "Coordinate(1764, 3469, 0)",
+      "Coordinate(1743, 3470, 0)",
+      "Coordinate(1742, 3471, 0)",
+      "Coordinate(1741, 3472, 0)",
+      "Coordinate(1740, 3472, 0)",
+      "Coordinate(1739, 3473, 0)",
+      "Coordinate(1766, 3463, 0)",
+      "Coordinate(1765, 3464, 0)",
+      "Coordinate(1763, 3466, 0)",
+      "Coordinate(1760, 3469, 0)",
+      "Coordinate(1759, 3470, 0)",
+      "Coordinate(1758, 3471, 0)",
+      "Coordinate(1757, 3472, 0)",
+      "Coordinate(1756, 3473, 0)",
+      "Coordinate(1755, 3474, 0)",
+      "Coordinate(1755, 3473, 0)",
+      "Coordinate(1755, 3472, 0)",
+      "Coordinate(1737, 3474, 0)",
+      "Coordinate(1738, 3475, 0)",
+      "Coordinate(1739, 3476, 0)",
+      "Coordinate(1740, 3477, 0)",
+      "Coordinate(1769, 3483, 0)",
+      "Coordinate(1768, 3483, 0)",
+      "Coordinate(1767, 3483, 0)",
+      "Coordinate(1766, 3483, 0)",
+      "Coordinate(1765, 3484, 0)",
+      "Coordinate(1776, 3485, 0)",
+      "Coordinate(1777, 3485, 0)",
+      "Coordinate(1778, 3483, 0)",
+      "Coordinate(1779, 3482, 0)",
+      "Coordinate(1779, 3481, 0)",
+      "Coordinate(1779, 3480, 0)",
+      "Coordinate(1765, 3482, 0)"
     ],
     "standingAnimation": 170,
     "maxHealth": 0,
     "combatLevel": 2,
-    "lastSeen": 1754954099927,
-    "timesEncountered": 1816,
+    "lastSeen": 1754955656945,
+    "timesEncountered": 2003,
     "firstSeen": 1754849432620
   },
   "921": {
@@ -18766,13 +20953,31 @@
       "Coordinate(2536, 3180, 0)",
       "Coordinate(2536, 3179, 0)",
       "Coordinate(2537, 3180, 0)",
-      "Coordinate(2546, 3187, 0)"
+      "Coordinate(2546, 3187, 0)",
+      "Coordinate(1716, 3501, 0)",
+      "Coordinate(1715, 3500, 0)",
+      "Coordinate(1715, 3499, 0)",
+      "Coordinate(1714, 3499, 0)",
+      "Coordinate(1735, 3610, 0)",
+      "Coordinate(1736, 3611, 0)",
+      "Coordinate(1736, 3612, 0)",
+      "Coordinate(1736, 3614, 0)",
+      "Coordinate(1737, 3614, 0)",
+      "Coordinate(1738, 3614, 0)",
+      "Coordinate(1739, 3614, 0)",
+      "Coordinate(1739, 3615, 0)",
+      "Coordinate(1739, 3616, 0)",
+      "Coordinate(1741, 3616, 0)",
+      "Coordinate(1742, 3616, 0)",
+      "Coordinate(1743, 3616, 0)",
+      "Coordinate(1744, 3616, 0)",
+      "Coordinate(1709, 3608, 0)"
     ],
     "standingAnimation": 6250,
     "maxHealth": 0,
     "combatLevel": 1,
-    "lastSeen": 1754952775581,
-    "timesEncountered": 960,
+    "lastSeen": 1754955864798,
+    "timesEncountered": 1017,
     "firstSeen": 1754849337748
   },
   "3021": {
@@ -19449,13 +21654,16 @@
       "Coordinate(2986, 3217, 0)",
       "Coordinate(2985, 3217, 0)",
       "Coordinate(2985, 3218, 0)",
-      "Coordinate(2984, 3219, 0)"
+      "Coordinate(2984, 3219, 0)",
+      "Coordinate(1771, 3521, 0)",
+      "Coordinate(1770, 3520, 0)",
+      "Coordinate(1769, 3519, 0)"
     ],
     "standingAnimation": 6183,
     "maxHealth": 0,
     "combatLevel": 2,
-    "lastSeen": 1754938424018,
-    "timesEncountered": 1370,
+    "lastSeen": 1754955662322,
+    "timesEncountered": 1373,
     "firstSeen": 1754848110054
   },
   "3030": {
@@ -20019,13 +22227,16 @@
       "Coordinate(3007, 3190, 0)",
       "Coordinate(3008, 3189, 0)",
       "Coordinate(3009, 3188, 0)",
-      "Coordinate(3004, 3193, 0)"
+      "Coordinate(3004, 3193, 0)",
+      "Coordinate(1778, 3493, 0)",
+      "Coordinate(1777, 3494, 0)",
+      "Coordinate(1776, 3494, 0)"
     ],
     "standingAnimation": 6184,
     "maxHealth": 0,
     "combatLevel": 2,
-    "lastSeen": 1754938417788,
-    "timesEncountered": 1179,
+    "lastSeen": 1754955666117,
+    "timesEncountered": 1198,
     "firstSeen": 1754849143666
   },
   "3032": {
@@ -20286,13 +22497,17 @@
       "Coordinate(2999, 3200, 0)",
       "Coordinate(3000, 3200, 0)",
       "Coordinate(3001, 3200, 0)",
-      "Coordinate(3002, 3200, 0)"
+      "Coordinate(3002, 3200, 0)",
+      "Coordinate(1781, 3511, 0)",
+      "Coordinate(1781, 3510, 0)",
+      "Coordinate(1781, 3509, 0)",
+      "Coordinate(1781, 3508, 0)"
     ],
     "standingAnimation": 6184,
     "maxHealth": 0,
     "combatLevel": 2,
-    "lastSeen": 1754938417794,
-    "timesEncountered": 983,
+    "lastSeen": 1754955682426,
+    "timesEncountered": 1010,
     "firstSeen": 1754849141678
   },
   "5081": {
@@ -21201,13 +23416,14 @@
       "Coordinate(3012, 3205, 0)",
       "Coordinate(3012, 3204, 0)",
       "Coordinate(3013, 3204, 0)",
-      "Coordinate(3012, 3203, 0)"
+      "Coordinate(3012, 3203, 0)",
+      "Coordinate(1770, 3506, 0)"
     ],
     "standingAnimation": 6184,
     "maxHealth": 0,
     "combatLevel": 2,
-    "lastSeen": 1754938416649,
-    "timesEncountered": 672,
+    "lastSeen": 1754955663120,
+    "timesEncountered": 682,
     "firstSeen": 1754849162140
   },
   "3036": {
@@ -21436,13 +23652,15 @@
       "Coordinate(3004, 3215, 0)",
       "Coordinate(3002, 3215, 0)",
       "Coordinate(3002, 3216, 0)",
-      "Coordinate(3002, 3214, 0)"
+      "Coordinate(3002, 3214, 0)",
+      "Coordinate(1772, 3506, 0)",
+      "Coordinate(1771, 3506, 0)"
     ],
     "standingAnimation": 6183,
     "maxHealth": 0,
     "combatLevel": 2,
-    "lastSeen": 1754938418825,
-    "timesEncountered": 615,
+    "lastSeen": 1754955664657,
+    "timesEncountered": 627,
     "firstSeen": 1754849146588
   },
   "5086": {
@@ -21815,6 +24033,20 @@
     "lastSeen": 1754923350499,
     "timesEncountered": 207,
     "firstSeen": 1754877018722
+  },
+  "9195": {
+    "id": 9195,
+    "name": "Floki",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1474, 3473, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955265413,
+    "timesEncountered": 13,
+    "firstSeen": 1754955256519
   },
   "3051": {
     "id": 3051,
@@ -23768,14 +26000,34 @@
       "Coordinate(2641, 3293, 0)",
       "Coordinate(2639, 3291, 0)",
       "Coordinate(2640, 3291, 0)",
-      "Coordinate(2639, 3292, 0)"
+      "Coordinate(2639, 3292, 0)",
+      "Coordinate(1779, 3628, 0)",
+      "Coordinate(1781, 3627, 0)",
+      "Coordinate(1782, 3627, 0)",
+      "Coordinate(1781, 3626, 0)",
+      "Coordinate(1780, 3626, 0)",
+      "Coordinate(1779, 3626, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754953611916,
-    "timesEncountered": 75,
+    "lastSeen": 1754955819077,
+    "timesEncountered": 101,
     "firstSeen": 1754953446668
+  },
+  "3101": {
+    "id": 3101,
+    "name": "Sawmill operator",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1623, 3500, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955042688,
+    "timesEncountered": 13,
+    "firstSeen": 1754955033398
   },
   "3105": {
     "id": 3105,
@@ -23804,14 +26056,42 @@
     "name": "Briget",
     "animations": [],
     "spawnAreas": [
-      "Coordinate(1567, 3546, 0)"
+      "Coordinate(1567, 3546, 0)",
+      "Coordinate(1568, 3543, 0)",
+      "Coordinate(1567, 3543, 0)",
+      "Coordinate(1565, 3543, 0)",
+      "Coordinate(1566, 3543, 0)",
+      "Coordinate(1568, 3544, 0)",
+      "Coordinate(1566, 3545, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754954616620,
-    "timesEncountered": 12,
+    "lastSeen": 1754954990545,
+    "timesEncountered": 42,
     "firstSeen": 1754954608166
+  },
+  "11297": {
+    "id": 11297,
+    "name": "Gull",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1490, 3459, 0)",
+      "Coordinate(1489, 3458, 0)",
+      "Coordinate(1489, 3459, 0)",
+      "Coordinate(1474, 3468, 0)",
+      "Coordinate(1491, 3456, 0)",
+      "Coordinate(1484, 3463, 0)",
+      "Coordinate(1488, 3459, 0)",
+      "Coordinate(1488, 3458, 0)",
+      "Coordinate(1488, 3457, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955261767,
+    "timesEncountered": 48,
+    "firstSeen": 1754955223628
   },
   "3106": {
     "id": 3106,
@@ -24246,6 +26526,28 @@
     "timesEncountered": 761,
     "firstSeen": 1754849204104
   },
+  "7206": {
+    "id": 7206,
+    "name": "Sand Crab",
+    "animations": [
+      1312,
+      1313,
+      1314
+    ],
+    "spawnAreas": [
+      "Coordinate(1749, 3470, 0)",
+      "Coordinate(1750, 3470, 0)",
+      "Coordinate(1773, 3462, 0)",
+      "Coordinate(1776, 3469, 0)",
+      "Coordinate(1775, 3468, 0)"
+    ],
+    "standingAnimation": 1312,
+    "maxHealth": 0,
+    "combatLevel": 15,
+    "lastSeen": 1754955654275,
+    "timesEncountered": 53,
+    "firstSeen": 1754955605823
+  },
   "1063": {
     "id": 1063,
     "name": "Veos",
@@ -24305,6 +26607,26 @@
     "lastSeen": 1754937200759,
     "timesEncountered": 122,
     "firstSeen": 1754849195261
+  },
+  "7207": {
+    "id": 7207,
+    "name": "Sandy rocks",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1766, 3468, 0)",
+      "Coordinate(1787, 3472, 0)",
+      "Coordinate(1683, 3487, 0)",
+      "Coordinate(1737, 3468, 0)",
+      "Coordinate(1786, 3466, 0)",
+      "Coordinate(1766, 3469, 0)",
+      "Coordinate(1772, 3465, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955654633,
+    "timesEncountered": 67,
+    "firstSeen": 1754955352674
   },
   "3112": {
     "id": 3112,
@@ -24366,13 +26688,67 @@
       "Coordinate(1630, 3664, 0)",
       "Coordinate(1629, 3661, 0)",
       "Coordinate(1629, 3663, 0)",
-      "Coordinate(1630, 3660, 0)"
+      "Coordinate(1630, 3660, 0)",
+      "Coordinate(1766, 3595, 0)",
+      "Coordinate(1743, 3601, 0)",
+      "Coordinate(1765, 3596, 0)",
+      "Coordinate(1764, 3597, 0)",
+      "Coordinate(1763, 3597, 0)",
+      "Coordinate(1762, 3597, 0)",
+      "Coordinate(1761, 3597, 0)",
+      "Coordinate(1760, 3598, 0)",
+      "Coordinate(1760, 3599, 0)",
+      "Coordinate(1760, 3600, 0)",
+      "Coordinate(1759, 3600, 0)",
+      "Coordinate(1774, 3598, 0)",
+      "Coordinate(1761, 3600, 0)",
+      "Coordinate(1762, 3601, 0)",
+      "Coordinate(1763, 3601, 0)",
+      "Coordinate(1762, 3600, 0)",
+      "Coordinate(1760, 3597, 0)",
+      "Coordinate(1760, 3596, 0)",
+      "Coordinate(1760, 3595, 0)",
+      "Coordinate(1761, 3595, 0)",
+      "Coordinate(1762, 3595, 0)",
+      "Coordinate(1763, 3595, 0)",
+      "Coordinate(1764, 3595, 0)",
+      "Coordinate(1741, 3599, 0)",
+      "Coordinate(1740, 3599, 0)",
+      "Coordinate(1739, 3599, 0)",
+      "Coordinate(1738, 3599, 0)",
+      "Coordinate(1765, 3591, 0)",
+      "Coordinate(1765, 3590, 0)",
+      "Coordinate(1765, 3601, 0)",
+      "Coordinate(1764, 3601, 0)",
+      "Coordinate(1758, 3624, 0)",
+      "Coordinate(1757, 3624, 0)",
+      "Coordinate(1756, 3623, 0)",
+      "Coordinate(1757, 3622, 0)",
+      "Coordinate(1766, 3605, 0)",
+      "Coordinate(1759, 3620, 0)",
+      "Coordinate(1759, 3621, 0)",
+      "Coordinate(1759, 3598, 0)",
+      "Coordinate(1759, 3597, 0)",
+      "Coordinate(1759, 3596, 0)",
+      "Coordinate(1758, 3595, 0)",
+      "Coordinate(1761, 3598, 0)",
+      "Coordinate(1761, 3599, 0)",
+      "Coordinate(1760, 3601, 0)",
+      "Coordinate(1759, 3601, 0)",
+      "Coordinate(1781, 3602, 0)",
+      "Coordinate(1758, 3601, 0)",
+      "Coordinate(1762, 3596, 0)",
+      "Coordinate(1759, 3594, 0)",
+      "Coordinate(1758, 3593, 0)",
+      "Coordinate(1757, 3592, 0)",
+      "Coordinate(1739, 3595, 0)",
+      "Coordinate(1741, 3600, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 44,
-    "lastSeen": 1754954155872,
-    "timesEncountered": 27,
+    "lastSeen": 1754955854017,
+    "timesEncountered": 162,
     "firstSeen": 1754954135424
   },
   "3114": {
@@ -24484,13 +26860,18 @@
       "Coordinate(2643, 3369, 0)",
       "Coordinate(2641, 3371, 0)",
       "Coordinate(2640, 3372, 0)",
-      "Coordinate(2639, 3372, 0)"
+      "Coordinate(2639, 3372, 0)",
+      "Coordinate(1654, 3563, 0)",
+      "Coordinate(1653, 3561, 0)",
+      "Coordinate(1652, 3561, 0)",
+      "Coordinate(1653, 3562, 0)",
+      "Coordinate(1652, 3560, 0)"
     ],
     "standingAnimation": 387,
     "maxHealth": 0,
     "combatLevel": 7,
-    "lastSeen": 1754953842859,
-    "timesEncountered": 313,
+    "lastSeen": 1754955434469,
+    "timesEncountered": 329,
     "firstSeen": 1754849469350
   },
   "3115": {
@@ -24540,6 +26921,20 @@
     "lastSeen": 1754875229396,
     "timesEncountered": 23,
     "firstSeen": 1754875193950
+  },
+  "7228": {
+    "id": 7228,
+    "name": "Traxi",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1656, 3543, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955436252,
+    "timesEncountered": 94,
+    "firstSeen": 1754955363682
   },
   "5185": {
     "id": 5185,
@@ -24649,6 +27044,20 @@
     "timesEncountered": 22,
     "firstSeen": 1754954083450
   },
+  "7235": {
+    "id": 7235,
+    "name": "Berry",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1657, 3506, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955359814,
+    "timesEncountered": 33,
+    "firstSeen": 1754955044283
+  },
   "5188": {
     "id": 5188,
     "name": "Guard",
@@ -24670,6 +27079,76 @@
     "lastSeen": 1754954089736,
     "timesEncountered": 10,
     "firstSeen": 1754954082724
+  },
+  "7236": {
+    "id": 7236,
+    "name": "Guildmaster Lars",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1649, 3499, 0)",
+      "Coordinate(1651, 3500, 0)",
+      "Coordinate(1650, 3499, 0)",
+      "Coordinate(1650, 3498, 0)",
+      "Coordinate(1649, 3500, 0)",
+      "Coordinate(1649, 3498, 0)",
+      "Coordinate(1651, 3501, 0)",
+      "Coordinate(1650, 3497, 0)",
+      "Coordinate(1650, 3500, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955351630,
+    "timesEncountered": 33,
+    "firstSeen": 1754955041942
+  },
+  "7237": {
+    "id": 7237,
+    "name": "Murfet",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1608, 3509, 0)",
+      "Coordinate(1606, 3507, 0)",
+      "Coordinate(1607, 3510, 0)",
+      "Coordinate(1607, 3511, 0)",
+      "Coordinate(1606, 3506, 0)",
+      "Coordinate(1607, 3508, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955038022,
+    "timesEncountered": 14,
+    "firstSeen": 1754955027939
+  },
+  "7238": {
+    "id": 7238,
+    "name": "Forester",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1580, 3478, 0)",
+      "Coordinate(1594, 3490, 0)",
+      "Coordinate(1582, 3478, 0)",
+      "Coordinate(1595, 3492, 0)",
+      "Coordinate(1580, 3479, 0)",
+      "Coordinate(1594, 3492, 0)",
+      "Coordinate(1583, 3478, 0)",
+      "Coordinate(1594, 3491, 0)",
+      "Coordinate(1628, 3518, 0)",
+      "Coordinate(1581, 3479, 0)",
+      "Coordinate(1585, 3478, 0)",
+      "Coordinate(1596, 3493, 0)",
+      "Coordinate(1584, 3478, 0)",
+      "Coordinate(1627, 3518, 0)",
+      "Coordinate(1613, 3489, 0)",
+      "Coordinate(1586, 3478, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 15,
+    "lastSeen": 1754955315790,
+    "timesEncountered": 44,
+    "firstSeen": 1754955012969
   },
   "5191": {
     "id": 5191,
@@ -24699,6 +27178,21 @@
     "lastSeen": 1754954099580,
     "timesEncountered": 22,
     "firstSeen": 1754954083455
+  },
+  "7240": {
+    "id": 7240,
+    "name": "Perry",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1654, 3500, 0)",
+      "Coordinate(1654, 3501, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955357854,
+    "timesEncountered": 39,
+    "firstSeen": 1754955043033
   },
   "7241": {
     "id": 7241,
@@ -26850,13 +29344,14 @@
       "Coordinate(3254, 3272, 0)",
       "Coordinate(3172, 3317, 0)",
       "Coordinate(3040, 3301, 0)",
-      "Coordinate(2585, 3122, 0)"
+      "Coordinate(2585, 3122, 0)",
+      "Coordinate(1765, 3643, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754952690373,
-    "timesEncountered": 461,
+    "lastSeen": 1754955799339,
+    "timesEncountered": 462,
     "firstSeen": 1754848110225
   },
   "1173": {
@@ -27038,13 +29533,25 @@
       "Coordinate(2649, 3437, 0)",
       "Coordinate(2648, 3437, 0)",
       "Coordinate(2648, 3446, 0)",
-      "Coordinate(2648, 3445, 0)"
+      "Coordinate(2648, 3445, 0)",
+      "Coordinate(1504, 3460, 0)",
+      "Coordinate(1505, 3462, 0)",
+      "Coordinate(1508, 3467, 0)",
+      "Coordinate(1507, 3462, 0)",
+      "Coordinate(1504, 3463, 0)",
+      "Coordinate(1503, 3464, 0)",
+      "Coordinate(1503, 3465, 0)",
+      "Coordinate(1503, 3466, 0)",
+      "Coordinate(1499, 3471, 0)",
+      "Coordinate(1502, 3471, 0)",
+      "Coordinate(1501, 3472, 0)",
+      "Coordinate(1500, 3472, 0)"
     ],
     "standingAnimation": 5388,
     "maxHealth": 0,
     "combatLevel": 1,
-    "lastSeen": 1754953967423,
-    "timesEncountered": 1172,
+    "lastSeen": 1754955260983,
+    "timesEncountered": 1218,
     "firstSeen": 1754849472780
   },
   "1174": {
@@ -27339,6 +29846,20 @@
     "lastSeen": 1754930287986,
     "timesEncountered": 342,
     "firstSeen": 1754874493992
+  },
+  "7321": {
+    "id": 7321,
+    "name": "Nesty",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1615, 3514, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955039566,
+    "timesEncountered": 12,
+    "firstSeen": 1754955031102
   },
   "1178": {
     "id": 1178,
@@ -29252,13 +31773,14 @@
     "spawnAreas": [
       "Coordinate(2965, 3211, 0)",
       "Coordinate(2963, 3210, 0)",
-      "Coordinate(2395, 4276, 0)"
+      "Coordinate(2395, 4276, 0)",
+      "Coordinate(2964, 3210, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754954099934,
-    "timesEncountered": 4,
+    "lastSeen": 1754956057767,
+    "timesEncountered": 5,
     "firstSeen": 1754946701578
   },
   "1260": {
@@ -29761,6 +32283,20 @@
     "timesEncountered": 185,
     "firstSeen": 1754878507873
   },
+  "7459": {
+    "id": 7459,
+    "name": "Fishing spot",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1494, 3443, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955238357,
+    "timesEncountered": 33,
+    "firstSeen": 1754955190509
+  },
   "1316": {
     "id": 1316,
     "name": "Kaylee",
@@ -29806,6 +32342,49 @@
     "timesEncountered": 266,
     "firstSeen": 1754921787894
   },
+  "7460": {
+    "id": 7460,
+    "name": "Fishing spot",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1485, 3433, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955227568,
+    "timesEncountered": 18,
+    "firstSeen": 1754955214713
+  },
+  "7461": {
+    "id": 7461,
+    "name": "Fishing spot",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1494, 3443, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955238369,
+    "timesEncountered": 33,
+    "firstSeen": 1754955190512
+  },
+  "7462": {
+    "id": 7462,
+    "name": "Fishing spot",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1535, 3414, 0)",
+      "Coordinate(1542, 3417, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955186445,
+    "timesEncountered": 25,
+    "firstSeen": 1754955167988
+  },
   "1319": {
     "id": 1319,
     "name": "Bartender",
@@ -29839,6 +32418,20 @@
     "lastSeen": 1754953028242,
     "timesEncountered": 20,
     "firstSeen": 1754952568820
+  },
+  "7464": {
+    "id": 7464,
+    "name": "Rod Fishing spot",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1650, 3558, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955427732,
+    "timesEncountered": 72,
+    "firstSeen": 1754955373616
   },
   "1321": {
     "id": 1321,
@@ -29889,14 +32482,29 @@
       "Coordinate(2398, 4274, 0)",
       "Coordinate(2965, 3211, 0)",
       "Coordinate(2963, 3210, 0)",
-      "Coordinate(2963, 3211, 0)"
+      "Coordinate(2963, 3211, 0)",
+      "Coordinate(2965, 3212, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754954099932,
-    "timesEncountered": 4,
+    "lastSeen": 1754956057775,
+    "timesEncountered": 5,
     "firstSeen": 1754946701569
+  },
+  "7465": {
+    "id": 7465,
+    "name": "Fishing spot",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1668, 3473, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955346714,
+    "timesEncountered": 2,
+    "firstSeen": 1754955057837
   },
   "5418": {
     "id": 5418,
@@ -29972,6 +32580,21 @@
     "timesEncountered": 154,
     "firstSeen": 1754953352884
   },
+  "7466": {
+    "id": 7466,
+    "name": "Fishing spot",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1676, 3489, 0)",
+      "Coordinate(1678, 3492, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955355931,
+    "timesEncountered": 9,
+    "firstSeen": 1754955350130
+  },
   "1323": {
     "id": 1323,
     "name": "Tarquin",
@@ -30004,6 +32627,20 @@
     "lastSeen": 1754921293097,
     "timesEncountered": 43,
     "firstSeen": 1754877179399
+  },
+  "7468": {
+    "id": 7468,
+    "name": "Rod Fishing spot",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1714, 3607, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955863743,
+    "timesEncountered": 13,
+    "firstSeen": 1754955854404
   },
   "1325": {
     "id": 1325,
@@ -30104,6 +32741,38 @@
     "timesEncountered": 25,
     "firstSeen": 1754937010243
   },
+  "7471": {
+    "id": 7471,
+    "name": "Captain Magoro",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1503, 3402, 0)",
+      "Coordinate(1504, 3401, 0)",
+      "Coordinate(1502, 3402, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955207026,
+    "timesEncountered": 14,
+    "firstSeen": 1754955197250
+  },
+  "7473": {
+    "id": 7473,
+    "name": "Duck",
+    "animations": [
+      6815
+    ],
+    "spawnAreas": [
+      "Coordinate(1504, 3467, 0)"
+    ],
+    "standingAnimation": 6815,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955256921,
+    "timesEncountered": 36,
+    "firstSeen": 1754955230381
+  },
   "1330": {
     "id": 1330,
     "name": "Trader Crewmember",
@@ -30120,6 +32789,20 @@
     "timesEncountered": 11,
     "firstSeen": 1754952727614
   },
+  "7474": {
+    "id": 7474,
+    "name": "Reginald",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1506, 3469, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955255308,
+    "timesEncountered": 27,
+    "firstSeen": 1754955235661
+  },
   "1331": {
     "id": 1331,
     "name": "Trader Crewmember",
@@ -30128,14 +32811,35 @@
       "Coordinate(2589, 2850, 0)",
       "Coordinate(2589, 2851, 0)",
       "Coordinate(2588, 2851, 0)",
-      "Coordinate(2587, 2851, 0)"
+      "Coordinate(2587, 2851, 0)",
+      "Coordinate(1496, 3404, 0)",
+      "Coordinate(1497, 3404, 0)",
+      "Coordinate(1499, 3405, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 1,
-    "lastSeen": 1754947493213,
-    "timesEncountered": 69,
+    "lastSeen": 1754955210093,
+    "timesEncountered": 88,
     "firstSeen": 1754947442489
+  },
+  "7475": {
+    "id": 7475,
+    "name": "Roy jr.",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1505, 3465, 0)",
+      "Coordinate(1506, 3465, 0)",
+      "Coordinate(1506, 3466, 0)",
+      "Coordinate(1507, 3466, 0)",
+      "Coordinate(1507, 3465, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955254903,
+    "timesEncountered": 35,
+    "firstSeen": 1754955229238
   },
   "1332": {
     "id": 1332,
@@ -30153,6 +32857,24 @@
     "timesEncountered": 12,
     "firstSeen": 1754952727619
   },
+  "7476": {
+    "id": 7476,
+    "name": "Robert Boss",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1529, 3423, 0)",
+      "Coordinate(1528, 3421, 0)",
+      "Coordinate(1530, 3422, 0)",
+      "Coordinate(1529, 3422, 0)",
+      "Coordinate(1529, 3421, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955188243,
+    "timesEncountered": 18,
+    "firstSeen": 1754955175208
+  },
   "1334": {
     "id": 1334,
     "name": "Trader Crewmember",
@@ -30163,14 +32885,44 @@
       "Coordinate(2586, 2850, 0)",
       "Coordinate(2586, 2851, 0)",
       "Coordinate(2588, 2851, 0)",
-      "Coordinate(2587, 2851, 0)"
+      "Coordinate(2587, 2851, 0)",
+      "Coordinate(1498, 3405, 0)",
+      "Coordinate(1498, 3404, 0)",
+      "Coordinate(1496, 3402, 0)",
+      "Coordinate(1497, 3402, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 1,
-    "lastSeen": 1754947493994,
-    "timesEncountered": 70,
+    "lastSeen": 1754955208215,
+    "timesEncountered": 88,
     "firstSeen": 1754947442497
+  },
+  "7478": {
+    "id": 7478,
+    "name": "Hugor",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1507, 3418, 0)",
+      "Coordinate(1511, 3420, 0)",
+      "Coordinate(1510, 3420, 0)",
+      "Coordinate(1509, 3420, 0)",
+      "Coordinate(1509, 3422, 0)",
+      "Coordinate(1508, 3420, 0)",
+      "Coordinate(1510, 3421, 0)",
+      "Coordinate(1512, 3419, 0)",
+      "Coordinate(1511, 3419, 0)",
+      "Coordinate(1511, 3421, 0)",
+      "Coordinate(1548, 3419, 0)",
+      "Coordinate(1509, 3423, 0)",
+      "Coordinate(1509, 3421, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955219701,
+    "timesEncountered": 46,
+    "firstSeen": 1754955185746
   },
   "1335": {
     "id": 1335,
@@ -30191,6 +32943,32 @@
     "lastSeen": 1754937164183,
     "timesEncountered": 56,
     "firstSeen": 1754923263174
+  },
+  "7479": {
+    "id": 7479,
+    "name": "Lan the Butcher",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1497, 3421, 0)",
+      "Coordinate(1498, 3421, 0)",
+      "Coordinate(1500, 3423, 0)",
+      "Coordinate(1497, 3424, 0)",
+      "Coordinate(1536, 3420, 0)",
+      "Coordinate(1496, 3420, 0)",
+      "Coordinate(1499, 3424, 0)",
+      "Coordinate(1498, 3422, 0)",
+      "Coordinate(1497, 3422, 0)",
+      "Coordinate(1497, 3420, 0)",
+      "Coordinate(1498, 3424, 0)",
+      "Coordinate(1497, 3423, 0)",
+      "Coordinate(1498, 3420, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955220387,
+    "timesEncountered": 42,
+    "firstSeen": 1754955189358
   },
   "1336": {
     "id": 1336,
@@ -30482,6 +33260,20 @@
     "lastSeen": 1754947519251,
     "timesEncountered": 906,
     "firstSeen": 1754923277944
+  },
+  "7483": {
+    "id": 7483,
+    "name": "Sandicrahb",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1781, 3458, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955650385,
+    "timesEncountered": 4,
+    "firstSeen": 1754955647991
   },
   "5444": {
     "id": 5444,
@@ -31610,13 +34402,39 @@
       "Coordinate(2967, 3448, 0)",
       "Coordinate(2966, 3449, 0)",
       "Coordinate(2966, 3450, 0)",
-      "Coordinate(2966, 3451, 0)"
+      "Coordinate(2966, 3451, 0)",
+      "Coordinate(1539, 3493, 0)",
+      "Coordinate(1538, 3493, 0)",
+      "Coordinate(1515, 3470, 0)",
+      "Coordinate(1515, 3469, 0)",
+      "Coordinate(1517, 3470, 0)",
+      "Coordinate(1517, 3471, 0)",
+      "Coordinate(1516, 3472, 0)",
+      "Coordinate(1515, 3473, 0)",
+      "Coordinate(1523, 3481, 0)",
+      "Coordinate(1522, 3480, 0)",
+      "Coordinate(1526, 3476, 0)",
+      "Coordinate(1525, 3476, 0)",
+      "Coordinate(1524, 3476, 0)",
+      "Coordinate(1517, 3480, 0)",
+      "Coordinate(1516, 3480, 0)",
+      "Coordinate(1517, 3479, 0)",
+      "Coordinate(1518, 3478, 0)",
+      "Coordinate(1527, 3477, 0)",
+      "Coordinate(1528, 3478, 0)",
+      "Coordinate(1528, 3479, 0)",
+      "Coordinate(1758, 3496, 0)",
+      "Coordinate(1707, 3610, 0)",
+      "Coordinate(1705, 3609, 0)",
+      "Coordinate(1695, 3618, 0)",
+      "Coordinate(1680, 3624, 0)",
+      "Coordinate(1679, 3624, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754936957237,
-    "timesEncountered": 231,
+    "lastSeen": 1754955872952,
+    "timesEncountered": 307,
     "firstSeen": 1754921299925
   },
   "1417": {
@@ -31761,13 +34579,33 @@
       "Coordinate(3013, 3426, 0)",
       "Coordinate(3014, 3426, 0)",
       "Coordinate(3015, 3426, 0)",
-      "Coordinate(3060, 3406, 0)"
+      "Coordinate(3060, 3406, 0)",
+      "Coordinate(1671, 3509, 0)",
+      "Coordinate(1670, 3509, 0)",
+      "Coordinate(1670, 3519, 0)",
+      "Coordinate(1671, 3519, 0)",
+      "Coordinate(1672, 3518, 0)",
+      "Coordinate(1672, 3517, 0)",
+      "Coordinate(1673, 3517, 0)",
+      "Coordinate(1674, 3516, 0)",
+      "Coordinate(1674, 3515, 0)",
+      "Coordinate(1676, 3514, 0)",
+      "Coordinate(1707, 3617, 0)",
+      "Coordinate(1682, 3620, 0)",
+      "Coordinate(1681, 3620, 0)",
+      "Coordinate(1680, 3621, 0)",
+      "Coordinate(1681, 3621, 0)",
+      "Coordinate(1681, 3622, 0)",
+      "Coordinate(1680, 3620, 0)",
+      "Coordinate(1679, 3619, 0)",
+      "Coordinate(1678, 3619, 0)",
+      "Coordinate(1677, 3619, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754937036756,
-    "timesEncountered": 278,
+    "lastSeen": 1754955876234,
+    "timesEncountered": 309,
     "firstSeen": 1754921308307
   },
   "1418": {
@@ -31912,13 +34750,210 @@
       "Coordinate(2986, 3444, 0)",
       "Coordinate(2985, 3444, 0)",
       "Coordinate(2984, 3444, 0)",
-      "Coordinate(3043, 3409, 0)"
+      "Coordinate(3043, 3409, 0)",
+      "Coordinate(1642, 3519, 0)",
+      "Coordinate(1657, 3497, 0)",
+      "Coordinate(1657, 3498, 0)",
+      "Coordinate(1656, 3499, 0)",
+      "Coordinate(1492, 3477, 0)",
+      "Coordinate(1491, 3479, 0)",
+      "Coordinate(1491, 3480, 0)",
+      "Coordinate(1490, 3481, 0)",
+      "Coordinate(1490, 3482, 0)",
+      "Coordinate(1489, 3483, 0)",
+      "Coordinate(1488, 3484, 0)",
+      "Coordinate(1488, 3485, 0)",
+      "Coordinate(1488, 3486, 0)",
+      "Coordinate(1492, 3493, 0)",
+      "Coordinate(1492, 3494, 0)",
+      "Coordinate(1492, 3495, 0)",
+      "Coordinate(1491, 3495, 0)",
+      "Coordinate(1493, 3494, 0)",
+      "Coordinate(1494, 3494, 0)",
+      "Coordinate(1496, 3493, 0)",
+      "Coordinate(1497, 3492, 0)",
+      "Coordinate(1498, 3491, 0)",
+      "Coordinate(1499, 3490, 0)",
+      "Coordinate(1501, 3488, 0)",
+      "Coordinate(1502, 3487, 0)",
+      "Coordinate(1503, 3487, 0)",
+      "Coordinate(1504, 3489, 0)",
+      "Coordinate(1505, 3490, 0)",
+      "Coordinate(1505, 3489, 0)",
+      "Coordinate(1506, 3489, 0)",
+      "Coordinate(1507, 3489, 0)",
+      "Coordinate(1503, 3488, 0)",
+      "Coordinate(1506, 3483, 0)",
+      "Coordinate(1667, 3508, 0)",
+      "Coordinate(1665, 3506, 0)",
+      "Coordinate(1664, 3505, 0)",
+      "Coordinate(1663, 3504, 0)",
+      "Coordinate(1662, 3503, 0)",
+      "Coordinate(1661, 3502, 0)",
+      "Coordinate(1660, 3501, 0)",
+      "Coordinate(1659, 3500, 0)",
+      "Coordinate(1658, 3499, 0)",
+      "Coordinate(1658, 3498, 0)",
+      "Coordinate(1658, 3497, 0)",
+      "Coordinate(1662, 3514, 0)",
+      "Coordinate(1652, 3532, 0)",
+      "Coordinate(1654, 3533, 0)",
+      "Coordinate(1660, 3537, 0)",
+      "Coordinate(1660, 3538, 0)",
+      "Coordinate(1660, 3539, 0)",
+      "Coordinate(1661, 3540, 0)",
+      "Coordinate(1663, 3542, 0)",
+      "Coordinate(1664, 3543, 0)",
+      "Coordinate(1663, 3544, 0)",
+      "Coordinate(1662, 3545, 0)",
+      "Coordinate(1661, 3546, 0)",
+      "Coordinate(1660, 3547, 0)",
+      "Coordinate(1660, 3549, 0)",
+      "Coordinate(1660, 3550, 0)",
+      "Coordinate(1659, 3550, 0)",
+      "Coordinate(1659, 3537, 0)",
+      "Coordinate(1661, 3549, 0)",
+      "Coordinate(1662, 3547, 0)",
+      "Coordinate(1663, 3546, 0)",
+      "Coordinate(1663, 3545, 0)",
+      "Coordinate(1665, 3542, 0)",
+      "Coordinate(1662, 3541, 0)",
+      "Coordinate(1661, 3539, 0)",
+      "Coordinate(1660, 3540, 0)",
+      "Coordinate(1660, 3541, 0)",
+      "Coordinate(1658, 3541, 0)",
+      "Coordinate(1657, 3541, 0)",
+      "Coordinate(1656, 3541, 0)",
+      "Coordinate(1659, 3541, 0)",
+      "Coordinate(1661, 3541, 0)",
+      "Coordinate(1663, 3543, 0)",
+      "Coordinate(1662, 3544, 0)",
+      "Coordinate(1661, 3544, 0)",
+      "Coordinate(1659, 3544, 0)",
+      "Coordinate(1659, 3543, 0)",
+      "Coordinate(1658, 3543, 0)",
+      "Coordinate(1650, 3546, 0)",
+      "Coordinate(1651, 3546, 0)",
+      "Coordinate(1662, 3546, 0)",
+      "Coordinate(1662, 3549, 0)",
+      "Coordinate(1662, 3550, 0)",
+      "Coordinate(1663, 3551, 0)",
+      "Coordinate(1663, 3552, 0)",
+      "Coordinate(1663, 3554, 0)",
+      "Coordinate(1663, 3555, 0)",
+      "Coordinate(1663, 3553, 0)",
+      "Coordinate(1650, 3550, 0)",
+      "Coordinate(1651, 3551, 0)",
+      "Coordinate(1652, 3552, 0)",
+      "Coordinate(1653, 3552, 0)",
+      "Coordinate(1654, 3552, 0)",
+      "Coordinate(1654, 3551, 0)",
+      "Coordinate(1655, 3550, 0)",
+      "Coordinate(1655, 3549, 0)",
+      "Coordinate(1664, 3550, 0)",
+      "Coordinate(1663, 3550, 0)",
+      "Coordinate(1662, 3551, 0)",
+      "Coordinate(1662, 3553, 0)",
+      "Coordinate(1662, 3552, 0)",
+      "Coordinate(1656, 3581, 0)",
+      "Coordinate(1665, 3549, 0)",
+      "Coordinate(1666, 3550, 0)",
+      "Coordinate(1667, 3550, 0)",
+      "Coordinate(1668, 3551, 0)",
+      "Coordinate(1669, 3551, 0)",
+      "Coordinate(1728, 3492, 0)",
+      "Coordinate(1729, 3493, 0)",
+      "Coordinate(1728, 3493, 0)",
+      "Coordinate(1734, 3486, 0)",
+      "Coordinate(1727, 3495, 0)",
+      "Coordinate(1726, 3496, 0)",
+      "Coordinate(1748, 3499, 0)",
+      "Coordinate(1748, 3498, 0)",
+      "Coordinate(1748, 3496, 0)",
+      "Coordinate(1747, 3495, 0)",
+      "Coordinate(1746, 3494, 0)",
+      "Coordinate(1746, 3493, 0)",
+      "Coordinate(1745, 3493, 0)",
+      "Coordinate(1747, 3494, 0)",
+      "Coordinate(1748, 3495, 0)",
+      "Coordinate(1748, 3494, 0)",
+      "Coordinate(1748, 3493, 0)",
+      "Coordinate(1748, 3492, 0)",
+      "Coordinate(1749, 3492, 0)",
+      "Coordinate(1750, 3492, 0)",
+      "Coordinate(1749, 3491, 0)",
+      "Coordinate(1761, 3485, 0)",
+      "Coordinate(1761, 3484, 0)",
+      "Coordinate(1761, 3483, 0)",
+      "Coordinate(1760, 3482, 0)",
+      "Coordinate(1758, 3480, 0)",
+      "Coordinate(1757, 3480, 0)",
+      "Coordinate(1756, 3480, 0)",
+      "Coordinate(1755, 3480, 0)",
+      "Coordinate(1754, 3479, 0)",
+      "Coordinate(1753, 3479, 0)",
+      "Coordinate(1753, 3478, 0)",
+      "Coordinate(1755, 3481, 0)",
+      "Coordinate(1756, 3482, 0)",
+      "Coordinate(1757, 3482, 0)",
+      "Coordinate(1758, 3483, 0)",
+      "Coordinate(1759, 3483, 0)",
+      "Coordinate(1759, 3481, 0)",
+      "Coordinate(1758, 3482, 0)",
+      "Coordinate(1760, 3483, 0)",
+      "Coordinate(1762, 3484, 0)",
+      "Coordinate(1763, 3485, 0)",
+      "Coordinate(1764, 3486, 0)",
+      "Coordinate(1765, 3486, 0)",
+      "Coordinate(1764, 3485, 0)",
+      "Coordinate(1763, 3484, 0)",
+      "Coordinate(1762, 3483, 0)",
+      "Coordinate(1761, 3482, 0)",
+      "Coordinate(1758, 3481, 0)",
+      "Coordinate(1757, 3481, 0)",
+      "Coordinate(1756, 3481, 0)",
+      "Coordinate(1755, 3482, 0)",
+      "Coordinate(1754, 3482, 0)",
+      "Coordinate(1753, 3483, 0)",
+      "Coordinate(1754, 3483, 0)",
+      "Coordinate(1788, 3509, 0)",
+      "Coordinate(1787, 3508, 0)",
+      "Coordinate(1788, 3508, 0)",
+      "Coordinate(1788, 3507, 0)",
+      "Coordinate(1788, 3505, 0)",
+      "Coordinate(1788, 3510, 0)",
+      "Coordinate(1799, 3515, 0)",
+      "Coordinate(1798, 3515, 0)",
+      "Coordinate(1691, 3606, 0)",
+      "Coordinate(1691, 3605, 0)",
+      "Coordinate(1691, 3604, 0)",
+      "Coordinate(1692, 3603, 0)",
+      "Coordinate(1692, 3602, 0)",
+      "Coordinate(1692, 3601, 0)",
+      "Coordinate(1691, 3602, 0)",
+      "Coordinate(1690, 3603, 0)",
+      "Coordinate(1689, 3604, 0)",
+      "Coordinate(1688, 3606, 0)",
+      "Coordinate(1688, 3607, 0)",
+      "Coordinate(1687, 3607, 0)",
+      "Coordinate(1685, 3607, 0)",
+      "Coordinate(1684, 3606, 0)",
+      "Coordinate(1683, 3605, 0)",
+      "Coordinate(1681, 3603, 0)",
+      "Coordinate(1680, 3603, 0)",
+      "Coordinate(1679, 3603, 0)",
+      "Coordinate(1678, 3603, 0)",
+      "Coordinate(1677, 3603, 0)",
+      "Coordinate(1662, 3586, 0)",
+      "Coordinate(1661, 3586, 0)",
+      "Coordinate(1667, 3598, 0)",
+      "Coordinate(1667, 3597, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754937033727,
-    "timesEncountered": 242,
+    "lastSeen": 1754955889399,
+    "timesEncountered": 663,
     "firstSeen": 1754921432357
   },
   "5514": {
@@ -32243,13 +35278,16 @@
       "Coordinate(2982, 3447, 0)",
       "Coordinate(2998, 3487, 0)",
       "Coordinate(2981, 3446, 0)",
-      "Coordinate(2980, 3446, 0)"
+      "Coordinate(2980, 3446, 0)",
+      "Coordinate(1664, 3606, 0)",
+      "Coordinate(1663, 3607, 0)",
+      "Coordinate(1662, 3608, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754936966022,
-    "timesEncountered": 291,
+    "lastSeen": 1754955880984,
+    "timesEncountered": 302,
     "firstSeen": 1754878513246
   },
   "1421": {
@@ -32402,13 +35440,14 @@
       "Coordinate(2985, 3440, 0)",
       "Coordinate(2982, 3441, 0)",
       "Coordinate(2981, 3442, 0)",
-      "Coordinate(2981, 3443, 0)"
+      "Coordinate(2981, 3443, 0)",
+      "Coordinate(1656, 3597, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754936966017,
-    "timesEncountered": 361,
+    "lastSeen": 1754955876906,
+    "timesEncountered": 363,
     "firstSeen": 1754921300233
   },
   "5519": {
@@ -32720,6 +35759,38 @@
     "timesEncountered": 708,
     "firstSeen": 1754874526365
   },
+  "5552": {
+    "id": 5552,
+    "name": "Copper longtail",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1568, 3438, 0)",
+      "Coordinate(1556, 3427, 0)",
+      "Coordinate(1558, 3429, 0)",
+      "Coordinate(1566, 3440, 0)",
+      "Coordinate(1559, 3429, 0)",
+      "Coordinate(1558, 3428, 0)",
+      "Coordinate(1555, 3435, 0)",
+      "Coordinate(1558, 3430, 0)",
+      "Coordinate(1556, 3435, 0)",
+      "Coordinate(1557, 3428, 0)",
+      "Coordinate(1567, 3437, 0)",
+      "Coordinate(1559, 3427, 0)",
+      "Coordinate(1568, 3439, 0)",
+      "Coordinate(1558, 3427, 0)",
+      "Coordinate(1557, 3434, 0)",
+      "Coordinate(1547, 3437, 0)",
+      "Coordinate(1558, 3433, 0)",
+      "Coordinate(1546, 3437, 0)",
+      "Coordinate(1558, 3431, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955181969,
+    "timesEncountered": 40,
+    "firstSeen": 1754955152688
+  },
   "3504": {
     "id": 3504,
     "name": "Kanel",
@@ -32819,6 +35890,44 @@
     "lastSeen": 1754947664191,
     "timesEncountered": 132,
     "firstSeen": 1754947494800
+  },
+  "5556": {
+    "id": 5556,
+    "name": "Ruby harvest",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1504, 3468, 0)",
+      "Coordinate(1508, 3470, 0)",
+      "Coordinate(1503, 3479, 0)",
+      "Coordinate(1506, 3475, 0)",
+      "Coordinate(1527, 3479, 0)",
+      "Coordinate(1505, 3469, 0)",
+      "Coordinate(1509, 3471, 0)",
+      "Coordinate(1503, 3469, 0)",
+      "Coordinate(1503, 3478, 0)",
+      "Coordinate(1508, 3474, 0)",
+      "Coordinate(1528, 3480, 0)",
+      "Coordinate(1501, 3478, 0)",
+      "Coordinate(1501, 3469, 0)",
+      "Coordinate(1507, 3470, 0)",
+      "Coordinate(1510, 3474, 0)",
+      "Coordinate(1502, 3470, 0)",
+      "Coordinate(1506, 3469, 0)",
+      "Coordinate(1509, 3474, 0)",
+      "Coordinate(1504, 3469, 0)",
+      "Coordinate(1507, 3474, 0)",
+      "Coordinate(1502, 3478, 0)",
+      "Coordinate(1502, 3469, 0)",
+      "Coordinate(1526, 3478, 0)",
+      "Coordinate(1510, 3473, 0)",
+      "Coordinate(1504, 3477, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955297414,
+    "timesEncountered": 71,
+    "firstSeen": 1754955235674
   },
   "1461": {
     "id": 1461,
@@ -33684,13 +36793,14 @@
     "animations": [],
     "spawnAreas": [
       "Coordinate(2950, 3212, 0)",
-      "Coordinate(2382, 4277, 0)"
+      "Coordinate(2382, 4277, 0)",
+      "Coordinate(2949, 3212, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754954099925,
-    "timesEncountered": 4,
+    "lastSeen": 1754956057771,
+    "timesEncountered": 5,
     "firstSeen": 1754946701573
   },
   "11854": {
@@ -33709,6 +36819,33 @@
     "lastSeen": 1754938431325,
     "timesEncountered": 795,
     "firstSeen": 1754874525940
+  },
+  "3664": {
+    "id": 3664,
+    "name": "Rabbit",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1651, 3536, 0)",
+      "Coordinate(1652, 3538, 0)",
+      "Coordinate(1653, 3538, 0)",
+      "Coordinate(1651, 3540, 0)",
+      "Coordinate(1654, 3537, 0)",
+      "Coordinate(1651, 3538, 0)",
+      "Coordinate(1654, 3539, 0)",
+      "Coordinate(1652, 3537, 0)",
+      "Coordinate(1653, 3537, 0)",
+      "Coordinate(1650, 3537, 0)",
+      "Coordinate(1708, 3616, 0)",
+      "Coordinate(1651, 3539, 0)",
+      "Coordinate(1654, 3538, 0)",
+      "Coordinate(1651, 3535, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 2,
+    "lastSeen": 1754955865210,
+    "timesEncountered": 65,
+    "firstSeen": 1754955360619
   },
   "1618": {
     "id": 1618,
@@ -33821,13 +36958,22 @@
       "Coordinate(2634, 3367, 0)",
       "Coordinate(2634, 3361, 0)",
       "Coordinate(2632, 3366, 0)",
-      "Coordinate(2634, 3359, 0)"
+      "Coordinate(2634, 3359, 0)",
+      "Coordinate(1761, 3631, 0)",
+      "Coordinate(1762, 3631, 0)",
+      "Coordinate(1761, 3632, 0)",
+      "Coordinate(1761, 3633, 0)",
+      "Coordinate(1761, 3634, 0)",
+      "Coordinate(1761, 3635, 0)",
+      "Coordinate(1762, 3634, 0)",
+      "Coordinate(1762, 3632, 0)",
+      "Coordinate(1763, 3632, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754953846988,
-    "timesEncountered": 23,
+    "lastSeen": 1754955814506,
+    "timesEncountered": 55,
     "firstSeen": 1754953830728
   },
   "1635": {
@@ -33901,13 +37047,29 @@
       "Coordinate(2455, 3065, 0)",
       "Coordinate(2458, 3068, 0)",
       "Coordinate(2458, 3081, 0)",
-      "Coordinate(2459, 3072, 0)"
+      "Coordinate(2459, 3072, 0)",
+      "Coordinate(1707, 3489, 0)",
+      "Coordinate(1707, 3490, 0)",
+      "Coordinate(1711, 3495, 0)",
+      "Coordinate(1712, 3496, 0)",
+      "Coordinate(1713, 3497, 0)",
+      "Coordinate(1713, 3498, 0)",
+      "Coordinate(1714, 3499, 0)",
+      "Coordinate(1715, 3499, 0)",
+      "Coordinate(1716, 3501, 0)",
+      "Coordinate(1717, 3501, 0)",
+      "Coordinate(1719, 3501, 0)",
+      "Coordinate(1720, 3501, 0)",
+      "Coordinate(1720, 3500, 0)",
+      "Coordinate(1721, 3499, 0)",
+      "Coordinate(1723, 3494, 0)",
+      "Coordinate(1724, 3494, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754948074960,
-    "timesEncountered": 31,
+    "lastSeen": 1754955591012,
+    "timesEncountered": 47,
     "firstSeen": 1754948051398
   },
   "1639": {
@@ -33940,13 +37102,18 @@
       "Coordinate(2451, 3082, 0)",
       "Coordinate(2453, 3084, 0)",
       "Coordinate(2454, 3085, 0)",
-      "Coordinate(2455, 3101, 0)"
+      "Coordinate(2455, 3101, 0)",
+      "Coordinate(1692, 3506, 0)",
+      "Coordinate(1692, 3505, 0)",
+      "Coordinate(1692, 3504, 0)",
+      "Coordinate(1692, 3503, 0)",
+      "Coordinate(1692, 3502, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754952372081,
-    "timesEncountered": 27,
+    "lastSeen": 1754955550282,
+    "timesEncountered": 32,
     "firstSeen": 1754947850657
   },
   "1641": {
@@ -35384,6 +38551,20 @@
     "timesEncountered": 132,
     "firstSeen": 1754953352909
   },
+  "11941": {
+    "id": 11941,
+    "name": "Master Farmer",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1789, 3593, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955832152,
+    "timesEncountered": 1,
+    "firstSeen": 1754955832154
+  },
   "11943": {
     "id": 11943,
     "name": "Guard",
@@ -35906,6 +39087,26 @@
     "timesEncountered": 14,
     "firstSeen": 1754953670109
   },
+  "7901": {
+    "id": 7901,
+    "name": "Chef Olivia",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1778, 3567, 0)",
+      "Coordinate(1777, 3566, 0)",
+      "Coordinate(1776, 3564, 0)",
+      "Coordinate(1776, 3565, 0)",
+      "Coordinate(1775, 3565, 0)",
+      "Coordinate(1776, 3566, 0)",
+      "Coordinate(1777, 3567, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955728875,
+    "timesEncountered": 40,
+    "firstSeen": 1754955691887
+  },
   "12008": {
     "id": 12008,
     "name": "Crow",
@@ -36203,13 +39404,15 @@
       "Coordinate(2082, 3930, 0)",
       "Coordinate(2085, 3928, 0)",
       "Coordinate(2086, 3928, 0)",
-      "Coordinate(2083, 3928, 0)"
+      "Coordinate(2083, 3928, 0)",
+      "Coordinate(2081, 3928, 0)",
+      "Coordinate(2085, 3929, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754954135031,
-    "timesEncountered": 51,
+    "lastSeen": 1754956106360,
+    "timesEncountered": 65,
     "firstSeen": 1754946725206
   },
   "12028": {
@@ -36344,13 +39547,15 @@
       "Coordinate(2093, 3906, 0)",
       "Coordinate(2096, 3904, 0)",
       "Coordinate(2098, 3903, 0)",
-      "Coordinate(2091, 3906, 0)"
+      "Coordinate(2091, 3906, 0)",
+      "Coordinate(2092, 3906, 0)",
+      "Coordinate(2092, 3905, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754954135026,
-    "timesEncountered": 72,
+    "lastSeen": 1754956106750,
+    "timesEncountered": 121,
     "firstSeen": 1754946720281
   },
   "1793": {
@@ -36432,13 +39637,27 @@
       "Coordinate(2086, 3917, 0)",
       "Coordinate(2087, 3916, 0)",
       "Coordinate(2085, 3915, 0)",
-      "Coordinate(2083, 3909, 0)"
+      "Coordinate(2083, 3909, 0)",
+      "Coordinate(2088, 3918, 0)",
+      "Coordinate(2088, 3919, 0)",
+      "Coordinate(2085, 3914, 0)",
+      "Coordinate(2086, 3913, 0)",
+      "Coordinate(2087, 3912, 0)",
+      "Coordinate(2088, 3911, 0)",
+      "Coordinate(2089, 3911, 0)",
+      "Coordinate(2089, 3912, 0)",
+      "Coordinate(2089, 3913, 0)",
+      "Coordinate(2089, 3915, 0)",
+      "Coordinate(2087, 3915, 0)",
+      "Coordinate(2086, 3911, 0)",
+      "Coordinate(2087, 3910, 0)",
+      "Coordinate(2086, 3910, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754946771450,
-    "timesEncountered": 42,
+    "lastSeen": 1754956105151,
+    "timesEncountered": 81,
     "firstSeen": 1754946727559
   },
   "1794": {
@@ -36500,13 +39719,18 @@
       "Coordinate(2105, 3911, 0)",
       "Coordinate(2104, 3911, 0)",
       "Coordinate(2106, 3912, 0)",
-      "Coordinate(2103, 3911, 0)"
+      "Coordinate(2103, 3911, 0)",
+      "Coordinate(2104, 3909, 0)",
+      "Coordinate(2105, 3909, 0)",
+      "Coordinate(2106, 3909, 0)",
+      "Coordinate(2106, 3908, 0)",
+      "Coordinate(2105, 3906, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754954134653,
-    "timesEncountered": 74,
+    "lastSeen": 1754956106368,
+    "timesEncountered": 125,
     "firstSeen": 1754946720286
   },
   "1795": {
@@ -36545,8 +39769,8 @@
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754954134646,
-    "timesEncountered": 98,
+    "lastSeen": 1754956106365,
+    "timesEncountered": 149,
     "firstSeen": 1754946720274
   },
   "1796": {
@@ -36682,13 +39906,28 @@
     "name": "Enchanted Bucket",
     "animations": [],
     "spawnAreas": [
-      "Coordinate(2081, 3899, 0)"
+      "Coordinate(2081, 3899, 0)",
+      "Coordinate(2092, 3902, 0)",
+      "Coordinate(2092, 3903, 0)",
+      "Coordinate(2092, 3904, 0)",
+      "Coordinate(2092, 3905, 0)",
+      "Coordinate(2092, 3906, 0)",
+      "Coordinate(2092, 3907, 0)",
+      "Coordinate(2092, 3909, 0)",
+      "Coordinate(2092, 3910, 0)",
+      "Coordinate(2092, 3911, 0)",
+      "Coordinate(2092, 3912, 0)",
+      "Coordinate(2092, 3914, 0)",
+      "Coordinate(2090, 3914, 0)",
+      "Coordinate(2089, 3914, 0)",
+      "Coordinate(2088, 3914, 0)",
+      "Coordinate(2087, 3914, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754946741179,
-    "timesEncountered": 17,
+    "lastSeen": 1754956095217,
+    "timesEncountered": 51,
     "firstSeen": 1754946729542
   },
   "3849": {
@@ -36696,13 +39935,23 @@
     "name": "Enchanted Bucket",
     "animations": [],
     "spawnAreas": [
-      "Coordinate(2104, 3895, 0)"
+      "Coordinate(2104, 3895, 0)",
+      "Coordinate(2095, 3902, 0)",
+      "Coordinate(2096, 3902, 0)",
+      "Coordinate(2097, 3902, 0)",
+      "Coordinate(2098, 3902, 0)",
+      "Coordinate(2099, 3902, 0)",
+      "Coordinate(2100, 3902, 0)",
+      "Coordinate(2102, 3902, 0)",
+      "Coordinate(2103, 3902, 0)",
+      "Coordinate(2104, 3902, 0)",
+      "Coordinate(2104, 3900, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754946734137,
-    "timesEncountered": 6,
+    "lastSeen": 1754956080930,
+    "timesEncountered": 24,
     "firstSeen": 1754946730626
   },
   "3850": {
@@ -36732,13 +39981,20 @@
       "Coordinate(2092, 3915, 0)",
       "Coordinate(2095, 3916, 0)",
       "Coordinate(2107, 3923, 0)",
-      "Coordinate(2106, 3917, 0)"
+      "Coordinate(2106, 3917, 0)",
+      "Coordinate(2102, 3923, 0)",
+      "Coordinate(2101, 3923, 0)",
+      "Coordinate(2099, 3923, 0)",
+      "Coordinate(2098, 3923, 0)",
+      "Coordinate(2097, 3923, 0)",
+      "Coordinate(2096, 3922, 0)",
+      "Coordinate(2094, 3921, 0)"
     ],
     "standingAnimation": 4371,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754954134650,
-    "timesEncountered": 134,
+    "lastSeen": 1754956106371,
+    "timesEncountered": 185,
     "firstSeen": 1754946720277
   },
   "7947": {
@@ -36817,13 +40073,19 @@
       "Coordinate(2077, 3926, 0)",
       "Coordinate(2081, 3925, 0)",
       "Coordinate(2084, 3926, 0)",
-      "Coordinate(2084, 3925, 0)"
+      "Coordinate(2084, 3925, 0)",
+      "Coordinate(2086, 3926, 0)",
+      "Coordinate(2085, 3925, 0)",
+      "Coordinate(2085, 3923, 0)",
+      "Coordinate(2086, 3924, 0)",
+      "Coordinate(2087, 3925, 0)",
+      "Coordinate(2087, 3926, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754954130368,
-    "timesEncountered": 37,
+    "lastSeen": 1754956103173,
+    "timesEncountered": 60,
     "firstSeen": 1754946730239
   },
   "5905": {
@@ -37316,13 +40578,57 @@
       "Coordinate(2606, 3440, 0)",
       "Coordinate(2606, 3439, 0)",
       "Coordinate(2606, 3438, 0)",
-      "Coordinate(2606, 3437, 0)"
+      "Coordinate(2606, 3437, 0)",
+      "Coordinate(1634, 3503, 0)",
+      "Coordinate(1635, 3503, 0)",
+      "Coordinate(1636, 3503, 0)",
+      "Coordinate(1637, 3503, 0)",
+      "Coordinate(1639, 3503, 0)",
+      "Coordinate(1640, 3503, 0)",
+      "Coordinate(1638, 3503, 0)",
+      "Coordinate(1639, 3500, 0)",
+      "Coordinate(1638, 3500, 0)",
+      "Coordinate(1687, 3584, 0)",
+      "Coordinate(1686, 3585, 0)",
+      "Coordinate(1687, 3585, 0)",
+      "Coordinate(1687, 3586, 0)",
+      "Coordinate(1670, 3590, 0)",
+      "Coordinate(1669, 3589, 0)",
+      "Coordinate(1668, 3588, 0)",
+      "Coordinate(1668, 3587, 0)",
+      "Coordinate(1668, 3586, 0)",
+      "Coordinate(1667, 3586, 0)",
+      "Coordinate(1666, 3585, 0)",
+      "Coordinate(1665, 3584, 0)",
+      "Coordinate(1664, 3583, 0)",
+      "Coordinate(1664, 3582, 0)",
+      "Coordinate(1718, 3608, 0)",
+      "Coordinate(1716, 3607, 0)",
+      "Coordinate(1716, 3606, 0)",
+      "Coordinate(1714, 3606, 0)",
+      "Coordinate(1714, 3605, 0)",
+      "Coordinate(1714, 3604, 0)",
+      "Coordinate(1713, 3603, 0)",
+      "Coordinate(1712, 3601, 0)",
+      "Coordinate(1693, 3595, 0)",
+      "Coordinate(1687, 3591, 0)",
+      "Coordinate(1686, 3591, 0)",
+      "Coordinate(1685, 3591, 0)",
+      "Coordinate(1684, 3591, 0)",
+      "Coordinate(1684, 3590, 0)",
+      "Coordinate(1684, 3589, 0)",
+      "Coordinate(1684, 3588, 0)",
+      "Coordinate(1683, 3588, 0)",
+      "Coordinate(1685, 3588, 0)",
+      "Coordinate(1685, 3587, 0)",
+      "Coordinate(1687, 3583, 0)",
+      "Coordinate(1687, 3582, 0)"
     ],
     "standingAnimation": 6818,
     "maxHealth": 0,
     "combatLevel": 1,
-    "lastSeen": 1754954007170,
-    "timesEncountered": 2097,
+    "lastSeen": 1754955890545,
+    "timesEncountered": 2180,
     "firstSeen": 1754849143647
   },
   "1839": {
@@ -37577,14 +40883,58 @@
       "Coordinate(2592, 3438, 0)",
       "Coordinate(2604, 3438, 0)",
       "Coordinate(2597, 3416, 0)",
-      "Coordinate(2595, 3439, 0)"
+      "Coordinate(2595, 3439, 0)",
+      "Coordinate(1636, 3497, 0)",
+      "Coordinate(1636, 3499, 0)",
+      "Coordinate(1636, 3500, 0)",
+      "Coordinate(1637, 3501, 0)",
+      "Coordinate(1637, 3502, 0)",
+      "Coordinate(1637, 3503, 0)",
+      "Coordinate(1638, 3503, 0)",
+      "Coordinate(1639, 3503, 0)",
+      "Coordinate(1640, 3503, 0)",
+      "Coordinate(1665, 3591, 0)",
+      "Coordinate(1712, 3596, 0)",
+      "Coordinate(1692, 3595, 0)",
+      "Coordinate(1693, 3595, 0)",
+      "Coordinate(1692, 3594, 0)",
+      "Coordinate(1691, 3593, 0)",
+      "Coordinate(1673, 3593, 0)",
+      "Coordinate(1672, 3593, 0)",
+      "Coordinate(1671, 3593, 0)",
+      "Coordinate(1670, 3593, 0)",
+      "Coordinate(1689, 3595, 0)",
+      "Coordinate(1674, 3593, 0)",
+      "Coordinate(1674, 3592, 0)",
+      "Coordinate(1674, 3591, 0)",
+      "Coordinate(1674, 3590, 0)"
     ],
     "standingAnimation": 6818,
     "maxHealth": 0,
     "combatLevel": 1,
-    "lastSeen": 1754954010144,
-    "timesEncountered": 1456,
+    "lastSeen": 1754955889397,
+    "timesEncountered": 1529,
     "firstSeen": 1754849144725
+  },
+  "5935": {
+    "id": 5935,
+    "name": "Sand Crab",
+    "animations": [
+      1312,
+      1313,
+      1314
+    ],
+    "spawnAreas": [
+      "Coordinate(1773, 3460, 0)",
+      "Coordinate(1753, 3471, 0)",
+      "Coordinate(1749, 3468, 0)"
+    ],
+    "standingAnimation": 1312,
+    "maxHealth": 0,
+    "combatLevel": 15,
+    "lastSeen": 1754955650710,
+    "timesEncountered": 53,
+    "firstSeen": 1754955611293
   },
   "3887": {
     "id": 3887,
@@ -37599,6 +40949,23 @@
     "lastSeen": 1754946626069,
     "timesEncountered": 54,
     "firstSeen": 1754945869828
+  },
+  "5936": {
+    "id": 5936,
+    "name": "Sandy rocks",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1766, 3467, 0)",
+      "Coordinate(1741, 3473, 0)",
+      "Coordinate(1753, 3471, 0)",
+      "Coordinate(1738, 3469, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955653126,
+    "timesEncountered": 70,
+    "firstSeen": 1754955600399
   },
   "3888": {
     "id": 3888,
@@ -37841,6 +41208,25 @@
     "timesEncountered": 72,
     "firstSeen": 1754849972144
   },
+  "3901": {
+    "id": 3901,
+    "name": "Fox",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1701, 3609, 0)",
+      "Coordinate(1691, 3626, 0)",
+      "Coordinate(1700, 3609, 0)",
+      "Coordinate(1702, 3609, 0)",
+      "Coordinate(1702, 3608, 0)",
+      "Coordinate(1702, 3607, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 19,
+    "lastSeen": 1754955872203,
+    "timesEncountered": 12,
+    "firstSeen": 1754955861029
+  },
   "5950": {
     "id": 5950,
     "name": "Elly the Camel",
@@ -37863,6 +41249,30 @@
     "lastSeen": 1754849851904,
     "timesEncountered": 50,
     "firstSeen": 1754849833958
+  },
+  "1854": {
+    "id": 1854,
+    "name": "Butterfly",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1663, 3612, 0)",
+      "Coordinate(1661, 3610, 0)",
+      "Coordinate(1663, 3616, 0)",
+      "Coordinate(1662, 3614, 0)",
+      "Coordinate(1662, 3611, 0)",
+      "Coordinate(1660, 3611, 0)",
+      "Coordinate(1663, 3615, 0)",
+      "Coordinate(1660, 3609, 0)",
+      "Coordinate(1660, 3612, 0)",
+      "Coordinate(1661, 3613, 0)",
+      "Coordinate(1660, 3610, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955880996,
+    "timesEncountered": 11,
+    "firstSeen": 1754955873602
   },
   "5951": {
     "id": 5951,
@@ -37937,6 +41347,46 @@
     "lastSeen": 1754877547637,
     "timesEncountered": 37,
     "firstSeen": 1754849700534
+  },
+  "3908": {
+    "id": 3908,
+    "name": "Bear Cub",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1499, 3454, 0)",
+      "Coordinate(1498, 3453, 0)",
+      "Coordinate(1508, 3450, 0)",
+      "Coordinate(1496, 3452, 0)",
+      "Coordinate(1502, 3447, 0)",
+      "Coordinate(1502, 3448, 0)",
+      "Coordinate(1500, 3454, 0)",
+      "Coordinate(1497, 3453, 0)",
+      "Coordinate(1503, 3447, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 15,
+    "lastSeen": 1754955249517,
+    "timesEncountered": 40,
+    "firstSeen": 1754955219290
+  },
+  "3910": {
+    "id": 3910,
+    "name": "Unicorn Foal",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1728, 3578, 0)",
+      "Coordinate(1728, 3579, 0)",
+      "Coordinate(1728, 3576, 0)",
+      "Coordinate(1728, 3577, 0)",
+      "Coordinate(1726, 3575, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 12,
+    "lastSeen": 1754955854015,
+    "timesEncountered": 9,
+    "firstSeen": 1754955847886
   },
   "14155": {
     "id": 14155,
@@ -39358,13 +42808,20 @@
       "Coordinate(2967, 3361, 0)",
       "Coordinate(2599, 3418, 0)",
       "Coordinate(2598, 3418, 0)",
-      "Coordinate(2597, 3417, 0)"
+      "Coordinate(2597, 3417, 0)",
+      "Coordinate(1634, 3497, 0)",
+      "Coordinate(1635, 3497, 0)",
+      "Coordinate(1636, 3497, 0)",
+      "Coordinate(1636, 3498, 0)",
+      "Coordinate(1636, 3500, 0)",
+      "Coordinate(1637, 3501, 0)",
+      "Coordinate(1639, 3503, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754954009744,
-    "timesEncountered": 489,
+    "lastSeen": 1754955057832,
+    "timesEncountered": 504,
     "firstSeen": 1754849146975
   },
   "6098": {
@@ -39664,8 +43121,8 @@
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754954134648,
-    "timesEncountered": 95,
+    "lastSeen": 1754956106362,
+    "timesEncountered": 146,
     "firstSeen": 1754946720294
   },
   "4080": {
@@ -39720,14 +43177,37 @@
       "Coordinate(1540, 3544, 0)",
       "Coordinate(1540, 3546, 0)",
       "Coordinate(1540, 3543, 0)",
-      "Coordinate(1541, 3542, 0)"
+      "Coordinate(1541, 3542, 0)",
+      "Coordinate(1541, 3543, 0)",
+      "Coordinate(1540, 3542, 0)",
+      "Coordinate(1542, 3542, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754954609009,
-    "timesEncountered": 19,
+    "lastSeen": 1754954991616,
+    "timesEncountered": 72,
     "firstSeen": 1754954595366
+  },
+  "8181": {
+    "id": 8181,
+    "name": "Jonathan",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1780, 3547, 0)",
+      "Coordinate(1749, 3587, 0)",
+      "Coordinate(1749, 3586, 0)",
+      "Coordinate(1748, 3586, 0)",
+      "Coordinate(1748, 3587, 0)",
+      "Coordinate(1749, 3588, 0)",
+      "Coordinate(1749, 3589, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754955850968,
+    "timesEncountered": 80,
+    "firstSeen": 1754955742311
   },
   "8189": {
     "id": 8189,
