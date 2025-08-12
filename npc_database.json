@@ -2516,6 +2516,22 @@
     "timesEncountered": 170,
     "firstSeen": 1754878615120
   },
+  "2124": {
+    "id": 2124,
+    "name": "Priestess Zul-Gwenwynig",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(2212, 3056, 0)",
+      "Coordinate(2211, 3056, 0)",
+      "Coordinate(2212, 3057, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754961683071,
+    "timesEncountered": 18,
+    "firstSeen": 1754961478262
+  },
   "77": {
     "id": 77,
     "name": "Skeleton",
@@ -4958,13 +4974,26 @@
       "Coordinate(2541, 3171, 0)",
       "Coordinate(2541, 3172, 0)",
       "Coordinate(1253, 3737, 0)",
-      "Coordinate(1254, 3737, 0)"
+      "Coordinate(1254, 3737, 0)",
+      "Coordinate(2194, 3155, 0)",
+      "Coordinate(2195, 3156, 0)",
+      "Coordinate(2194, 3156, 0)",
+      "Coordinate(2193, 3157, 0)",
+      "Coordinate(2193, 3156, 0)",
+      "Coordinate(2192, 3156, 0)",
+      "Coordinate(2191, 3156, 0)",
+      "Coordinate(2190, 3157, 0)",
+      "Coordinate(2189, 3158, 0)",
+      "Coordinate(2188, 3159, 0)",
+      "Coordinate(2186, 3161, 0)",
+      "Coordinate(2186, 3162, 0)",
+      "Coordinate(2185, 3162, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754960883932,
-    "timesEncountered": 201,
+    "lastSeen": 1754961779597,
+    "timesEncountered": 264,
     "firstSeen": 1754849333656
   },
   "244": {
@@ -6396,6 +6425,24 @@
     "timesEncountered": 25,
     "firstSeen": 1754960873922
   },
+  "6488": {
+    "id": 6488,
+    "name": "Fishing spot",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(2200, 3066, 0)",
+      "Coordinate(2182, 3067, 0)",
+      "Coordinate(2186, 3070, 0)",
+      "Coordinate(2199, 3066, 0)",
+      "Coordinate(2192, 3070, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754961692188,
+    "timesEncountered": 35,
+    "firstSeen": 1754961423719
+  },
   "8537": {
     "id": 8537,
     "name": "Latlink Fastbell",
@@ -6412,6 +6459,20 @@
     "lastSeen": 1754960927784,
     "timesEncountered": 12,
     "firstSeen": 1754960878573
+  },
+  "6489": {
+    "id": 6489,
+    "name": "null",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(2189, 3071, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754961689597,
+    "timesEncountered": 19,
+    "firstSeen": 1754961423750
   },
   "8538": {
     "id": 8538,
@@ -10704,6 +10765,22 @@
     "lastSeen": 1754947074465,
     "timesEncountered": 106,
     "firstSeen": 1754946996059
+  },
+  "6722": {
+    "id": 6722,
+    "name": "Heron",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(2188, 3069, 0)",
+      "Coordinate(2183, 3066, 0)",
+      "Coordinate(2187, 3069, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754961690679,
+    "timesEncountered": 24,
+    "firstSeen": 1754961423746
   },
   "4687": {
     "id": 4687,
@@ -15160,8 +15237,8 @@
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 111,
-    "lastSeen": 1754946890828,
-    "timesEncountered": 104,
+    "lastSeen": 1754961451004,
+    "timesEncountered": 119,
     "firstSeen": 1754946770776
   },
   "2835": {
@@ -15587,13 +15664,15 @@
       "Coordinate(2118, 3929, 0)",
       "Coordinate(2119, 3929, 0)",
       "Coordinate(2118, 3928, 0)",
-      "Coordinate(2118, 3927, 0)"
+      "Coordinate(2118, 3927, 0)",
+      "Coordinate(2114, 3929, 0)",
+      "Coordinate(2118, 3923, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 111,
-    "lastSeen": 1754961064500,
-    "timesEncountered": 185,
+    "lastSeen": 1754961438787,
+    "timesEncountered": 206,
     "firstSeen": 1754946720299
   },
   "2838": {
@@ -18082,13 +18161,14 @@
       "Coordinate(1748, 3534, 0)",
       "Coordinate(1747, 3534, 0)",
       "Coordinate(1752, 3534, 0)",
-      "Coordinate(1754, 3534, 0)"
+      "Coordinate(1754, 3534, 0)",
+      "Coordinate(2196, 3181, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754960236032,
-    "timesEncountered": 13,
+    "lastSeen": 1754961779977,
+    "timesEncountered": 14,
     "firstSeen": 1754960217916
   },
   "814": {
@@ -22049,6 +22129,21 @@
     "timesEncountered": 61,
     "firstSeen": 1754936771830
   },
+  "890": {
+    "id": 890,
+    "name": "Elven Scout",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(2205, 3156, 0)",
+      "Coordinate(2204, 3155, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 1,
+    "lastSeen": 1754961779595,
+    "timesEncountered": 3,
+    "firstSeen": 1754961778026
+  },
   "11139": {
     "id": 11139,
     "name": "Lord Pandur Hosidius",
@@ -22893,13 +22988,14 @@
       "Coordinate(1285, 3720, 0)",
       "Coordinate(1284, 3719, 0)",
       "Coordinate(1286, 3721, 0)",
-      "Coordinate(1288, 3723, 0)"
+      "Coordinate(1288, 3723, 0)",
+      "Coordinate(2175, 3166, 0)"
     ],
     "standingAnimation": 170,
     "maxHealth": 0,
     "combatLevel": 2,
-    "lastSeen": 1754960823041,
-    "timesEncountered": 2061,
+    "lastSeen": 1754961779970,
+    "timesEncountered": 2063,
     "firstSeen": 1754849432620
   },
   "921": {
@@ -32938,13 +33034,22 @@
       "Coordinate(1670, 3640, 0)",
       "Coordinate(1671, 3640, 0)",
       "Coordinate(1669, 3639, 0)",
-      "Coordinate(1669, 3638, 0)"
+      "Coordinate(1669, 3638, 0)",
+      "Coordinate(2183, 3152, 0)",
+      "Coordinate(2184, 3152, 0)",
+      "Coordinate(2185, 3152, 0)",
+      "Coordinate(2186, 3152, 0)",
+      "Coordinate(2185, 3151, 0)",
+      "Coordinate(2185, 3150, 0)",
+      "Coordinate(2187, 3151, 0)",
+      "Coordinate(2188, 3150, 0)",
+      "Coordinate(2188, 3149, 0)"
     ],
     "standingAnimation": 5388,
     "maxHealth": 0,
     "combatLevel": 1,
-    "lastSeen": 1754960362408,
-    "timesEncountered": 1253,
+    "lastSeen": 1754961779244,
+    "timesEncountered": 1317,
     "firstSeen": 1754849472780
   },
   "1174": {
@@ -33108,13 +33213,32 @@
       "Coordinate(1671, 3638, 0)",
       "Coordinate(1670, 3638, 0)",
       "Coordinate(1669, 3637, 0)",
-      "Coordinate(1666, 3635, 0)"
+      "Coordinate(1666, 3635, 0)",
+      "Coordinate(2184, 3153, 0)",
+      "Coordinate(2185, 3152, 0)",
+      "Coordinate(2185, 3151, 0)",
+      "Coordinate(2186, 3151, 0)",
+      "Coordinate(2187, 3151, 0)",
+      "Coordinate(2188, 3151, 0)",
+      "Coordinate(2190, 3151, 0)",
+      "Coordinate(2189, 3152, 0)",
+      "Coordinate(2188, 3153, 0)",
+      "Coordinate(2188, 3154, 0)",
+      "Coordinate(2188, 3156, 0)",
+      "Coordinate(2189, 3155, 0)",
+      "Coordinate(2189, 3154, 0)",
+      "Coordinate(2188, 3155, 0)",
+      "Coordinate(2189, 3157, 0)",
+      "Coordinate(2190, 3157, 0)",
+      "Coordinate(2189, 3156, 0)",
+      "Coordinate(2187, 3155, 0)",
+      "Coordinate(2186, 3155, 0)"
     ],
     "standingAnimation": 5388,
     "maxHealth": 0,
     "combatLevel": 1,
-    "lastSeen": 1754960363535,
-    "timesEncountered": 1001,
+    "lastSeen": 1754961779600,
+    "timesEncountered": 1065,
     "firstSeen": 1754849471630
   },
   "3223": {
@@ -36155,6 +36279,30 @@
     "timesEncountered": 25,
     "firstSeen": 1754937010243
   },
+  "1327": {
+    "id": 1327,
+    "name": "Tyras guard",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(2154, 3123, 0)",
+      "Coordinate(2154, 3122, 0)",
+      "Coordinate(2154, 3121, 0)",
+      "Coordinate(2162, 3127, 0)",
+      "Coordinate(2143, 3121, 0)",
+      "Coordinate(2153, 3122, 0)",
+      "Coordinate(2161, 3127, 0)",
+      "Coordinate(2160, 3127, 0)",
+      "Coordinate(2155, 3123, 0)",
+      "Coordinate(2155, 3083, 0)",
+      "Coordinate(2152, 3122, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754961724925,
+    "timesEncountered": 29,
+    "firstSeen": 1754961703632
+  },
   "7471": {
     "id": 7471,
     "name": "Captain Magoro",
@@ -36170,6 +36318,22 @@
     "lastSeen": 1754955207026,
     "timesEncountered": 14,
     "firstSeen": 1754955197250
+  },
+  "1329": {
+    "id": 1329,
+    "name": "Trader Crewmember",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(2146, 3122, 0)",
+      "Coordinate(2147, 3122, 0)",
+      "Coordinate(2145, 3122, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 1,
+    "lastSeen": 1754961720616,
+    "timesEncountered": 22,
+    "firstSeen": 1754961704796
   },
   "7473": {
     "id": 7473,
@@ -36262,13 +36426,15 @@
     "spawnAreas": [
       "Coordinate(2674, 3145, 0)",
       "Coordinate(2674, 3144, 0)",
-      "Coordinate(2673, 3147, 0)"
+      "Coordinate(2673, 3147, 0)",
+      "Coordinate(2145, 3121, 0)",
+      "Coordinate(2145, 3081, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 1,
-    "lastSeen": 1754952736218,
-    "timesEncountered": 12,
+    "lastSeen": 1754961720290,
+    "timesEncountered": 35,
     "firstSeen": 1754952727619
   },
   "7476": {
@@ -36914,6 +37080,96 @@
     "timesEncountered": 34,
     "firstSeen": 1754953947727
   },
+  "3434": {
+    "id": 3434,
+    "name": "Tyras guard",
+    "animations": [
+      836,
+      440,
+      430
+    ],
+    "spawnAreas": [
+      "Coordinate(2189, 3151, 0)",
+      "Coordinate(2184, 3144, 0)",
+      "Coordinate(2185, 3146, 0)",
+      "Coordinate(2182, 3145, 0)",
+      "Coordinate(2190, 3150, 0)",
+      "Coordinate(2187, 3152, 0)",
+      "Coordinate(2188, 3148, 0)",
+      "Coordinate(2187, 3151, 0)",
+      "Coordinate(2184, 3146, 0)",
+      "Coordinate(2191, 3150, 0)",
+      "Coordinate(2185, 3148, 0)",
+      "Coordinate(2183, 3146, 0)",
+      "Coordinate(2189, 3148, 0)",
+      "Coordinate(2187, 3149, 0)",
+      "Coordinate(2189, 3149, 0)",
+      "Coordinate(2187, 3153, 0)",
+      "Coordinate(2185, 3145, 0)",
+      "Coordinate(2182, 3148, 0)",
+      "Coordinate(2184, 3145, 0)",
+      "Coordinate(2187, 3148, 0)"
+    ],
+    "standingAnimation": 440,
+    "maxHealth": 0,
+    "combatLevel": 110,
+    "lastSeen": 1754961779604,
+    "timesEncountered": 67,
+    "firstSeen": 1754961729489
+  },
+  "3436": {
+    "id": 3436,
+    "name": "Tyras guard",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(2185, 3144, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754961771252,
+    "timesEncountered": 59,
+    "firstSeen": 1754961727129
+  },
+  "3437": {
+    "id": 3437,
+    "name": "General Hining",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(2186, 3152, 0)",
+      "Coordinate(2190, 3149, 0)",
+      "Coordinate(2185, 3154, 0)",
+      "Coordinate(2186, 3149, 0)",
+      "Coordinate(2190, 3148, 0)",
+      "Coordinate(2185, 3150, 0)",
+      "Coordinate(2188, 3147, 0)",
+      "Coordinate(2189, 3154, 0)",
+      "Coordinate(2188, 3152, 0)",
+      "Coordinate(2186, 3146, 0)",
+      "Coordinate(2189, 3151, 0)",
+      "Coordinate(2185, 3149, 0)",
+      "Coordinate(2190, 3150, 0)",
+      "Coordinate(2187, 3152, 0)",
+      "Coordinate(2187, 3151, 0)",
+      "Coordinate(2186, 3150, 0)",
+      "Coordinate(2189, 3148, 0)",
+      "Coordinate(2186, 3154, 0)",
+      "Coordinate(2188, 3153, 0)",
+      "Coordinate(2187, 3147, 0)",
+      "Coordinate(2186, 3147, 0)",
+      "Coordinate(2190, 3151, 0)",
+      "Coordinate(2186, 3151, 0)",
+      "Coordinate(2189, 3152, 0)",
+      "Coordinate(2187, 3153, 0)",
+      "Coordinate(2187, 3148, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754961773508,
+    "timesEncountered": 56,
+    "firstSeen": 1754961731797
+  },
   "1390": {
     "id": 1390,
     "name": "Queen Ellamaria",
@@ -36936,6 +37192,25 @@
     "lastSeen": 1754960212614,
     "timesEncountered": 63,
     "firstSeen": 1754875117551
+  },
+  "3438": {
+    "id": 3438,
+    "name": "Quartermaster",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(2195, 3139, 0)",
+      "Coordinate(2195, 3141, 0)",
+      "Coordinate(2194, 3141, 0)",
+      "Coordinate(2194, 3140, 0)",
+      "Coordinate(2193, 3140, 0)",
+      "Coordinate(2193, 3139, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754961769050,
+    "timesEncountered": 57,
+    "firstSeen": 1754961726364
   },
   "1400": {
     "id": 1400,
@@ -37919,13 +38194,14 @@
       "Coordinate(1674, 3623, 0)",
       "Coordinate(1673, 3622, 0)",
       "Coordinate(1673, 3621, 0)",
-      "Coordinate(1750, 3501, 0)"
+      "Coordinate(1750, 3501, 0)",
+      "Coordinate(1755, 3514, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754961030612,
-    "timesEncountered": 390,
+    "lastSeen": 1754961427443,
+    "timesEncountered": 391,
     "firstSeen": 1754921299925
   },
   "1417": {
@@ -38522,13 +38798,15 @@
       "Coordinate(1301, 3761, 0)",
       "Coordinate(1304, 3763, 0)",
       "Coordinate(1305, 3763, 0)",
-      "Coordinate(1304, 3764, 0)"
+      "Coordinate(1304, 3764, 0)",
+      "Coordinate(1739, 3506, 0)",
+      "Coordinate(2202, 3167, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754960956225,
-    "timesEncountered": 790,
+    "lastSeen": 1754961779973,
+    "timesEncountered": 792,
     "firstSeen": 1754921432357
   },
   "5514": {
@@ -40618,6 +40896,20 @@
     "lastSeen": 1754960188740,
     "timesEncountered": 816,
     "firstSeen": 1754874525940
+  },
+  "1616": {
+    "id": 1616,
+    "name": "High Priestess Zul-Harcinqa",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(2192, 3055, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754961688365,
+    "timesEncountered": 25,
+    "firstSeen": 1754961423742
   },
   "3664": {
     "id": 3664,
@@ -43297,13 +43589,18 @@
       "Coordinate(2086, 3928, 0)",
       "Coordinate(2083, 3928, 0)",
       "Coordinate(2081, 3928, 0)",
-      "Coordinate(2085, 3929, 0)"
+      "Coordinate(2085, 3929, 0)",
+      "Coordinate(2086, 3929, 0)",
+      "Coordinate(2080, 3928, 0)",
+      "Coordinate(2084, 3930, 0)",
+      "Coordinate(2084, 3929, 0)",
+      "Coordinate(2082, 3929, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754960172981,
-    "timesEncountered": 104,
+    "lastSeen": 1754961477865,
+    "timesEncountered": 156,
     "firstSeen": 1754946725206
   },
   "12028": {
@@ -43457,8 +43754,8 @@
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754961064503,
-    "timesEncountered": 186,
+    "lastSeen": 1754961477862,
+    "timesEncountered": 264,
     "firstSeen": 1754946720281
   },
   "1793": {
@@ -43559,13 +43856,24 @@
       "Coordinate(2085, 3919, 0)",
       "Coordinate(2083, 3919, 0)",
       "Coordinate(2086, 3916, 0)",
-      "Coordinate(2084, 3915, 0)"
+      "Coordinate(2084, 3915, 0)",
+      "Coordinate(2086, 3918, 0)",
+      "Coordinate(2087, 3917, 0)",
+      "Coordinate(2089, 3914, 0)",
+      "Coordinate(2090, 3916, 0)",
+      "Coordinate(2090, 3915, 0)",
+      "Coordinate(2090, 3913, 0)",
+      "Coordinate(2090, 3912, 0)",
+      "Coordinate(2090, 3911, 0)",
+      "Coordinate(2088, 3913, 0)",
+      "Coordinate(2085, 3912, 0)",
+      "Coordinate(2085, 3910, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754960172978,
-    "timesEncountered": 114,
+    "lastSeen": 1754961473209,
+    "timesEncountered": 182,
     "firstSeen": 1754946727559
   },
   "1794": {
@@ -43633,13 +43941,17 @@
       "Coordinate(2106, 3909, 0)",
       "Coordinate(2106, 3908, 0)",
       "Coordinate(2105, 3906, 0)",
-      "Coordinate(2106, 3907, 0)"
+      "Coordinate(2106, 3907, 0)",
+      "Coordinate(2102, 3910, 0)",
+      "Coordinate(2104, 3910, 0)",
+      "Coordinate(2105, 3910, 0)",
+      "Coordinate(2106, 3910, 0)"
     ],
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754961064507,
-    "timesEncountered": 190,
+    "lastSeen": 1754961477526,
+    "timesEncountered": 268,
     "firstSeen": 1754946720286
   },
   "1795": {
@@ -43678,8 +43990,8 @@
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754961064495,
-    "timesEncountered": 214,
+    "lastSeen": 1754961477528,
+    "timesEncountered": 292,
     "firstSeen": 1754946720274
   },
   "1796": {
@@ -43903,13 +44215,17 @@
       "Coordinate(2094, 3921, 0)",
       "Coordinate(2106, 3915, 0)",
       "Coordinate(2106, 3916, 0)",
-      "Coordinate(2100, 3923, 0)"
+      "Coordinate(2100, 3923, 0)",
+      "Coordinate(2095, 3917, 0)",
+      "Coordinate(2102, 3915, 0)",
+      "Coordinate(2103, 3915, 0)",
+      "Coordinate(2104, 3915, 0)"
     ],
     "standingAnimation": 4371,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754961064498,
-    "timesEncountered": 250,
+    "lastSeen": 1754961477867,
+    "timesEncountered": 328,
     "firstSeen": 1754946720277
   },
   "7947": {
@@ -44001,8 +44317,8 @@
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754960173002,
-    "timesEncountered": 99,
+    "lastSeen": 1754961475902,
+    "timesEncountered": 106,
     "firstSeen": 1754946730239
   },
   "5905": {
@@ -46091,6 +46407,20 @@
     "timesEncountered": 23,
     "firstSeen": 1754877195610
   },
+  "8029": {
+    "id": 8029,
+    "name": "Vorki",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(1747, 3531, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754961427435,
+    "timesEncountered": 1,
+    "firstSeen": 1754961427439
+  },
   "8038": {
     "id": 8038,
     "name": "Ellen",
@@ -47140,8 +47470,8 @@
     "standingAnimation": -1,
     "maxHealth": 0,
     "combatLevel": 0,
-    "lastSeen": 1754961064505,
-    "timesEncountered": 211,
+    "lastSeen": 1754961477870,
+    "timesEncountered": 289,
     "firstSeen": 1754946720294
   },
   "4080": {
@@ -47172,6 +47502,24 @@
     "timesEncountered": 9,
     "firstSeen": 1754953967096
   },
+  "2034": {
+    "id": 2034,
+    "name": "Zul-Urgish",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(2198, 3054, 0)",
+      "Coordinate(2199, 3055, 0)",
+      "Coordinate(2200, 3055, 0)",
+      "Coordinate(2200, 3054, 0)",
+      "Coordinate(2200, 3056, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754961686884,
+    "timesEncountered": 28,
+    "firstSeen": 1754961423730
+  },
   "4082": {
     "id": 4082,
     "name": "Fishing spot",
@@ -47185,6 +47533,35 @@
     "lastSeen": 1754953976320,
     "timesEncountered": 7,
     "firstSeen": 1754953971729
+  },
+  "2035": {
+    "id": 2035,
+    "name": "Zul-Cheray",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(2204, 3050, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754961685464,
+    "timesEncountered": 26,
+    "firstSeen": 1754961423709
+  },
+  "2036": {
+    "id": 2036,
+    "name": "Zul-Gutusolly",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(2201, 3048, 0)",
+      "Coordinate(2200, 3048, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754961686105,
+    "timesEncountered": 27,
+    "firstSeen": 1754961423714
   },
   "8180": {
     "id": 8180,
@@ -47208,6 +47585,22 @@
     "timesEncountered": 72,
     "firstSeen": 1754954595366
   },
+  "2037": {
+    "id": 2037,
+    "name": "Sacrifice",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(2210, 3056, 0)",
+      "Coordinate(2209, 3057, 0)",
+      "Coordinate(2209, 3056, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754961683772,
+    "timesEncountered": 24,
+    "firstSeen": 1754961423723
+  },
   "8181": {
     "id": 8181,
     "name": "Jonathan",
@@ -47228,6 +47621,146 @@
     "timesEncountered": 80,
     "firstSeen": 1754955742311
   },
+  "2038": {
+    "id": 2038,
+    "name": "Zul-Onan",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(2189, 3069, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754961689975,
+    "timesEncountered": 26,
+    "firstSeen": 1754961423739
+  },
+  "2039": {
+    "id": 2039,
+    "name": "Zul-Aniel",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(2193, 3059, 0)",
+      "Coordinate(2194, 3059, 0)",
+      "Coordinate(2194, 3058, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754961688361,
+    "timesEncountered": 25,
+    "firstSeen": 1754961423754
+  },
+  "2040": {
+    "id": 2040,
+    "name": "Zul-Areth",
+    "animations": [],
+    "spawnAreas": [
+      "Coordinate(2197, 3060, 0)",
+      "Coordinate(2197, 3061, 0)",
+      "Coordinate(2196, 3061, 0)",
+      "Coordinate(2198, 3060, 0)"
+    ],
+    "standingAnimation": -1,
+    "maxHealth": 0,
+    "combatLevel": 0,
+    "lastSeen": 1754961686874,
+    "timesEncountered": 24,
+    "firstSeen": 1754961423735
+  },
+  "2042": {
+    "id": 2042,
+    "name": "Zulrah",
+    "animations": [
+      5072,
+      5808,
+      5073,
+      5804,
+      5069,
+      5071
+    ],
+    "spawnAreas": [
+      "Coordinate(13794, 13537, 0)",
+      "Coordinate(13804, 13535, 0)",
+      "Coordinate(13784, 13535, 0)"
+    ],
+    "standingAnimation": 5071,
+    "maxHealth": 0,
+    "combatLevel": 725,
+    "lastSeen": 1754961670682,
+    "timesEncountered": 111,
+    "firstSeen": 1754961492540
+  },
+  "2043": {
+    "id": 2043,
+    "name": "Zulrah",
+    "animations": [
+      5072,
+      5808,
+      5073,
+      5806,
+      5807
+    ],
+    "spawnAreas": [
+      "Coordinate(13794, 13537, 0)"
+    ],
+    "standingAnimation": 5073,
+    "maxHealth": 0,
+    "combatLevel": 725,
+    "lastSeen": 1754961664264,
+    "timesEncountered": 53,
+    "firstSeen": 1754961508901
+  },
+  "2044": {
+    "id": 2044,
+    "name": "Zulrah",
+    "animations": [
+      5072,
+      5073,
+      5069
+    ],
+    "spawnAreas": [
+      "Coordinate(13794, 13537, 0)",
+      "Coordinate(13794, 13526, 0)"
+    ],
+    "standingAnimation": 5073,
+    "maxHealth": 0,
+    "combatLevel": 725,
+    "lastSeen": 1754961622446,
+    "timesEncountered": 76,
+    "firstSeen": 1754961522063
+  },
+  "2045": {
+    "id": 2045,
+    "name": "Snakeling",
+    "animations": [
+      2408,
+      2413,
+      1741
+    ],
+    "spawnAreas": [
+      "Coordinate(13792, 13535, 0)",
+      "Coordinate(13791, 13540, 0)",
+      "Coordinate(13792, 13541, 0)",
+      "Coordinate(13791, 13537, 0)",
+      "Coordinate(13790, 13538, 0)",
+      "Coordinate(13791, 13539, 0)",
+      "Coordinate(13792, 13536, 0)",
+      "Coordinate(13801, 13542, 0)",
+      "Coordinate(13790, 13539, 0)",
+      "Coordinate(13792, 13540, 0)",
+      "Coordinate(13792, 13542, 0)",
+      "Coordinate(13791, 13538, 0)",
+      "Coordinate(13792, 13539, 0)",
+      "Coordinate(13792, 13537, 0)"
+    ],
+    "standingAnimation": 2413,
+    "maxHealth": 0,
+    "combatLevel": 90,
+    "lastSeen": 1754961628601,
+    "timesEncountered": 64,
+    "firstSeen": 1754961546608
+  },
   "8189": {
     "id": 8189,
     "name": "Grave digger",
@@ -47241,5 +47774,29 @@
     "lastSeen": 1754954517481,
     "timesEncountered": 24,
     "firstSeen": 1754954500146
+  },
+  "2046": {
+    "id": 2046,
+    "name": "Snakeling",
+    "animations": [
+      2408,
+      2413,
+      1741
+    ],
+    "spawnAreas": [
+      "Coordinate(13791, 13534, 0)",
+      "Coordinate(13801, 13539, 0)",
+      "Coordinate(13794, 13533, 0)",
+      "Coordinate(13791, 13540, 0)",
+      "Coordinate(13802, 13539, 0)",
+      "Coordinate(13791, 13535, 0)",
+      "Coordinate(13791, 13536, 0)"
+    ],
+    "standingAnimation": 2413,
+    "maxHealth": 0,
+    "combatLevel": 90,
+    "lastSeen": 1754961630464,
+    "timesEncountered": 66,
+    "firstSeen": 1754961542864
   }
 }
